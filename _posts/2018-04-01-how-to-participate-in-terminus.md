@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "如何参与端点星计划"
+title:  "如何协作参与端点星计划"
 date:   2018-04-01
 categories: sticky
 tags: 参与
