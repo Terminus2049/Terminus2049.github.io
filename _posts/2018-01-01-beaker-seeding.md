@@ -18,7 +18,7 @@ description: 成为一个节点，参与有时候很简单。
 下载 Beaker 浏览器（<https://beakerbrowser.com/docs/install/>），打开
 
 ```
-dat://16bebc62787e183495d0377594b5a4f8115a7fc25b94de9d92df5b7b180d082c/
+dat://06af728074ec85d9d024ae4f052bbf7a1cbf1f18068c798f666e26cdedcc1042/
 ```
 
 到这里就可以正常访问了。但是希望您能帮助更多的人访问。打开之后，你会在地址栏右边看到一个带有数字的符号，点击之后，会出现这个选项：
@@ -39,7 +39,7 @@ letsencrypt:
   agreeTos: true
 sites:
   mydatsite.com: # replace this key with your server’s hostname，可以不管
-    url: dat://16bebc62787e183495d0377594b5a4f8115a7fc25b94de9d92df5b7b180d082c/
+    url: dat://06af728074ec85d9d024ae4f052bbf7a1cbf1f18068c798f666e26cdedcc1042/
 ```
 
 然后安装依赖
