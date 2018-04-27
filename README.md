@@ -9,11 +9,11 @@
 
 ### 文章版权
 
-[_posts](https://github.com/Info-cn/Terminus/tree/master/_posts) 文件夹内的文章版权归原作者所有，本站只是防止微信、微博等平台删贴，出于善意原则。如果侵犯了您的权益，请提交 [issue](https://github.com/Info-cn/Terminus/issues)，我们将在第一时间予以删除。
+[_posts](https://github.com/Terminus2049/Terminus2049.github.io/tree/master/_posts) 文件夹内的文章版权归原作者所有，本站只是防止微信、微博等平台删贴，出于善意原则。如果侵犯了您的权益，请提交 [issue](https://github.com/Terminus2049/Terminus2049.github.io/issues)，我们将在第一时间予以删除。
 
 ---
 
-# 如何协作参与[端点星计划](https://info-cn.github.io/Terminus)
+# 如何协作参与[端点星计划](https://terminus2049.github.io/)
 
 ## 端点星计划是什么
 
@@ -50,7 +50,7 @@ Terminus 端点星计划，是在 GitHub 开放平台搭建的一个站点，用
 
 1. 注册并登录 [GitHub](https://github.com/) 帐号
 
-2. 访问 [端点星计划](https://github.com/Info-cn/Terminus) GitHub页面，点击进入 [_posts](https://github.com/Info-cn/Terminus/tree/master/_posts) 文件夹。
+2. 访问 [端点星计划](https://github.com/Terminus2049/Terminus2049.github.io) GitHub页面，点击进入 [_posts](https://github.com/Terminus2049/Terminus2049.github.io/tree/master/_posts) 文件夹。
 
 3. 创建备份文章的 markdown 文档，有两种方式
 
