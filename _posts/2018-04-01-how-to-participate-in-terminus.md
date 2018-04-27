@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "如何协作参与端点星计划"
+title:  "如何参与端点星计划"
 date:   2018-04-01
 categories: sticky
 tags: 参与
@@ -33,16 +33,17 @@ Terminus 端点星计划，是在 GitHub 开放平台搭建的一个站点，用
 ### 需要的基本技能
 
 - 熟悉使用 Markdown 基本标记语法
-- 熟悉 Markdown 文本编辑器（可选项）：这两个工具适用于对 Markdown 语法不熟悉的协作者
+- 熟悉 Markdown 文本编辑器（可选项）：这些工具适用于对 Markdown 语法不熟悉的协作者
   - [MarkdownPad](http://markdownpad.com/)
   - [Atom](https://atom.io/)
+  - html 转成 markdown：浏览器插件「[简悦](http://ksria.com/simpread/)」
 - 熟悉 GitHub 平台使用（可选项）
 
 ### 协作步骤说明
 
 1. 注册并登录 [GitHub](https://github.com/) 帐号
 
-2. 访问 [端点星计划](https://github.com/Info-cn/Terminus) GitHub页面，点击进入 [_posts](https://github.com/Info-cn/Terminus/tree/master/_posts) 文件夹。
+2. 访问 [端点星计划](https://github.com/Terminus2049/Terminus2049.github.io) GitHub页面，点击进入 [_posts](https://github.com/Info-cn/Terminus/tree/master/_posts) 文件夹。
 
 3. 创建备份文章的 markdown 文档，有两种方式
 
