@@ -1,19 +1,11 @@
-## Terminus
-离银河中心最远的行星。
-
-## 版权
-
-### 建站程序版权
-
-本站建站程序来源于 [kiko-now](https://github.com/AWEEKJ/kiko-now)。博客模板文件版权继承并遵循 MIT License。字体选择方案参考了 <http://cosx.org/>。
-
-### 文章版权
-
-[_posts](https://github.com/Info-cn/Terminus/tree/master/_posts) 文件夹内的文章版权归原作者所有，本站只是防止微信、微博等平台删贴，出于善意原则。如果侵犯了您的权益，请提交 [issue](https://github.com/Info-cn/Terminus/issues)，我们将在第一时间予以删除。
-
 ---
-
-# 如何协作参与[端点星计划](https://info-cn.github.io/Terminus)
+layout: post
+title:  "如何协作参与端点星计划"
+date:   2018-04-01
+categories: sticky
+tags: 参与
+description: Terminus 端点星计划，是在 GitHub 开放平台搭建的一个站点，以去中心化的方式备份微信、微博等平台被删文章。
+---
 
 ## 端点星计划是什么
 
@@ -54,7 +46,7 @@ Terminus 端点星计划，是在 GitHub 开放平台搭建的一个站点，用
 
 3. 创建备份文章的 markdown 文档，有两种方式
 
-    ![step3](https://i.loli.net/2018/04/25/5ae042b3121f6.png)
+    ![step3](https://i.imgur.com/JSTxYEj.png)
 
     - 第一种：点击 **Create new file** 在线编辑
 
@@ -75,7 +67,7 @@ Terminus 端点星计划，是在 GitHub 开放平台搭建的一个站点，用
 
     在下方填写 commit changes ，简单说明提交的修改是什么
 
-    ![step4](https://i.loli.net/2018/04/25/5ae042b2ee852.png)
+    ![step4](https://i.imgur.com/Ed5t4w3.png)
 
 5. 创建 **pull request** 请求
 
@@ -87,17 +79,17 @@ Terminus 端点星计划，是在 GitHub 开放平台搭建的一个站点，用
 
     点击 **Create pull request** 之后，在新的页面 **open a pull request** 编辑请求说明
 
-    ![step6-1](https://i.loli.net/2018/04/25/5ae042b332a94.png)
+    ![step6-1](https://i.imgur.com/Etexqop.png)
 
     检查分支与 master 是否存在冲突，若无冲突，则可以合并，经创建者同意，可把分支新增内容加入到 master 主项目中。
 
     如下图，显示 **This branch has no conflicts with the base branch**，则表示提交的分支请求和 master 无冲突。
 
-    ![step6-2](https://i.loli.net/2018/04/25/5ae042b347263.png)
+    ![step6-2](https://i.imgur.com/ochMeTR.png)
 
 7. 合并请求同意后，会显示紫色
 
-    ![step7](https://i.loli.net/2018/04/25/5ae042b348c70.png)
+    ![step7](https://i.imgur.com/MFRdDLK.png)
 
 ### 协作的文档编辑格式要求
 
@@ -130,4 +122,3 @@ Terminus 端点星计划，是在 GitHub 开放平台搭建的一个站点，用
 3. 正文小标题，使用 h2 或 h3。
 
 4. 图片使用 [https://sm.ms](https://sm.ms) 或 [https://imgur.com](https://imgur.com) 图床平台生成链接。
-5. html 转成 markdown : 浏览器插件「[简悦](http://ksria.com/simpread/)」

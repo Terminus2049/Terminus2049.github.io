@@ -1,0 +1,20 @@
+<head>
+  <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+
+  {% include meta.html %}
+
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/atom.xml" />
+  <link rel="shortcut icon" href="{{ site.baseurl }}/favicon.ico">
+
+  <link rel="stylesheet" href="{{site.baseurl}}/assets/css/share.min.css">
+  <script src="{{site.baseurl}}/assets/js/social-share.min.js"></script>
+
+  <script src="{{site.baseurl}}/assets/js/pangu.min.js"></script>
+
+  <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+</head>

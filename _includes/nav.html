@@ -1,0 +1,24 @@
+<div class="wrapper-masthead">
+  <div class="container" style="padding-left: 15px;padding-right: 15px;">
+    <header class="masthead clearfix">
+      {% if site.avatar %}
+        <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+      {% endif %}
+
+      <div class="site-info">
+        <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+        <p class="site-description">{{ site.description }}</p>
+      </div>
+
+      <nav>
+        {% for nav in site.navigation %}
+        {% if nav.url contains 'http://' or nav.url contains 'https://' %}
+        <a href="{{ nav.url }}">{{ nav.name }}</a>
+        {% else %}
+        <a href="{{ site.baseurl }}{{ nav.url }}" style="margin-left: 5px;margin-right: 5px;">{{ nav.name }}</a>
+        {% endif %}
+        {% endfor %}
+      </nav>
+    </header>
+  </div>
+</div>

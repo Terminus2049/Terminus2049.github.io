@@ -1,0 +1,52 @@
+---
+layout: default
+---
+
+<article class="post">
+  <h1>{{ page.title }}</h1>
+
+  <div clsss="meta">
+    <span class="date">
+      {{ page.date | date: "%Y-%m-%d" }}
+    </span>
+
+    <ul class="tag">
+      {% for tag in page.tags %}
+      <li>
+        <a href="{{ site.url }}{{ site.baseurl }}/tags#{{ tag }}">
+          {{ tag }}
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+
+  <div class="entry">
+    {{ content }}
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+	<p>评论请前往 <a href="http://bbs.lirencollege.xyz/">2049BBS</a></p>
+	<div class="social-share" data-disabled="linkedin,diandian,tencent,facebook"></div>
+  <font size=2px>网站已被墙，请直接分享源码 <a href="https://github.com/Info-cn/Terminus/tree/master/_posts">_posts</a> 或下载 <a href="https://beakerbrowser.com/docs/install/">Beaker 浏览器</a> 访问 <a href="dat://d390b864e937859e742a061e7f00936eb27436e2a045054916d5f16269c22cc8/">dat://d390b864e937859e742a061e7f00936eb27436e2a045054916d5f16269c22cc8/</a>。</font>
+
+  <script> pangu.spacingPage(); </script>
+
+  <div class="pagination">
+    {% if page.previous.url %}
+      <span class="prev" >
+          <a href="{{ site.baseurl }}{{ page.previous.url }}">
+            上一篇：{{ page.previous.title }}
+          </a>
+      </span>
+    {% endif %}
+    {% if page.next.url %}
+      <span class="next" >
+          <a href="{{ site.baseurl }}{{ page.next.url }}">
+            下一篇：{{ page.next.title }}
+          </a>
+      </span>
+    {% endif %}
+  </div>
+
+</article>

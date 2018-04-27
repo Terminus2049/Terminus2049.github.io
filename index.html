@@ -1,0 +1,116 @@
+---
+layout: default
+---
+
+{% if site.posts.size == 0 %}
+  <h2>No post found</h2>
+{% endif %}
+
+{% if paginator.page == 1 %}
+<article class="post">
+  <h2>
+    <a href="sticky/2018/04/01/how-to-participate-in-terminus.html">【置顶】如何协作参与端点星计划</a>
+  </h2>
+
+  <div clsss="meta">
+    <span class="date">
+      2018-04-01
+    </span>
+
+    <ul class="tag">
+
+      <li>
+        <a href="{{ site.baseurl }}/tags#参与">
+          参与
+        </a>
+      </li>
+
+    </ul>
+  </div>
+
+  <div class="entry">
+    Terminus 端点星计划，是在 GitHub 开放平台搭建的一个站点，以去中心化的方式备份微信、微博等平台被删文章。
+  </div>
+
+  <a href="sticky/2018/04/01/how-to-participate-in-terminus.html" class="read-more">Read More</a>
+</article>
+
+<article class="post">
+  <h2>
+    <a href="sticky/2018/04/23/beaker-seeding.html">【置顶】如何访问 Terminus 以及帮助其他人访问</a>
+  </h2>
+
+  <div clsss="meta">
+    <span class="date">
+      2018-04-01
+    </span>
+
+    <ul class="tag">
+
+      <li>
+        <a href="{{ site.baseurl }}/tags#参与">
+          参与
+        </a>
+      </li>
+
+    </ul>
+  </div>
+
+  <div class="entry">
+    成为一个节点，参与有时候很简单。
+  </div>
+
+  <a href="sticky/2018/04/23/beaker-seeding.html" class="read-more">Read More</a>
+</article>
+{% endif%}
+
+<div class="posts">
+  {% for post in paginator.posts %}
+    <article class="post">
+      <h2>
+        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      </h2>
+
+      <div clsss="meta">
+        <span class="date">
+          {{ post.date | date: "%Y-%m-%d" }}
+        </span>
+
+        <ul class="tag">
+          {% for tag in post.tags %}
+          <li>
+            <a href="{{ site.url }}{{ site.baseurl }}/tags#{{ tag }}">
+              {{ tag }}
+            </a>
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+
+      <div class="entry">
+        {{ post.description }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
+
+<script> pangu.spacingPage(); </script>
+
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <span class="prev">
+      <a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="prev">
+        前一页
+      </a>
+    </span>
+  {% endif %}
+  {% if paginator.next_page %}
+    <span class="next">
+      <a href="{{ site.baseurl}}{{ paginator.next_page_path }}" class="next">
+        后一页
+      </a>
+    </span>
+  {% endif %}
+</div>

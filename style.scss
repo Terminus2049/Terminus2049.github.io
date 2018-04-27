@@ -1,0 +1,600 @@
+---
+---
+
+//
+// IMPORTS
+//
+
+@import "reset";
+@import "open-color";
+@import "variables";
+// Syntax highlighting @import is at the bottom of this file
+
+/**************/
+/* BASE RULES */
+/**************/
+
+html {
+  font-size: $base-font-size;
+}
+
+body {
+  font-family: $base-font;
+  color: $base-color;
+  line-height: 1.6;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 740px;
+  padding: 0 10px;
+  width: 100%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1.7;
+  margin: 1em 0 15px;
+  padding: 0;
+
+  @include mobile {
+    line-height: 1.4;
+  }
+}
+
+h1, h2, h3, h4, h5 {
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 30px;
+  a {
+    color: inherit;
+  }
+}
+
+h2 {
+  font-size: 24px;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+h4 {
+  font-size: 20px;
+}
+
+h6 {
+  color: $base-lighten-color;
+}
+
+p {
+  color: $text-color;
+  margin: 15px 0px;
+  text-align: justify;
+}
+
+a {
+  color: $link-color;
+  text-decoration: none;
+  cursor: pointer;
+  &:hover, &:active {
+    color: $link-color;
+  }
+}
+
+em, i {
+  font-style: italic;
+}
+
+strong, b {
+  font-weight: bold;
+}
+
+sub {
+  vertical-align: sub;
+  font-size: smaller;
+}
+
+sup {
+  vertical-align: super;
+  font-size: smaller;
+}
+
+hr {
+  border: 0;
+  border-top: 2px solid $divider-color;
+  margin: 1.5em auto;
+}
+
+// Yeun's list style
+// https://gist.github.com/yeun/d824fc7b04b756508f4b0143535cec30
+
+ol, ul {
+  > li {
+    &:before {
+      position: absolute;
+      width: $li-bullets-width;
+      margin-left: -$li-bullets-width;
+      display: inline-block;
+      box-sizing: border-box;
+      text-align: right;
+    }
+  }
+}
+
+ul {
+  > li:before {
+    content: "\2022";
+    padding-right: $ul-bullets-right-space;
+    font-family: $ul-bullets-font;
+    font-size: $ul-bullets-font-size;
+    line-height: $ul-bullets-font-line-height;
+  }
+}
+
+ol {
+  counter-reset: section;
+
+  > li:before {
+    counter-increment: section;
+    content: counter(section) ".";
+    padding-right: $ol-bullets-right-space;
+    font-family: $ol-bullets-font;
+    font-size: $ol-bullets-font-size;
+    line-height: $ol-bullets-font-line-height;
+  }
+}
+
+ol, ul {
+  > li {
+    margin: 0 auto $li-bottom-space $li-bullets-width;
+    line-height: $li-line-height;
+
+    > ol,
+    > ul {
+      margin-top: $li-bottom-space;
+    }
+  }
+}
+
+li {
+  > ol,
+  > ul {
+    > li {
+      font-size: ($li-child-size-ratio * 1em);
+      margin: 0 auto ($li-bottom-space * $li-child-size-ratio) ($li-bullets-width * $li-child-size-ratio);
+    }
+  }
+}
+
+// Definition list
+dt {
+  float: left;
+  width: $dt-width;
+  overflow: auto;
+  clear: left;
+  text-align: right;
+  white-space: nowrap;
+  font-weight: bold;
+  margin-bottom: $li-bottom-space;
+
+  @include mobile {
+    width: 120px;
+  }
+}
+
+dd {
+  margin-left: $dd-position;
+  margin-bottom: $li-bottom-space;
+
+  @include mobile {
+    margin-left: 140px;
+  }
+}
+
+// Table
+table {
+  margin-bottom: 1rem;
+  width: 100%;
+  border: 1px solid $table-border-color;
+  border-collapse: collapse;
+}
+
+td, th {
+  padding: .25rem .5rem;
+  border: 1px solid $table-border-color;
+}
+
+tbody tr:nth-child(odd) td,
+tbody tr:nth-child(odd) th {
+  background-color: $table-background-color;
+}
+
+// Blockquote
+blockquote {
+  font-weight: 300;
+  padding: 0 0 0 1.4rem;
+  margin: 0 2.0rem 1rem 0rem;
+  border-left: .2em solid $blockquote-border-color;
+  text-align: justify;
+
+  p {
+    font-family: 'Palatino Linotype','Book Antiqua',Palatino,STKaiti,KaiTi,'楷体',SimKai,DFKai-SB,NSimSun,serif;
+  }
+
+  p:last-child {
+    margin-bottom: 0;
+  }
+}
+
+// Footnote
+a.footnote {
+  &,
+  .post p &,
+  .post ol &,
+  .post ul & {
+    margin: 0 3px;
+    padding: 0 2px;
+    font-size: $small-font-size;
+    text-align: center;
+    border: 1px solid $footnote-link-border-color;
+    border-radius: 2px;
+    -webkit-text-stroke: 0.25px;
+    -webkit-transition: 0.2s ease-out all;
+    text-decoration: none;
+
+    &:hover {
+      background: $footnote-link-background-over-color;
+    }
+  }
+}
+
+.footnotes {
+  border-top: 1px solid $divider-color;
+  font-size: $small-font-size;
+}
+
+// Image
+img {
+  display: block;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 5px;
+}
+
+// Fixes images in popup boxes from Google Translate
+.gmnoprint img {
+  max-width: none;
+}
+
+// Specify the color of the selection
+::-moz-selection {
+  color: $selection-color;
+  background: $selection-background-color;
+}
+::selection {
+  color: $selection-color;
+  background: $selection-background-color;
+}
+
+// Nicolas Gallagher's micro clearfix hack
+// http://nicolasgallagher.com/micro-clearfix-hack/
+.clearfix:before,
+.clearfix:after {
+    content: " ";
+    display: table;
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+// Alignment
+.center {
+  text-align: center;
+
+  &-image {
+    margin: 0 auto;
+    display: block;
+  }
+}
+
+.right {
+  text-align: right
+}
+
+/*********************/
+/* LAYOUT / SECTIONS */
+/*********************/
+
+//
+// .masthead
+//
+
+.wrapper-masthead {
+  margin-bottom: 50px;
+}
+
+.masthead {
+  padding: 20px 0;
+  border-bottom: 1px solid $lightGray;
+
+  @include mobile {
+    text-align: center;
+  }
+}
+
+.site-avatar {
+  float: left;
+  width: 70px;
+  height: 70px;
+  margin-right: 15px;
+
+  @include mobile {
+    float: none;
+    display: block;
+    margin: 0 auto;
+  }
+
+  img {
+    border-radius: 5px;
+  }
+}
+
+.site-info {
+  float: left;
+
+  @include mobile {
+    float: none;
+    display: block;
+    margin: 0 auto;
+  }
+}
+
+.site-name {
+  margin: 0;
+  color: $darkGray;
+  cursor: pointer;
+  font-family: $helveticaNeue;
+  font-weight: 300;
+  font-size: 28px;
+  letter-spacing: 1px;
+}
+
+.site-description {
+  margin: -5px 0 0 0;
+  color: $gray;
+  font-size: 16px;
+
+  @include mobile {
+    margin: 3px 0;
+    text-align: center;
+  }
+}
+
+nav {
+  float: right;
+  margin-top: 23px; // @TODO: Vertically middle align
+  font-family: $helveticaNeue;
+  font-size: 18px;
+
+  @include mobile {
+    float: none;
+    margin-top: 9px;
+    display: block;
+    font-size: 16px;
+  }
+
+  a {
+    margin-left: 20px;
+    color: $darkGray;
+    text-align: right;
+    font-weight: 300;
+    letter-spacing: 1px;
+
+    @include mobile {
+      margin: 0 10px;
+      color: $blue;
+    }
+  }
+}
+
+// Posts
+.posts > .post {
+  padding-bottom: 2em;
+  border-bottom: 1px solid $divider-color;
+}
+
+.posts > .post:last-child {
+  padding-bottom: 1em;
+  border-bottom: none;
+}
+
+.post {
+  h1 {
+    margin-bottom: .1em;
+  }
+
+  .date {
+    font-weight: 300;
+    font-size: $small-font-size;
+    color: $base-lighten-color;
+    margin-right: 3px;
+  }
+
+  .tag {
+    display: inline;
+    font-weight: 300;
+    font-size: $small-font-size;
+
+    li:before {
+      content: '';
+    }
+
+    li {
+      display: inline;
+      margin: 0;
+
+      > a {
+        margin: 3px 3px 3px 0;
+        padding: .5px 4px;
+        color: $tag-index-label-color;
+        background-color: $tag-index-label-background-color;
+        border-radius: 3px;
+      }
+    }
+  }
+
+  .comments {
+    margin-top: 10px;
+  }
+
+  .read-more {
+    font-size: 15px;
+  }
+}
+
+.pagination {
+  font-weight: 300;
+  padding: 2em 0;
+  width: 100%;
+  display: inline-block;
+
+  @include mobile {
+    font-size: $small-font-size;
+  }
+
+  > .prev {
+    float: left;
+    width: 50%;
+    a {
+      color: $pagination-color;
+      &:hover, &:focus {
+        color: $pagination-over-color;
+      }
+    }
+  }
+
+  > .next {
+    float: right;
+    text-align: right;
+    width: 50%;
+    a {
+      color: $pagination-color;
+      &:hover, &:focus {
+        color: $pagination-over-color;
+      }
+    }
+  }
+}
+
+// Archive
+.archive {
+  a {
+    color: $base-color;
+  }
+  time {
+    color: $base-lighten-color;
+    font-size: $small-font-size;
+    font-weight: 300;
+    margin-left: 3px;
+  }
+}
+
+// Tags
+.tags > .label {
+  > li:before {
+    content: "";
+  }
+
+  > li {
+    margin: 0;
+    font-size: $small-font-size;
+    font-weight: 300;
+    display: inline;
+
+    > a {
+      display: inline-block;
+      margin: 1px;
+      color: $tag-index-label-color;
+      background-color: $tag-index-label-background-color;
+      border-radius: 3px;
+
+      span {
+        float: left;
+        padding: .5px 5px;
+
+        &.count {
+          background-color: $tag-index-count-background-color;
+          border-radius: 0 3px 3px 0;
+        }
+      }
+    }
+  }
+}
+
+.tags > .tag {
+  a {
+    color: $base-color;
+  }
+  time {
+    color: $base-lighten-color;
+    font-size: $small-font-size;
+    font-weight: 300;
+    margin-left: 3px;
+  }
+}
+
+// Footer
+.wrapper-footer {
+  margin-top: 50px;
+  border-top: 1px solid $footer-border-color;
+  border-bottom: 1px solid $footer-border-color;
+  background-color: $footer-background-color;
+}
+
+footer {
+  padding: 20px 0;
+  text-align: center;
+
+  p {
+    font-size: $small-font-size;
+    text-align: center;
+  }
+
+  .svg-icon {
+    display: block;
+    font-size: 0;
+    list-style: none;
+    margin: 0;
+    text-align: center;
+
+    li {
+      display: inline-block;
+      margin: 10px;
+    }
+
+    svg {
+      height: 30px;
+      width: 30px;
+    }
+
+    em {
+      font-size: 18px;
+      line-height: 1.5;
+      margin-top: -.75em;
+      position: absolute;
+      text-align: center;
+      top: 50%;
+      right: 0;
+      bottom: 0;
+      left: 0;
+    }
+  }
+}
+
+// Settled on moving the import of syntax highlighting to the bottom of the CSS
+// ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
+@import "highlights";

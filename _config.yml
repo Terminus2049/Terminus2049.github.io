@@ -1,0 +1,117 @@
+#
+# This file contains configuration flags to customize your site
+#
+
+# Name of your site (displayed in the header)
+name: 端点星
+
+# Short bio or description (displayed in the header)
+description: 离银河中心最远的行星
+
+#
+# Flags below are optional
+#
+
+# URL of your avatar or profile pic (you could use your GitHub profile pic)
+# avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+
+
+# Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
+# and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
+# it from the list(Delete '- name: ' and 'url: ', too!)
+navigation:
+  - name: 首页
+    url: /
+  - name: 标签
+    url: /tags.html
+  - name: 存档
+    url: /archive.html
+  - name: 分类
+    url: /categories.html
+  - name: 订阅
+    url: /atom.xml
+  - name: 关于
+    url: /about.html
+
+# Pagination
+paginate: 15
+
+# Includes an icon in the footer for each username you enter
+footer-links:
+  behance: # https://www.behance.net/<username>
+  dribbble:
+  email:
+  facebook:
+  flickr:
+  github: Info-cn/Terminus
+  googleplus: # anything in your profile username that comes after plus.google.com/
+  instagram:
+  linkedin:
+  pinterest:
+  rss: atom.xml # just type anything here for a working RSS icon
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  tumblr: # https://<username>.tumblr.com
+  twitter: 2049bbs
+  youtube: # channel/<your_long_string> or user/<user-name>
+
+# Text under the icons in footer
+footer-text: © 2017 <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a>
+
+# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
+# Used for Sitemap.xml and your RSS feed
+url: https://Terminus2049.github.io
+
+# If you're hosting your site at a Project repository on GitHub pages
+# (http://yourusername.github.io/repository-name)
+# and NOT your User repository (http://yourusername.github.io)
+# then add in the baseurl here, like this: "/repository-name"
+baseurl: # /Terminus
+
+#-------------------------------------------------------------------------------
+# p2p-Terminus 设置方法
+#
+## 注释掉 baseurl 后的 /Terminus，成为 # /Terminus
+## 安装 jeklly，本地编译
+## 下载并打开 Beaker 浏览器（https://beakerbrowser.com/docs/install/ ）
+## 在 Beaker 内 Creaat new, from folder，将 _site 文件夹作为网站 folder
+## dat.json 为网站信息
+
+#
+# !! You don't need to change any of the configuration flags below !!
+#
+
+# permalink: /:title/
+# paginate_path: /page:num/
+
+# The release of Jekyll Now that you're using
+version: v1.2.0
+
+# Jekyll 3 now only supports Kramdown for Markdown
+kramdown:
+  # Use GitHub flavored markdown, including triple backtick fenced code blocks
+  input: GFM
+  # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    # Use existing pygments syntax highlighting css
+    css_class: 'highlight'
+
+# Set the Sass partials directory, as we're using @imports
+sass:
+  style: :compressed #:expanded # You might prefer to minify using :compressed
+
+# Use the following plug-ins
+plugins:
+  # - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  # - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Exclude these files from your production _site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
