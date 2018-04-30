@@ -16,7 +16,7 @@ description: 中山大学某人类学教授田野调查中性骚扰学生
 
 文章来自微信公号 ~~[向湾硚](https://mp.weixin.qq.com/s/wOENC5mGtmEz_8SYo_UR-Q)~~
 
-作者的Zine专栏：[田野里的“叫兽” \| 向湾硚湾湾呀的Zine专栏](https://zine.la/article/a81efbfbe9a04bb49e36447334590470/)
+作者的Zine专栏：~~[田野里的“叫兽” \| 向湾硚湾湾呀的Zine专栏](https://zine.la/article/a81efbfbe9a04bb49e36447334590470/)~~
 
 作者：向湾硚湾湾呀
 
