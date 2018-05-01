@@ -1,6 +1,12 @@
 ## Terminus
 离银河中心最远的行星。
 
+## 端点星计划是什么
+
+Terminus 端点星计划，是在 GitHub 开放平台搭建的一个站点，用于备份微信、微博等平台被删文章。防火墙外也有像 [中国数字时代](https://chinadigitaltimes.net/chinese/)、[GreatFire](https://zh.greatfire.org/)、[自由微博](https://freeweibo.com/)、[自由微信](https://freewechat.com/)、[墙与书](https://wallsandbooks.wordpress.com) 这样的网站做文章备份，但不便于墙内网络传播。
+
+同时，我们运营一个无需手机号和邮箱即可注册的论坛 2049bbs（<https://2049bbs.xyz/>），欢迎前去自由讨论。
+
 ## 版权
 
 ### 建站程序版权
@@ -10,10 +16,6 @@
 ### 文章版权
 
 [_posts](https://github.com/Terminus2049/Terminus2049.github.io/tree/master/_posts) 文件夹内的文章版权归原作者所有，本站只是防止微信、微博等平台删贴，出于善意原则。如果侵犯了您的权益，请提交 [issue](https://github.com/Terminus2049/Terminus2049.github.io/issues)，我们将在第一时间予以删除。
-
-## 端点星计划是什么
-
-Terminus 端点星计划，是在 GitHub 开放平台搭建的一个站点，用于备份微信、微博等平台被删文章。防火墙外也有像 [中国数字时代](https://chinadigitaltimes.net/chinese/)、[GreatFire](https://zh.greatfire.org/)、[自由微博](https://freeweibo.com/)、[自由微信](https://freewechat.com/)、[墙与书](https://wallsandbooks.wordpress.com) 这样的网站做文章备份，但不便于墙内网络传播。
 
 ## 如何参与端点星计划
 
