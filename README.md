@@ -30,9 +30,13 @@ Terminus 端点星计划，是在 GitHub 开放平台搭建的一个站点，用
 方法：
 1. 注册 GitHub
 2. fork <https://github.com/Terminus2049/Terminus2049.github.io>
-3. 修改 fork 后的仓库，将 `_config.yml` 中第 68 行 `baseurl: # /Terminus` 中的 “#” 去掉
+3. 在 setting 中打开 GitHub Page，source 选择“master branch”
 4. 在 setting 中将项目名称改为 Terminus
-5. 在 setting 中打开 GitHub Page，source 选择“master branch”
+5. 修改 fork 后的仓库，将 `_config.yml` 中第 68 行 `baseurl: # /Terminus` 中的 “#” 去掉
+
+有效镜像：
+
+* <https://tsai1993.github.io/Terminus/>
 
 ## 致谢
 
