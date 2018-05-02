@@ -7,7 +7,7 @@ tags: 工人状况调查
 description: 2015年底，北大某学生社团曾组织过关于校内工人的调研，2018年，十余个院系的五十余名北大同学自发成立2018年北大工人情况访谈小组，以前述报告聚焦的内容为基础，进行了为期十天的集中调研，写下这篇调研报告。
 ---
 
-原文链接：~~[五一|不应被遗忘的群体——2018年北大校园工人访谈）](https://mp.weixin.qq.com/s/6FkAJcdtOlVgYTqbEKVM9g)~~
+原文链接：~~[五一\|不应被遗忘的群体——2018年北大校园工人访谈）](https://mp.weixin.qq.com/s/6FkAJcdtOlVgYTqbEKVM9g)~~
 
 本文来自微信公众号 historicize 的[二次复活](https://mp.weixin.qq.com/s/jRLpEfxzz2AWFJOJEr_WFg)
 
