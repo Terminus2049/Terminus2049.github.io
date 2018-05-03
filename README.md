@@ -34,6 +34,8 @@ Terminus 端点星计划，是在 GitHub 开放平台搭建的一个站点，用
 4. 在 setting 中将项目名称改为 Terminus
 5. 修改 fork 后的仓库，将 `_config.yml` 中第 68 行 `baseurl: # /Terminus` 中的 “#” 去掉
 
+然后就可以通过 `https://<username>.github.io/Terminus` 访问。
+
 有效镜像：
 
 * <https://tsai1993.github.io/Terminus/>（更新最快）
