@@ -9,7 +9,7 @@ description: 2015年底，北大某学生社团曾组织过关于校内工人的
 
 原文链接：~~[五一\|不应被遗忘的群体——2018年北大校园工人访谈）](https://mp.weixin.qq.com/s/6FkAJcdtOlVgYTqbEKVM9g)~~
 
-本文来自微信公众号 historicize 的[二次复活](https://mp.weixin.qq.com/s/jRLpEfxzz2AWFJOJEr_WFg)
+本文来自微信公众号 historicize 的 ~~[二次复活](https://mp.weixin.qq.com/s/jRLpEfxzz2AWFJOJEr_WFg)~~
 
 ---
 
