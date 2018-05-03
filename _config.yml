@@ -19,8 +19,7 @@ description: 离银河中心最远的行星
 # Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
 # it from the list(Delete '- name: ' and 'url: ', too!)
-navigation:
-  - name: 首页
+navigation:  - name: 首页
     url: /
   - name: 标签
     url: /tags.html
