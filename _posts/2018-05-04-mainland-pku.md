@@ -14,9 +14,6 @@ description: 北大學生追尋「沈陽事件」真相，申請信息公開反�
 
 ---
 
-
-# 北大 vs 北大：一場反性侵行動如何變成真相攻防戰？
-
 本文来自端传媒，[原文](https://theinitium.com/article/20180504-mainland-pku/)为会员付费阅读。
 
 「端传媒」是华语世界里很不错的独立媒体，喜欢、支持端传媒的读者，可以[购买会员](https://theinitium.com/subscription/offers/?utm_medium=paywall)阅读更多深度报道、参与讨论。
