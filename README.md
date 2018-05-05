@@ -38,7 +38,8 @@ Terminus 端点星计划，是在 GitHub 开放平台搭建的一个站点，用
 
 有效镜像：
 
-* <https://tsai1993.github.io/Terminus/>（更新最快）
+* <https://cmmei.github.io/Terminus/>
+* <https://tsai1993.github.io/Terminus/>
 * <https://ichiroarisugawa.github.io/Terminus/>
 
 ## 致谢
