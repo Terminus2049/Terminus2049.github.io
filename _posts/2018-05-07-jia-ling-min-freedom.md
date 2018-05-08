@@ -16,7 +16,7 @@ description: 今日，拆迁普法者贾灵敏离开新乡监狱，经历四年�
 
 文章来自 ~~[NGOCN](https://mp.weixin.qq.com/s/vMVLto2gO9wfC_EQvUfooQ)~~，首发于2015年5月
 
-作者：作者 | 牛犇犇
+作者：作者 \| 牛犇犇
 
 ---
 
