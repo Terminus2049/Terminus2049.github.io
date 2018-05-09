@@ -2,7 +2,7 @@
 
 layout: post
 
-title: 鸿鹄、质疑，与一段往事 （获郑也夫老师授权在此发出）
+title: 鸿鹄、质疑，与一段往事
 
 categories: Archive
 
@@ -14,7 +14,8 @@ description: 看过林建华校长的道歉信，我同很多网友一样，认�
 
 ---
 
-原文来自微信 ~~[于华看社会](https://mp.weixin.qq.com/s/CCGsaLEeKhLl-9jAtYL-zg%23%23)~~
+
+原文来自微信公众号于华看社会，公号作者已获郑也夫老师授权~~[鸿鹄、质疑，与一段往事 （获郑也夫老师授权在此发出）](https://mp.weixin.qq.com/s/CCGsaLEeKhLl-9jAtYL-zg%23%23)~~
 
 ---
 
