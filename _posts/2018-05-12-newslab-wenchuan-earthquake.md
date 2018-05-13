@@ -1,20 +1,20 @@
 ---
 
-layout:post
+layout: post
 
-title:复盘：汶川地震后，媒体和政府是如何过招的
+title: 复盘：汶川地震后，媒体和政府是如何过招的
 
-categories:Archive
+categories: Archive
 
-date:2018-05-1210:01
+date: 2018-05-12 10:01
 
-tags:汶川地震
+tags: 汶川地震
 
-description:双方上演了一场没有脚本的即兴对手戏。
+description: 双方上演了一场没有脚本的即兴对手戏。
 
 ---
 
-原文来自微信~~[新闻实验室](https://mp.weixin.qq.com/s/k2WiVTmeZ6dno7SX2i8Lig)~~，微信回复「[地震](https://mp.weixin.qq.com/s/G6Rrc8Lu3jEKLFVxLlggjg)」可看到。
+原文来自微信 ~~[新闻实验室](https://mp.weixin.qq.com/s/k2WiVTmeZ6dno7SX2i8Lig)~~，微信回复「[地震](https://mp.weixin.qq.com/s/G6Rrc8Lu3jEKLFVxLlggjg)」可看到。
 
 作者：方可成
 
@@ -105,261 +105,23 @@ _∙∙∙∙_
 
 >【本文节选自2018年3月1日发送的新闻实验室会员通讯第159期。阅读更多类似文章，欢迎[点此加入会员计划](http://mp.weixin.qq.com/s?__biz=MjM5NDEwNjQ0MQ==&mid=2654280568&idx=3&sn=cd0c35cfcb8b3d359b0d8bc5be3461c8&chksm=bd4d665e8a3aef48b1ac3a59766119a1ccb80a75292b859474ebed9375fefb46b67e9312031a&scene=21#wechat_redirect)。往期目录请见：<https://zhuanlan.zhihu.com/p/36349253>】
 
-</section>
-
-</section>
-
-</section>
-
-<sectionclass=""style="box-sizing:border-box;"powered-by="xiumi.us">
-
-<sectionclass=""style="box-sizing:border-box;">
-
-<sectionclass=""style="display:inline-block;width:100%;vertical-align:top;border-width:0px;border-radius:0px;border-style:none;border-color:rgb(29,29,29);background-color:rgb(255,255,255);box-sizing:border-box;">
-
-<sectionclass=""style="box-sizing:border-box;"powered-by="xiumi.us">
-
-<sectionclass=""style="box-sizing:border-box;">
-
-<sectionclass=""style="display:inline-block;width:100%;vertical-align:top;box-shadow:rgba(40,186,172,0.7)0px0px0pxinset;border-width:0px;box-sizing:border-box;">
-
-<sectionclass=""style="box-sizing:border-box;"powered-by="xiumi.us">
-
-<sectionclass=""style="margin:8px0%;box-sizing:border-box;">
-
-<sectionclass=""style="display:inline-block;width:100%;border-width:1px;border-style:solid;border-color:rgba(0,0,0,0);padding:16px0px;background-color:rgba(40,186,172,0.7);border-radius:6px;box-shadow:rgba(40,186,172,0.7)0px0px4px;box-sizing:border-box;">
-
-<sectionclass=""style="box-sizing:border-box;"powered-by="xiumi.us">
-
-<sectionclass=""style="text-align:left;box-sizing:border-box;">
-
-<sectionclass=""style="display:inline-block;vertical-align:middle;width:20%;border-width:0px;box-sizing:border-box;">
-
-<sectionclass=""style="box-sizing:border-box;"powered-by="xiumi.us">
-
-<sectionclass=""style="text-align:center;margin-top:10px;margin-bottom:10px;font-size:10px;box-sizing:border-box;">
-
-<sectionclass=""style="width:3em;height:3em;padding:5px;display:inline-block;vertical-align:bottom;border-radius:100%;background-color:rgb(29,29,29);box-shadow:transparent0px0px10px;box-sizing:border-box;">
-
-<sectionclass=""style="width:100%;height:100%;border-radius:100%;background-image:url(&quot;https://mmbiz.qpic.cn/mmbiz_png/f0Q5BK7m2CyR63oufrpL0sT3HxqibfPdDqXnJV7xuyibUZ3448atxddWmey86lRKPQkBZ7sjQxZOaELV2RRsWP3Q/640?wx_fmt=png&quot;);background-position:centercenter;background-repeat:no-repeat;background-size:cover;border-style:none;border-width:0px;border-color:rgb(62,62,62);box-sizing:border-box;">
-
-<sectionclass=""style="width:100%;height:100%;overflow:hidden;box-sizing:border-box;">![](https://i.imgur.com/yJ2Y3YC.png)</section>
-
-</section>
-
-</section>
-
-</section>
-
-</section>
-
-</section>
-
-<sectionclass=""style="display:inline-block;vertical-align:middle;width:80%;box-sizing:border-box;">
-
-<sectionclass=""style="box-sizing:border-box;"powered-by="xiumi.us">
-
-<sectionclass=""style="box-sizing:border-box;">
-
-<sectionclass=""style="display:inline-block;width:100%;vertical-align:top;box-shadow:rgb(0,0,0)0px0px0px;padding:0px6px;box-sizing:border-box;">
-
-<sectionclass=""style="box-sizing:border-box;"powered-by="xiumi.us">
-
-<sectionclass=""style="box-sizing:border-box;">
-
-<sectionclass=""style="color:rgb(29,29,29);font-size:15px;box-sizing:border-box;">
-
 **记者和政府之间其实不是针锋相对的对立关系。**
 
-</section>
-
-</section>
-
-</section>
-
-</section>
-
-</section>
-
-</section>
-
-</section>
-
-</section>
-
-</section>
-
-</section>
-
-</section>
-
-</section>
-
-</section>
-
-</section>
-
-</section>
-
-</section>
-
-</section>
-
-</section>
-
-</section>
-
-</section>
-
-</section>
-
-<sectionclass=""style="box-sizing:border-box;"powered-by="xiumi.us">
-
-<sectionclass=""style="margin:20px0%0px;text-align:center;box-sizing:border-box;">
-
-<sectionclass=""style="display:inline-block;width:95%;border-width:1px;border-style:solid;border-color:rgb(241,241,241);padding:10px;background-color:rgba(234,234,234,0.35);box-shadow:rgb(0,0,0)0px0px0px;box-sizing:border-box;">
-
-<sectionclass=""style="box-sizing:border-box;"powered-by="xiumi.us">
-
-<sectionclass=""style="box-sizing:border-box;">
-
-<sectionclass=""style="display:inline-block;vertical-align:middle;width:30%;padding:0px0px10px;box-sizing:border-box;">
-
-<sectionclass=""style="box-sizing:border-box;"powered-by="xiumi.us">
-
-<sectionclass=""style="margin:10px0%0px;box-sizing:border-box;">
-
-<sectionclass=""style="width:100%;border-bottom:5pxsolidrgb(241,241,241);box-sizing:border-box;">
-
-<sectionclass=""style="display:inline-block;vertical-align:bottom;margin-bottom:-5px;border-bottom:5pxsolidrgba(40,186,172,0.7);font-size:15px;padding:5px;line-height:1em;color:rgb(29,29,29);letter-spacing:0px;box-sizing:border-box;">
-
-**赞赏通道**
-
-</section>
-
-</section>
-
-</section>
-
-</section>
-
-</section>
-
-</section>
-
-</section>
-
-<sectionclass=""style="box-sizing:border-box;"powered-by="xiumi.us">
-
-<sectionclass=""style="font-size:32px;margin:10px0%;box-sizing:border-box;">
-
-<sectionclass=""style="box-sizing:border-box;display:inline-block;vertical-align:bottom;margin:auto;width:3em;height:3em;border-radius:100%;background-position:centercenter;background-repeat:no-repeat;background-size:cover;border-width:3px;border-style:solid;border-color:rgba(40,186,172,0.7);background-image:url(&quot;https://mmbiz.qpic.cn/mmbiz_jpg/icVl7FlsXvFOib8u0Qjz2RFaLV273z7mgHzasOic5OOvJUTbMH3NCpUibJQj530TEpaZx5GCl34ho1w21Bl5Tg1F0g/640?wx_fmt=jpeg&quot;);">
-
-<sectionclass=""style="width:100%;height:100%;overflow:hidden;box-sizing:border-box;"><imgsrc="https://i.imgur.com/Xy4F1TV.jpg"></section>
-
-
-</section>
-
-</section>
-
-</section>
-
-</section>
-
-</section>
-
-</section>
-
-<sectionclass=""style="box-sizing:border-box;"powered-by="xiumi.us">
-
-<sectionclass=""style="text-align:center;box-sizing:border-box;">
-
-<sectionclass=""style="display:inline-block;width:95%;vertical-align:top;box-sizing:border-box;">
-
-<sectionclass=""style="box-sizing:border-box;"powered-by="xiumi.us">
-
-<sectionclass=""style="text-align:left;box-sizing:border-box;">
-
-<sectionclass=""style="display:inline-block;vertical-align:middle;width:20%;box-sizing:border-box;">
-
-<sectionclass=""style="box-sizing:border-box;"powered-by="xiumi.us">
-
-<sectionclass=""style="box-sizing:border-box;">
-
-<sectionclass=""style="display:inline-block;width:100%;vertical-align:top;box-sizing:border-box;">
-
-<sectionclass=""style="box-sizing:border-box;"powered-by="xiumi.us">
-
-<sectionclass=""style="box-sizing:border-box;">
-
-<sectionclass=""style="font-size:15px;color:rgb(29,29,29);box-sizing:border-box;">
+![](https://i.imgur.com/Xy4F1TV.jpg)
 
 **相关阅读**
 
-</section>
+![](https://i.imgur.com/71p1YeT.jpg)
 
-</section>
+**1** [**江歌案中的媒体表现**](http://mp.weixin.qq.com/s?__biz=MjM5NDEwNjQ0MQ==&mid=2654280359&idx=1&sn=382781bed02e3d63c580685f377b6536&chksm=bd4d67818a3aee97f3efbe7d8097e25b52a1ab9fdfa07f0a3c554bf5db6ea58087b99e912347&scene=21#wechat_redirect)
 
-</section>
+**2** 汤兰兰案中的媒体表现（被删除，后台回复 汤兰兰 提取）
 
-</section>
+**3** [凉山格斗孤儿事件中的媒体表现](http://mp.weixin.qq.com/s?__biz=MjM5NDEwNjQ0MQ==&mid=2654280213&idx=1&sn=94c16a31ad9e37daf1709110cf142483&chksm=bd4d67338a3aee2523c2f49ba6d7b8ded1d5b82a4a30d6aee13da66b506580c94c7b481ac673&scene=21#wechat_redirect)
 
-</section>
+**4** [中国的 “后真相” 时刻](http://mp.weixin.qq.com/s?__biz=MjM5NDEwNjQ0MQ==&mid=2654280372&idx=1&sn=9ae264b4afd2aad1cacf59a9fcb6f2d3&chksm=bd4d67928a3aee84024f539094b8d8d5f99d8e5d26558662ac32d66ff5d83bf695b871bac273&scene=21#wechat_redirect)
 
-</section>
-
-</section>
-
-</section>
-
-</section>
-
-<sectionclass=""style="box-sizing:border-box;"powered-by="xiumi.us">
-
-<sectionclass=""style="margin-top:10px;margin-bottom:10px;box-sizing:border-box;">
-
-<sectionclass=""style="max-width:100%;vertical-align:middle;display:inline-block;width:100%;overflow:hidden!important;box-sizing:border-box;">
-
-![](https://i.imgur.com/71p1YeT.jpg)</section>
-
-</section>
-
-</section>
-
-<sectionclass=""style="box-sizing:border-box;"powered-by="xiumi.us">
-
-<sectionclass=""style="margin:10px0%;box-sizing:border-box;">
-
-<sectionclass=""style="display:inline-block;width:100%;vertical-align:top;box-sizing:border-box;">
-
-<sectionclass=""style="box-sizing:border-box;"powered-by="xiumi.us">
-
-<sectionclass=""style="box-sizing:border-box;">
-
-<sectionclass=""style="display:inline-block;vertical-align:middle;width:80%;box-sizing:border-box;">
-
-<sectionclass=""style="box-sizing:border-box;"powered-by="xiumi.us">
-
-<sectionclass=""style="box-sizing:border-box;">
-
-<sectionclass=""style="display:inline-block;width:100%;vertical-align:top;box-sizing:border-box;">
-
-<sectionclass=""style="box-sizing:border-box;"powered-by="xiumi.us">
-
-<sectionclass=""style="box-sizing:border-box;">
-
-<sectionclass=""style="text-align:left;font-size:15px;color:rgb(29,29,29);line-height:1.2;box-sizing:border-box;">
-
-**1**[**江歌案中的媒体表现**](http://mp.weixin.qq.com/s?__biz=MjM5NDEwNjQ0MQ==&mid=2654280359&idx=1&sn=382781bed02e3d63c580685f377b6536&chksm=bd4d67818a3aee97f3efbe7d8097e25b52a1ab9fdfa07f0a3c554bf5db6ea58087b99e912347&scene=21#wechat_redirect)
-
-**2**汤兰兰案中的媒体表现（被删除，后台回复汤兰兰提取）
-
-**3**[凉山格斗孤儿事件中的媒体表现](http://mp.weixin.qq.com/s?__biz=MjM5NDEwNjQ0MQ==&mid=2654280213&idx=1&sn=94c16a31ad9e37daf1709110cf142483&chksm=bd4d67338a3aee2523c2f49ba6d7b8ded1d5b82a4a30d6aee13da66b506580c94c7b481ac673&scene=21#wechat_redirect)
-
-**4**[中国的“后真相”时刻](http://mp.weixin.qq.com/s?__biz=MjM5NDEwNjQ0MQ==&mid=2654280372&idx=1&sn=9ae264b4afd2aad1cacf59a9fcb6f2d3&chksm=bd4d67928a3aee84024f539094b8d8d5f99d8e5d26558662ac32d66ff5d83bf695b871bac273&scene=21#wechat_redirect)
-
-**5**[刺死辱母者案中的媒体表现](http://mp.weixin.qq.com/s?__biz=MjM5NDEwNjQ0MQ==&mid=2654279898&idx=1&sn=663ab6746720a296137099f60f887451&chksm=bd4d65fc8a3aeceaed2b48567e81ebf1125f0e4fadbd86dd520aabe4627bcee216e6e99437ed&scene=21#wechat_redirect)
-
+**5** [刺死辱母者案中的媒体表现](http://mp.weixin.qq.com/s?__biz=MjM5NDEwNjQ0MQ==&mid=2654279898&idx=1&sn=663ab6746720a296137099f60f887451&chksm=bd4d65fc8a3aeceaed2b48567e81ebf1125f0e4fadbd86dd520aabe4627bcee216e6e99437ed&scene=21#wechat_redirect)
 
 [![](https://i.imgur.com/wgcp2JV.jpg)](http://mp.weixin.qq.com/s?__biz=MjM5NDEwNjQ0MQ==&mid=2654280568&idx=3&sn=cd0c35cfcb8b3d359b0d8bc5be3461c8&chksm=bd4d665e8a3aef48b1ac3a59766119a1ccb80a75292b859474ebed9375fefb46b67e9312031a&scene=21#wechat_redirect)
 
