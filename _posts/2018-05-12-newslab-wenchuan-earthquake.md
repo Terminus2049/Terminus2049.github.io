@@ -24,11 +24,10 @@ description: 双方上演了一场没有脚本的即兴对手戏。
 
 ![](https://i.imgur.com/ipIVPa2.jpg)
 
+>【按】本文节选自2018年3月1日发送的新闻实验室会员通讯第159期。阅读更多类似文章，欢迎[点此加入会员计划](http://mp.weixin.qq.com/s?__biz=MjM5NDEwNjQ0MQ==&mid=2654280568&idx=3&sn=cd0c35cfcb8b3d359b0d8bc5be3461c8&chksm=bd4d665e8a3aef48b1ac3a59766119a1ccb80a75292b859474ebed9375fefb46b67e9312031a&scene=21#wechat_redirect)。
+> 
+> 往期目录请见：<https://zhuanlan.zhihu.com/p/36349253>
 
-
->【按】本文节选自2018年3月1日发送的新闻实验室会员通讯第159期。阅读更多类似文章，欢迎[点此加入会员计划](http://mp.weixin.qq.com/s?__biz=MjM5NDEwNjQ0MQ==&mid=2654280568&idx=3&sn=cd0c35cfcb8b3d359b0d8bc5be3461c8&chksm=bd4d665e8a3aef48b1ac3a59766119a1ccb80a75292b859474ebed9375fefb46b67e9312031a&scene=21#wechat_redirect)。往期目录请见：https://zhuanlan.zhihu.com/p/36349253
-
-_∙∙∙∙_
 
 **作者：方可成**
 
@@ -46,7 +45,8 @@ _∙∙∙∙_
 
 《MediaPoliticsinChina:ImprovisingPowerUnderAuthoritarianism》这本书是玛教授基于自己的博士论文修改完成的，由最好的学术出版社剑桥大学出版社出版。
 
-以下，我基于这本书第五章《CriticalJournalists,theParty-stateandtheWenchuanEarthquake》的内容，和大家一起复盘汶川地震之后的中国媒体表现。
+以下，我基于这本书第五章
+《CriticalJournalists,theParty-stateandtheWenchuanEarthquake》的内容，和大家一起复盘汶川地震之后的中国媒体表现。
 
 **二**
 
@@ -106,8 +106,6 @@ _∙∙∙∙_
 >【本文节选自2018年3月1日发送的新闻实验室会员通讯第159期。阅读更多类似文章，欢迎[点此加入会员计划](http://mp.weixin.qq.com/s?__biz=MjM5NDEwNjQ0MQ==&mid=2654280568&idx=3&sn=cd0c35cfcb8b3d359b0d8bc5be3461c8&chksm=bd4d665e8a3aef48b1ac3a59766119a1ccb80a75292b859474ebed9375fefb46b67e9312031a&scene=21#wechat_redirect)。往期目录请见：<https://zhuanlan.zhihu.com/p/36349253>】
 
 **记者和政府之间其实不是针锋相对的对立关系。**
-
-![](https://i.imgur.com/Xy4F1TV.jpg)
 
 **相关阅读**
 
