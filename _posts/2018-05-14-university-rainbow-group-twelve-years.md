@@ -14,7 +14,9 @@ description: 如果不纪录今天，我们将失去明天。
 
 ---
 
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 ~~https://mp.weixin.qq.com/s/7osMh_wcb0eIkoD-FVmsmQ~~
+> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 
+> 
+> 原文地址 ~~https://mp.weixin.qq.com/s/7osMh_wcb0eIkoD-FVmsmQ~~
 
 **墙洞 \| NGOCN**
 
@@ -26,47 +28,11 @@ _2018-05-14_
 
 ![](https://i.imgur.com/phaEOT2.gif)
 
-<section style="max-width:100%;box-sizing: border-box; -moz-box-sizing: border-box; -ms-box-sizing: border-box; word-wrap:break-word;margin: 0px; padding: 0px; ">
-
-<section style="max-width:100%;box-sizing: border-box; -moz-box-sizing: border-box; -ms-box-sizing: border-box; word-wrap:break-word;margin: 0px; padding: 0px; ">
-
-<section style="max-width:100%;box-sizing: border-box; -moz-box-sizing: border-box; -ms-box-sizing: border-box; word-wrap:break-word;margin: 10px 0px; padding: 0px; ">
-
-<section style="max-width:100%;box-sizing: border-box; -moz-box-sizing: border-box; -ms-box-sizing: border-box; word-wrap:break-word;margin: 0px; padding: 8px 0px 0px 8px; ">
-
-<section style="max-width:100%;box-sizing: border-box; -moz-box-sizing: border-box; -ms-box-sizing: border-box; word-wrap:break-word;border-width: 1px; border-style: solid; margin: 0px; padding: 0px 0px 5px; border-color: rgb(192, 200, 209); ">
-
-<section style="background-color: rgb(255, 255, 255); max-width:100%;box-sizing: border-box; -moz-box-sizing: border-box; -ms-box-sizing: border-box; word-wrap:break-word;border-width: 1px; border-style: solid; margin: -8px 5px 0px -5px; padding: 10px; border-color: rgb(192, 200, 209); ">
-
-<section style="max-width:100%;box-sizing: border-box; -moz-box-sizing: border-box; -ms-box-sizing: border-box; word-wrap:break-word;margin: 0px; padding: 0px; ">
-
-<section style="max-width:100%;box-sizing: border-box; -moz-box-sizing: border-box; -ms-box-sizing: border-box; word-wrap:break-word;margin: 0px; padding: 0px; ">
-
-<section style="text-align:center;max-width:100%;box-sizing: border-box; -moz-box-sizing: border-box; -ms-box-sizing: border-box; word-wrap:break-word;margin: 0px; padding: 0px; ">
-
-<section style="text-align:left;max-width:100%;box-sizing: border-box; -moz-box-sizing: border-box; -ms-box-sizing: border-box; word-wrap:break-word;margin: 0px; padding: 0px; ">5月17日是国际不再恐同日，在1990年的这天，世界卫生组织正式将同性恋从疾病名单中剔除。随着517的临近，全国各地都有同志权益倡导活动举行。</section>
-
-<section style="text-align:left;max-width:100%;box-sizing: border-box; -moz-box-sizing: border-box; -ms-box-sizing: border-box; word-wrap:break-word;margin: 0px; padding: 0px; ">昨天在北京798艺术园区，有人发起派送彩虹胸章的活动——彩虹是同志平权的象征符号之一。但据现场目击者透露，该活动随后被园区保安阻拦。</section>
-
-<section style="text-align:left;max-width:100%;box-sizing: border-box; -moz-box-sizing: border-box; -ms-box-sizing: border-box; word-wrap:break-word;margin: 0px; padding: 0px; ">今天，我们与大家分享“彩虹小组”的发展历程，这是一个成立超过十年、推动同志平权的高校小组，每一年小组成员都会发起一场“扬起彩虹旗”的活动。“彩虹小组”的变化也是同志活动空间变迁的缩影。本文原计划在去年517发布，但由于种种原因，今天才面世：</section>
-
-</section>
-
-</section>
-
-</section>
-
-</section>
-
-</section>
-
-</section>
-
-</section>
-
-</section>
-
-</section>
+> 5月17日是国际不再恐同日，在1990年的这天，世界卫生组织正式将同性恋从疾病名单中剔除。随着517的临近，全国各地都有同志权益倡导活动举行。
+>
+> 昨天在北京798艺术园区，有人发起派送彩虹胸章的活动——彩虹是同志平权的象征符号之一。但据现场目击者透露，该活动随后被园区保安阻拦。
+> 
+> 今天，我们与大家分享“彩虹小组”的发展历程，这是一个成立超过十年、推动同志平权的高校小组，每一年小组成员都会发起一场“扬起彩虹旗”的活动。“彩虹小组”的变化也是同志活动空间变迁的缩影。本文原计划在去年517发布，但由于种种原因，今天才面世：
 
 作者 \| momo
 
@@ -289,24 +255,6 @@ Sun还记得那年扬旗的前夜，她一个人将旗子从洗衣店拿回来�
 **“咸鱼打挺”，100种行动（zuo si）方式**
 
 ![](https://i.imgur.com/ElrsuKO.jpg)
-
-<section style="max-width:100%;box-sizing: border-box; -moz-box-sizing: border-box; -ms-box-sizing: border-box; word-wrap:break-word;margin: 0px; padding: 0px; ">
-
-<section style="max-width:100%;box-sizing: border-box; -moz-box-sizing: border-box; -ms-box-sizing: border-box; word-wrap:break-word;margin: 0px; padding: 0px; ">
-
-<section style="text-align:center;max-width:100%;box-sizing: border-box; -moz-box-sizing: border-box; -ms-box-sizing: border-box; word-wrap:break-word;margin: 10px 0px; padding: 0px; ">
-
-<section style="display:inline-block;max-width:100%;box-sizing: border-box; -moz-box-sizing: border-box; -ms-box-sizing: border-box; word-wrap:break-word;margin: 0px; padding: 0px; ">
-
-<section style="border-top-left-radius:20px 20px;border-top-right-radius:20px 20px;border-bottom-right-radius:20px 20px;border-bottom-left-radius:20px 20px;max-width:100%;box-sizing: border-box; -moz-box-sizing: border-box; -ms-box-sizing: border-box; word-wrap:break-word;border-width: 1px; border-style: solid; margin: 0px; padding: 2px 15px; border-color: rgb(82, 155, 32); "><b>关注同志议题，还可以读</b></section>
-
-</section>
-
-</section>
-
-</section>
-
-</section>
 
 [新浪不再针对“同性恋”，我们就胜利了么？](https://archive.is/o/0KM8T/https://mp.weixin.qq.com/s?__biz=MzAwMDc5MDUxNA==&mid=2651124183&idx=1&sn=1329a1ca5ac4125536277ba4041a36b4&scene=21%23wechat_redirect)
 
