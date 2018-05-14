@@ -2,7 +2,7 @@
 
 layout: post
 
-title:
+title: 让彩虹旗在校园飘扬：一个高校同志小组十二年纪实
 
 categories: Archive
 
@@ -23,14 +23,6 @@ _2018-05-14_
 作者 咸鱼打挺
 
 ---
-
-<section style="text-align:left;max-width:100%;box-sizing: border-box; -moz-box-sizing: border-box; -ms-box-sizing: border-box; word-wrap:break-word;margin: 0px; padding: 0px; ">
-
-<section style="text-align:left;max-width:100%;box-sizing: border-box; -moz-box-sizing: border-box; -ms-box-sizing: border-box; word-wrap:break-word;margin: 0px; padding: 0px; ">
-
-<section style="text-align:left;max-width:100%;box-sizing: border-box; -moz-box-sizing: border-box; -ms-box-sizing: border-box; word-wrap:break-word;margin: 0px; padding: 0px; ">
-
-<section style="text-align:justify;max-width:100%;box-sizing: border-box; -moz-box-sizing: border-box; -ms-box-sizing: border-box; word-wrap:break-word;margin: 0px; padding: 0px 8px; ">
 
 ![](https://i.imgur.com/phaEOT2.gif)
 
@@ -76,9 +68,9 @@ _2018-05-14_
 
 </section>
 
-**作者 \| momo**
+作者 \| momo
 
-**编辑 \| 小田、旭仔**
+编辑 \| 小田、旭仔
 
 时间进入5月，天气预报持续显示暴雨、雷电、阴天——彩虹小组的成员们已经为变幻莫测的天气焦虑了将近两周。5月17日是国际不再恐同日，也是彩虹小组一年一度的大日子。**每逢5·17前后，彩虹小组都会举办扬旗活动，在中山大学及其它高校校园扬起一面网球场一般大的巨幅彩虹旗。这一传统，已经延续了十一年之久。**
 
@@ -88,10 +80,8 @@ _2018-05-14_
 
 “一、二、三！同志不敏感，就怕你不敢！”从广东中医药大学到广东工业大学，从阴雨绵绵到云散见日，数十人撑起六色彩虹旗，它在雨后阳光的照射下投射到地面上，映出绚丽夺目的光彩。
 
-<center>
-
 ![](https://i.imgur.com/vjYShxL.jpg)
-*2017，广州某大学扬旗。摄影：阿山</center>*
+*2017，广州某大学扬旗。摄影：阿山*
 
 然而，时间并没有停留在这美好的一刻——
 
@@ -107,10 +97,8 @@ _2018-05-14_
 
 2005年，中大性别教育论坛下设的酷儿读书小组正式成立。**为了创造一个有凝聚力的象征性符号，支持小组成立的老师艾晓明毅然斥资3000元，定制了一面巨大的彩虹旗。2005年的3000元，比当时广东省的月人均收入还要高出三分之一。**“艾老师真是太超前了！大家当时还想，花这么多钱弄这个有意义吗？但后来，彩虹旗就真的成了一个凝聚性的标志。”回忆起这段从前辈口中听回来的历史，中大彩虹小组的创始人Tina依旧忍不住感慨。
 
-<center>
-
 ![](https://i.imgur.com/q5mmIN9.jpg)
-*酷儿读书小组扬起的彩虹旗。图片来源：淡蓝网</center>*
+*酷儿读书小组扬起的彩虹旗。图片来源：淡蓝网*
 
 在酷儿读书小组的基础上，**彩虹社于2006年的秋季学期正式在学校注册成立，成为了中国大陆第一个关注同志议题的高校社团。**以彩虹社为名，关注多元性/别议题的学生们在校园里举办了一系列的活动。
 
@@ -124,10 +112,8 @@ _2018-05-14_
 
 2012年，对于当时已经入学两年的Tina而言，“彩虹社”只是个停留在传说中的神秘组织，从未见过真身。那一年，Tina成为了公益组织同城青少年资源中心（以下简称“同城”）“光合作用”项目第一期的学员，并在机缘巧合下参与到《社会文化与多元性/别》公选课的筹备工作中。
 
-<center>
-
 ![](https://i.imgur.com/WmbPb4G.jpg)
-*社会文化与多元性别公选课。图片由作者提供。</center>*
+*社会文化与多元性别公选课。图片由作者提供。*
 
 **2012年春季学期，在同城的支持下，宋素凤在校内开设了第一期《社会文化与多元性/别》（以下简称为《性/别》课程）公选课。** 这门着眼于“审视我们社会文化对性与性别的建构”的课堂以真人图书馆的形式，每节课邀请不同嘉宾讲述自己的生命故事和行动经验。
 
@@ -139,10 +125,8 @@ _2018-05-14_
 
 那一天，**参与者在教学楼门口大声喊出“彩虹征战，歧视滚蛋”的口号，并在珠江边的广场扬起了那一面标志性的巨幅彩虹旗。** 天气阴沉，还下起了雨，却没有浇熄这群年轻人的激情。
 
-<center>
-
 ![](https://i.imgur.com/QQgf1BV.jpg)
-*2012年的彩虹骑行。图片由作者提供。</center>*
+*2012年的彩虹骑行。图片由作者提供。*
 
 这次行动给了Tina不少信心和勇气。眼看时机逐渐成熟，她对宋素凤说：“我想试着把彩虹小组做起来。”直至今天，Tina仍清楚地记得宋素凤听后眼中放出的光彩。她感动得几乎流泪，说道：**“我一直在等这一天，等这样一个人的出现。”**
 
@@ -220,7 +204,7 @@ Sun还记得那年扬旗的前夜，她一个人将旗子从洗衣店拿回来�
 
 ## 后记
 
-**作者 \| Ice**
+作者 \| Ice
 
 事实上，这篇文章写成于2017年5月上旬，本打算在去年的国际不再恐同日发布，但由于各种不可抗力因素，只得按下不表。
 
@@ -290,31 +274,21 @@ Sun还记得那年扬旗的前夜，她一个人将旗子从洗衣店拿回来�
 
 - 2017.5.17，计划五所高校扬起彩虹旗，并开展LGBT友好商家和日常生活彩虹化活动。但活动中途遇阻，被迫中止。
 
+
 **以上资料整理者均为momo**
 
-
-
-<center>
-
 ![](https://i.imgur.com/c1aTyDL.jpg)
-**扫码关注彩虹小组
-“继续寻光的彩虹君”**</center>
-
-<center>
+<center>扫码关注彩虹小组，“继续寻光的彩虹君”</center>
 
 ![](https://i.imgur.com/foLfwXj.jpg)
-**打赏请扫码**</center>
+<center>打赏请扫码</center>
 
 **本文打赏均用于支持彩虹小组日常运营**
 
 **就算被“晒干”，我也不认命**
 **“咸鱼打挺”，100种行动（zuo si）方式**
 
-<center>
-
 ![](https://i.imgur.com/ElrsuKO.jpg)
-</center>
-
 
 <section style="max-width:100%;box-sizing: border-box; -moz-box-sizing: border-box; -ms-box-sizing: border-box; word-wrap:break-word;margin: 0px; padding: 0px; ">
 
@@ -338,29 +312,15 @@ Sun还记得那年扬旗的前夜，她一个人将旗子从洗衣店拿回来�
 
 [一部在微博会被404的漫画：如果不被看见，歧视就永远都在](https://archive.is/o/0KM8T/https://mp.weixin.qq.com/s?__biz=MzAwMDc5MDUxNA==&mid=2651124168&idx=1&sn=aebfdc5ead78eda491539cfc85067de9&scene=21%23wechat_redirect)
 
-**<center>扫码订阅NGOCN精选邮件
-    看到真实的世界</center>**
-
-<center>
-
 ![](https://i.imgur.com/VCn9xI4.png)
-</center>
-
-<center>
+<center>扫码订阅NGOCN精选邮件，看到真实的世界</center>
 
 ![](https://i.imgur.com/cSb3o3E.jpg)
-</center>
 
 **如非特殊说明，公号文章内容均为NGOCN原创，转载请联系后台**
 
-<center>
-
 ![](https://i.imgur.com/WGCoQeK.gif)
 
-</center>
-
-<center>
-
 ![](https://i.imgur.com/8NwCgvE.png)
-赞赏
-</center>
+<center>赞赏</center>
+
