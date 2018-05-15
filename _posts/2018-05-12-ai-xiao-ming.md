@@ -17,7 +17,7 @@ description: 一审再审，暂且通过。关于拍照者和这张获奖照片�
 
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码
 > 
-> 原文地址 https://www.meipian.cn/1b1zuhys 
+> 原文地址 ~~https://www.meipian.cn/1b1zuhys~~
 > 
 作者：艾晓明
 
