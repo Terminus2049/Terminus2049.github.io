@@ -36,10 +36,10 @@ Terminus 端点星计划，是在 GitHub 开放平台搭建的一个站点，用
 
 然后就可以通过 `https://<username>.github.io/Terminus` 访问。
 
-有效镜像：
+#### 有效镜像
 
-* <https://cmmei.github.io/Terminus/>
-* <https://tsai1993.github.io/Terminus/>
+* <https://cmmei.github.io/Terminus/> （同步较快，推荐）
+* <https://tsai1993.github.io/Terminus/> （同步较快，推荐）
 * <https://ichiroarisugawa.github.io/Terminus/>
 
 ## 致谢
@@ -52,9 +52,13 @@ Terminus 端点星计划，是在 GitHub 开放平台搭建的一个站点，用
 - [GitHub Corners](http://tholman.com/github-corners/)
 - [pangu.js](https://github.com/vinta/pangu.js)
 
+### 服务
+
+免费可靠的图床 [sm.ms](https://sm.ms/)
+
 ### 贡献者
 
-@cmmei @Tsai1993 @b614103080 @IchiroArisugawa @DarioMeeker
+@cmmei @TerminusBot @Tsai1993 @b614103080 @IchiroArisugawa @annfish @Kurocoppla @DarioMeeker @billy3321
 
 特别致谢 [IchiroArisugawa](https://github.com/IchiroArisugawa) 设计的好看 [LOGO](https://github.com/Terminus2049/Terminus2049.github.io/tree/master/images)。
 
