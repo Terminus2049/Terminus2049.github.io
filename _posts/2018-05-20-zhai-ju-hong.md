@@ -4,7 +4,7 @@ layout: post
 
 title: 中南财经政法大学教授翟桔红被撤职
 
-categories: Arhive
+categories: Archive
 
 date: 2018-05-20 22:00
 

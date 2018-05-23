@@ -4,7 +4,7 @@ layout: post
 
 title: 周保松：面對高牆，如何成為一枚有力量、有尊嚴的雞蛋？
 
-categories: Arhive
+categories: Archive
 
 date: 2018-05-21 13:00
 
@@ -15,11 +15,11 @@ description: 高牆並非鐵板一塊，作爲雞蛋的我們也並非無能爲�
 ---
 
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码，原文地址来自[端传媒](https://theinitium.com/article/20180523-opinion-zhoubaosong-egg-with-dignity/)
-> 
+>
 > 「端传媒」是华语世界里很不错的独立媒体，喜欢、支持端传媒的读者，可以[购买会员](https://theinitium.com/subscription/offers/?utm_medium=paywall)阅读更多深度报道、参与讨论。
-> 
+>
 > 文章最初发布于微信 ~~「[微思客](https://mp.weixin.qq.com/s/uPaOVCG6TU63eG4_H2zo-A)」~~
-> 
+>
 > 微思客网站[原文](https://wethinker.com/2018/05/21/18860/)
 
 ---
