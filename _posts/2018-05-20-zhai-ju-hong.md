@@ -18,6 +18,11 @@ description: “4月25日下午，翟桔红在行为管理学本科1701班讲授
 
 ---
 
+注：翟桔红的著作《违宪审查与民主制的平衡》，已被豆瓣移除。
+
+<https://book.douban.com/subject/20501883/>
+
+
 ![01.jpg](https://i.loli.net/2018/05/23/5b053a8757655.jpg)
 
 ![02.jpg](https://i.loli.net/2018/05/23/5b053a875644e.jpg)
