@@ -8,7 +8,7 @@ categories: Archive
 
 date: 2018-05-22 13:41
 
-tags: 404
+tags: "404"
 
 description: 网络舆论走向其实已经被删除机制改写了。
 
