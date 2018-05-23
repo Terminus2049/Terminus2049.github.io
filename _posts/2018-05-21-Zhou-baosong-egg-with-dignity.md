@@ -10,6 +10,8 @@ date: 2018-05-21 13:00
 
 tags: 周保松
 
+image_feature: "https://i.imgur.com/KTGbgmt.jpg"
+
 description: 高牆並非鐵板一塊，作爲雞蛋的我們也並非無能爲力，只要仍保有一定的自主意識和道德意識，即使在最惡劣的環境，也能活得生機勃勃。
 
 ---

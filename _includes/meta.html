@@ -3,10 +3,15 @@
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
 
+    {% if page.image.feature %}
+    <meta name="twitter:card" content="summary_large_image">
+		<meta name="twitter:image" content= "{{ page.image_feature }}">
+    {% else %}
     <meta name="twitter:card" content="summary" />
-    <mata property="og:image" content="{{site.url}}{{ site.baseurl }}/images/404.jpg">
     <meta name="twitter:image" content="{{site.url}}{{ site.baseurl }}/images/404.jpg" />
-    <meta name="twitter:domain" content="https://info-cn.github.io/Terminus/">
+		{% endif %}
+
+    <meta name="twitter:domain" content="https://Terminus2049.github.io">
 
     <meta name="author" content="{{ site.name }}" />
 
