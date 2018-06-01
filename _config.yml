@@ -23,7 +23,7 @@ navigation:
   - name: 首页
     url: /
   - name: 标签
-    url: /tags
+    url: /tags.html
   - name: 存档
     url: /archive.html
   - name: 分类
