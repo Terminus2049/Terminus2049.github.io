@@ -11,7 +11,7 @@ layout: default
   {% if paginator.page == 1 %}
     <article class="post">
       <h2>
-        <a href="sticky/2018/04/01/how-to-participate-in-terminus.html">【置顶】如何协作参与端点星计划</a>
+        <a href="{{ site.baseurl }}/sticky/2018/04/01/how-to-participate-in-terminus.html">【置顶】如何协作参与端点星计划</a>
       </h2>
 
       <div clsss="meta">
@@ -34,7 +34,7 @@ layout: default
         Terminus 端点星计划，是在 GitHub 开放平台搭建的一个站点，以去中心化的方式备份微信、微博等平台被删文章。
       </div>
 
-      <a href="sticky/2018/04/01/how-to-participate-in-terminus.html" class="read-more">Read More</a>
+      <a href="{{ site.baseurl }}/sticky/2018/04/01/how-to-participate-in-terminus.html" class="read-more">Read More</a>
     </article>
   {% endif%}
 
@@ -52,7 +52,7 @@ layout: default
         <ul class="tag">
           {% for tag in post.tags %}
           <li>
-            <a href="{{ site.url }}{{ site.baseurl }}/tags#{{ tag }}">
+            <a href="{{ site.baseurl }}/tags#{{ tag }}">
               {{ tag }}
             </a>
           </li>
