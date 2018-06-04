@@ -64,5 +64,5 @@ description: 上大学的时候，我在同学和老师眼里是个特立独行�
 
 - [性别平等倡导者：我们被约与被谈](https://terminus2049.github.io/archive/2018/05/08/gender-equality.html) 
 - [我被学校威胁出柜 教授把这当笑料课上恐吓学生｜青年节#univtoo](https://terminus2049.github.io/archive/2018/05/05/Guang-zhou-univtoo.html)
-- [我被中大校长约谈过，他说不要给我送什么公开信|#univtoo](https://terminus2049.github.io/archive/2018/05/05/Sun-Yat-sen-univtoo.html)
-- [那些被学校约谈的年轻人|加入#univtoo，用诉说抗争！](https://terminus2049.github.io/archive/2018/05/05/univtoo.html)
+- [我被中大校长约谈过，他说不要给我送什么公开信｜#univtoo](https://terminus2049.github.io/archive/2018/05/05/Sun-Yat-sen-univtoo.html)
+- [那些被学校约谈的年轻人｜加入#univtoo，用诉说抗争！](https://terminus2049.github.io/archive/2018/05/05/univtoo.html)
