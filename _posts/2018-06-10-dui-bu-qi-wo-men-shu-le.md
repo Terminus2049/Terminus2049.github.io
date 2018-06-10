@@ -16,7 +16,7 @@ description: 该企业，是当代政府的印钞机，是各大媒体的印钞�
 
 ---
 
-原文来自微信公众号「烧伤超人阿宝」
+原文来自微信公众号「烧伤超人阿宝」：~~[对不起，我们输了。](https://mp.weixin.qq.com/s/4YefRCyDWaH9Fh4WGrGr8A)~~
 
 ---
 
