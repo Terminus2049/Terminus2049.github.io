@@ -8,7 +8,7 @@ categories: Archive
 
 date: 2018-06-10 
 
-tags: 卡车四季罢工
+tags: 卡车司机罢工
 
 img_feature: "https://i.imgur.com/WXqzCtP.jpg"
 
