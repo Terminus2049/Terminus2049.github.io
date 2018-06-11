@@ -10,7 +10,7 @@ date: 2018-06-10
 
 tags: 卡车司机罢工
 
-img_feature: "https://i.imgur.com/WXqzCtP.jpg"
+image_feature: "https://i.imgur.com/WXqzCtP.jpg"
 
 description: 刚刚发布的一部专门针对货运司机的调查报告显示，中国现在有3000万货车司机。清华大学社会学系教授、社会调查中心主任沈原在各地调研时发现，恶性压价的货运市场竞争激烈，且各地并不统一的公路执法标准等老题未解，如今通过互联网方式找货，又使得货车司机这一群体陷入另一窘境。
 
