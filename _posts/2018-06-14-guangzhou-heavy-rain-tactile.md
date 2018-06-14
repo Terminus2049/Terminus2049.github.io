@@ -19,10 +19,11 @@ description: 送走了一场暴雨，广州这座1400万人口的大城市也送
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文来自微信「冰点周刊」：~~[广州下了一场雨](https://mp.weixin.qq.com/s/ud6hluQlw4g5GqTPMpGkiQ)~~
 > 
 > 作者：玄增星、陈轶男
+
 ---
 
 ![](https://i.imgur.com/Q0sqHfa.jpg)
-**记者/玄增星、陈轶男 编辑/张国**
+<center>记者/玄增星、陈轶男 编辑/张国</center>
 
 送走了一场暴雨，广州这座1400万人口的大城市也送走了一位年轻的居民。
 
