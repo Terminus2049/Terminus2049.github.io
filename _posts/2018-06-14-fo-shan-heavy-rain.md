@@ -20,6 +20,8 @@ description: 在佛山问政网上，6 天来有至少 5 位市民就这起触�
 
 原文来自 ~~[佛山母女 大雨中逝去 -微博账户: 人物](https://mp.weixin.qq.com/s?__biz=MjEwMzA5NTcyMQ==&mid=2653088612&idx=1&sn=2aadc349a5feea186cc49f6316ac0e28&chksm=4eb30da279c484b4a8d8fc2a2c47cffc9cdb914ad88d84b49e8624e46e782ed397869a8bad78&scene=0#rd)~~
 
+微博地址：<https://weibo.com/ttarticle/p/show?id=2309404250831313576448>
+
 作者：[罗婷](https://weibo.com/u/1649356981)
 
 编辑：赵涵漠
