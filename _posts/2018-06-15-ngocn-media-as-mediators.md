@@ -16,13 +16,13 @@ description: 面对审核和市场压力，媒体还能有作为吗？
 
 ---
 
->本文由[简悦SimpRead](http://ksria.com/simpread/)转码，原文来自微信「墙洞|NGOCN」：~~[广州暴雨后，此文已被发布者删除](https://mp.weixin.qq.com/s/fGREjSfR6_8JEGRbqfa5Gg)~~
+> 本文由[简悦SimpRead](http://ksria.com/simpread/)转码，原文来自微信「墙洞\|NGOCN」：~~[广州暴雨后，此文已被发布者删除](https://mp.weixin.qq.com/s/fGREjSfR6_8JEGRbqfa5Gg)~~
 >
->[二次链接](https://mp.weixin.qq.com/s/T4MGmWRr44Ku6mIDECGrsA)
+> [二次链接](https://mp.weixin.qq.com/s/T4MGmWRr44Ku6mIDECGrsA)
 >
->作者：缪冬
+> 作者：缪冬
 >
->编辑：小田、三三
+> 编辑：小田、三三
 
 ---
 
