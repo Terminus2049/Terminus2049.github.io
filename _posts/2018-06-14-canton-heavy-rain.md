@@ -10,7 +10,7 @@ date: 2018-06-14
 
 tags: 广佛暴雨触电事故
 
-image_feature: "https://i.imgur.com/nF8cDiC.jpg"
+image_feature: "https://i.loli.net/2018/06/15/5b2349f01baf4.jpg"
 
 description: 经核，出事机箱为金税信息技术服务股份有限公司负责管养。据专业人士分析，按照现场照片等证据显示，事发机箱内使用非专业插线板，机箱按照规定不得在低洼积水处安装，现场虽然有空气开关防止短路，而空气开关未安装漏电保护装置，上级线路是否会漏电尚有待查清。
 
