@@ -8,7 +8,7 @@ categories: Archive
 
 date: 2018-06-13 21:43
 
-image_feature: "http://inews.gtimg.com/newsapp_match/0/3966169380/0"
+image_feature: "https://i.loli.net/2018/06/16/5b2475980d61a.jpg"
 
 tags: 广佛暴雨触电事故
 
@@ -24,7 +24,8 @@ description: 当时附近路过一个小伙子，走在离公交站牌大概一�
 
 ---
 
-![01](http://inews.gtimg.com/newsapp_match/0/3966169380/0)
+![01.jpg](https://i.loli.net/2018/06/16/5b2475980d61a.jpg)
+
 <center>6月11日，建行公交站牌旁的粉色百合花，塑料饭盒盛着的米饭和插在苹果上的已经燃尽的香。高佳 摄</center>
 
 当时附近路过一个小伙子，走在离公交站牌大概一米的地方，想把张青拉起来，但手一碰到水，整个人立马被弹开。
@@ -101,7 +102,8 @@ description: 当时附近路过一个小伙子，走在离公交站牌大概一�
 
 近期，有广东媒体在广州街头看到，一些电线乱搭，绝缘体包裹裸露地面。有市民担心，“再来一场暴雨会不会导致绝缘体破坏？”
 
-![02](http://inews.gtimg.com/newsapp_match/0/3966169381/0)
+![02.jpg](https://i.loli.net/2018/06/16/5b2475976bc1e.jpg)
+
 <center>6月8日晚，警察赶到张青母女触电事发地现场。图源网络</center>
 
 ## “回家”
@@ -136,7 +138,7 @@ description: 当时附近路过一个小伙子，走在离公交站牌大概一�
 
 高佳
 
-![03](http://inews.gtimg.com/newsapp_match/0/3551479388/0)
+![03.jpg](https://i.loli.net/2018/06/16/5b2475953579e.jpg)
 
 <small>因为时间永远分岔，通向无数的将来。</small>
 
