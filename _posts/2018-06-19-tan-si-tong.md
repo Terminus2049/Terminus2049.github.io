@@ -16,7 +16,7 @@ description: 谭氏家祠的拆除与保护已经历了十四个年头，在2004
 
 ---
 
-> 原文来自微信公众号「西愚视界」：~~[ 戊戌七君子之首，谭嗣同祖祠近日遭强拆 ](https://mp.weixin.qq.com/s/Me0MC-mifHJQPTYdnOhguQ)~~
+> 原文来自微信公众号「西愚视界」：~~[戊戌七君子之首，谭嗣同祖祠近日遭强拆](https://mp.weixin.qq.com/s/Me0MC-mifHJQPTYdnOhguQ)~~
 
 ---
 
