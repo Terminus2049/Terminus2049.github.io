@@ -222,9 +222,9 @@ NGO的待遇向来不高，“女声”的待遇更在NGO的平均水平之下�
 荒诞的舞蹈，鲜活的色彩，无人的废墟里涌动着生命的活力。
 
  
-本文有少量删减，点击链接查看全文：<https://theinitium.com/article/20180622-mainland-women-voice/>
+本文有少量删减，点击链接查看全文：[https://theinitium.com/article/20180622-mainland-women-voice](https://theinitium.com/article/20180622-mainland-women-voice)
 
 > “声音计划”为本文创作提供支持
 
 ![05.jpg](https://i.loli.net/2018/06/23/5b2e1f5ec0d18.jpg)
-<center>[支持我们](https://www.lianquan.org/ContractPlus_ContractInfo?guid=9E0EBD7C6C7912DD45E8F0179F4BE68ED2D8CDFA497F926ED5D5715143641BA57BC46BE0C2918C801390239381BAAFD0)</center>
+[支持我们](https://www.lianquan.org/ContractPlus_ContractInfo?guid=9E0EBD7C6C7912DD45E8F0179F4BE68ED2D8CDFA497F926ED5D5715143641BA57BC46BE0C2918C801390239381BAAFD0)
