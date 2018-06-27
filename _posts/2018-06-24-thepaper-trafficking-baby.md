@@ -6,7 +6,7 @@ title: 记者暗访湖南婴儿地下贩卖交易网络：亲儿子被6万元卖
 
 categories: Archive
 
-date: 2018-06-2421:03
+date: 2018-06-24 21:03
 
 image_feature: "https://i.imgur.com/r6CUc5t.jp"
 
@@ -16,7 +16,7 @@ description: 暗访湖南婴儿地下贩卖交易网络
 
 ---
 
->本文由[简悦SimpRead](http://ksria.com/simpread/)转码，原文地址来自~~[澎湃新闻](https://www.thepaper.cn/newsDetail_forward_2215827)~~
+> 本文由[简悦SimpRead](http://ksria.com/simpread/)转码，原文地址来自~~[澎湃新闻](https://www.thepaper.cn/newsDetail_forward_2215827)~~
 
 ---
 
@@ -122,6 +122,7 @@ description: 暗访湖南婴儿地下贩卖交易网络
 警方同时也确认，中介利用朱某勤生产过程，实际也为一名山东籍的女子王某明违规办理出生证明。也就是说，王某明实际是这张出生证明的买主，如果这个交易能够顺利成交，中介从这一单中就至少能赚取7万元。
 
 ![](https://i.imgur.com/CcI2T49.jpg)
+
 随即，警方将现场的多名涉案人员带走，并展开突审。几个小时后，肖某乐的一名上线落网。这名上线出生于1990年，落网时驾驶一辆保时捷跑车。
 
 记者获悉，警方已对此事立案调查，涉案的中介肖某乐及其上线已被刑事拘留，售卖亲生儿子的朱某勤也被采取刑事措施，案件正在进一步侦办之中。
