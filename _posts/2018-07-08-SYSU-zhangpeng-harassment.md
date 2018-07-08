@@ -2,7 +2,7 @@
 
 layout: post
 
-title: 她曾以为自己能逃开教授的手\丨人间
+title: 她曾以为自己能逃开教授的手丨人间
 
 categories: archive
 
@@ -16,7 +16,7 @@ description: 之前听舍友笑薇被教授性骚扰时，小柯还以为那只�
 
 ---
 
-> 本文由[简悦 SimpRead](http://ksria.com/simpread/)转码，原文来自微信号「人间theLivings」：~~[她曾以为自己能逃开教授的手\丨人间](https://mp.weixin.qq.com/s/G0JDXcRwq84tYV8k1fsA_w)~~
+> 本文由[简悦 SimpRead](http://ksria.com/simpread/)转码，原文来自微信号「人间theLivings」：~~[她曾以为自己能逃开教授的手丨人间](https://mp.weixin.qq.com/s/G0JDXcRwq84tYV8k1fsA_w)~~
 
 ---
 
@@ -24,7 +24,7 @@ description: 之前听舍友笑薇被教授性骚扰时，小柯还以为那只�
 ![0fadb4b036ac43bec9606afa690f684fc692be42.jpeg](https://i.loli.net/2018/07/09/5b4245903b65f.jpeg)
 *<center>《不能说的夏天》剧照</center>*
 
-> 之前听舍友笑薇被教授性骚扰时，小柯还以为那只是老师对好学生的亲昵行为，安慰她说：“这应该是老师表达欣赏你的一种方式吧。”但几天后她就也被教授性骚扰了。</section>
+> 之前听舍友笑薇被教授性骚扰时，小柯还以为那只是老师对好学生的亲昵行为，安慰她说：“这应该是老师表达欣赏你的一种方式吧。”但几天后她就也被教授性骚扰了。
 
 陈静越来越焦虑。
 
