@@ -2,13 +2,13 @@
 
 layout: post
 
-title: 中大，请务必直面校园性骚扰 \| 中大学子致母校
+title: 中大，请务必直面校园性骚扰 | 中大学子致母校
 
 categories: Archive
 
 date: 2018-07-09 
 
-tags: 中山大学人类学系教授性骚扰
+tags: 中山大学人类学教授性骚扰
 
 description: 中大学生被校长的公开信。
 
