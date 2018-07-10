@@ -4,7 +4,7 @@ layout: post
 
 title: 梦雨：无悔选择——从中大硕士到流水线女工
 
-categories: archive
+categories: Archive
 
 date: 2018-07-07
 

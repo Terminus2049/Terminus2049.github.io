@@ -4,7 +4,7 @@ layout: post
 
 title: 燕园讨薪事件频发，我们能做些什么？
 
-categories: archive
+categories: Archive
 
 date: 2018-06-26 20:27
 
