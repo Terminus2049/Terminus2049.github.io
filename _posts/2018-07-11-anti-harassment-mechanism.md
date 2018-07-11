@@ -14,7 +14,7 @@ description: 高校反性骚扰机制
 
 ---
 
-原文：~~[性骚扰的“叫兽”被处理了，可高校反性骚扰机制仍遥遥无期](https://matters.news/forum/?post=7549dc14-b3ad-48a2-b586-4c89cf323af3)~~
+原文来自Matters Lab：[性骚扰的“叫兽”被处理了，可高校反性骚扰机制仍遥遥无期](https://matters.news/forum/?post=7549dc14-b3ad-48a2-b586-4c89cf323af3)
 
 ---
 
