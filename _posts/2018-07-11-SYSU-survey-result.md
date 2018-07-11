@@ -14,7 +14,7 @@ description: 中大人类学系张鹏反性骚扰处理结果满意程度调查�
 
 ---
 
-原文：~~[中大对张鹏性骚扰的处理，中大学生满意吗?|调查结果](https://mp.weixin.qq.com/s/GGCX3zLGlZitbOh7mLhwHw)~~
+原文：~~[中大对张鹏性骚扰的处理，中大学生满意吗?调查结果](https://mp.weixin.qq.com/s/GGCX3zLGlZitbOh7mLhwHw)~~
 
 ---
 
