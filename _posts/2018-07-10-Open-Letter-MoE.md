@@ -29,7 +29,7 @@ description: 致中华人民共和国教育部的一封公开信
 申请教育部信息公开，可以登录教育部官网，点击“公开”－“监督与建议渠道”－点击“政务公开意见建议”；或者直接输输入以下网址：<http://www.moe.gov.cn/jyb_xxgk/xxgkyjx/>
 
 出现如下页面：
-![](https://i.imgur.com/g6vYOq7.png)
+![](https://i.loli.net/2018/07/11/5b45a2ef2f433.png)
 
 一次性填一个问题，填四次，问题是：
 
@@ -45,7 +45,7 @@ description: 致中华人民共和国教育部的一封公开信
 **（记住是填四次）**
 
 或者加我微信：709045928
-![](https://i.imgur.com/AAPvi1i.png)
+![](https://i.loli.net/2018/07/11/5b45a2f09bbae.png)
 
 ## 以下为原来的正文：
 
