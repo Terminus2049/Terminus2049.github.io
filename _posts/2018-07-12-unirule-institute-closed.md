@@ -16,7 +16,7 @@ description: 天则经济研究所北京办公室被封。
 
 ---
 
-原文来自纽约时报中文网：「独立智库天则经济研究所北京办公室被封」(https://cn.nytimes.com/china/20180712/china-unirule-institute/)，微信文章已 ~~[被删](https://mp.weixin.qq.com/s/rbhlxhgYsBxap_eDPgYPeQ)~~
+原文来自纽约时报中文网：[独立智库天则经济研究所北京办公室被封](https://cn.nytimes.com/china/20180712/china-unirule-institute/)，微信文章已 ~~[被删](https://mp.weixin.qq.com/s/rbhlxhgYsBxap_eDPgYPeQ)~~
 
 作者：储百亮
 
