@@ -19,11 +19,11 @@ description: 我没做什么大事，也不想做大官。但最起码，我要�
 ---
 ## 中山大学官僚主义登峰造极？指责者的这些逻辑谬误不得不提
 
-![](https://imgur.com/FkfxpnM)
+![](https://i.imgur.com/FkfxpnM.gif)
 
 > 观点 insights（ID：GDinsights）来帮你捋捋从 “部级” 公示到 “丧失大学精神、官僚化、不为学生做主” 的逻辑路径。
 
-![](https://imgur.com/yz4nmZX)
+![01.jpg](https://i.imgur.com/yz4nmZX.jpg)
 
 一纸学生会任命书，把中山大学（以下简称中大）又推向了风口浪尖。尤其是一篇新媒体评论，更让网友批评的矛，集中指向**中大 “学生会官僚主义”**。如今，面对沸沸扬扬的舆论，**中大不得不发出道歉：用错词了……**
 
@@ -197,7 +197,7 @@ description: 我没做什么大事，也不想做大官。但最起码，我要�
 
 这句话，一直到今天都刻在学校怀士堂的纪念碑上。
 
-![](https://imgur.com/a/XKfOonB)
+![](https://i.imgur.com/29BASEL.jpg)
 
 很可惜，如今一个人有了大志，事情做大了，就难免被提拔。就有网民会带节奏吐槽他为 “大官”，就会把所有自己遭遇的不幸和问题想当然扣在一个个热点当事人身上。
 
@@ -215,4 +215,4 @@ description: 我没做什么大事，也不想做大官。但最起码，我要�
 
 但对于没有调查、也经不起论证、扣得过分的帽子，对不起。拒绝。
 
-![](https://imgur.com/a/fERGcw4)
+![](https://i.imgur.com/EwmHpoW.gif)
