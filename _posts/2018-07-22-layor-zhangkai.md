@@ -1,10 +1,10 @@
 ---
 
-layout: position
+layout: post
 
 title: 张凯律师|| 都在一条船上
 
-categories: archive
+categories: Archive
 
 date: 2018-07-22
 
