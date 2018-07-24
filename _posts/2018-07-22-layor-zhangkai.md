@@ -16,7 +16,7 @@ description: 张凯律师谈问题疫苗事件
 
 ---
 
-> 本文由[简悦SimpRead](http://ksria.com/simpread/)转码，原文来自微信「张凯律师」：~~[张凯律师|| 都在一条船上](https://mp.weixin.qq.com/s/_Q6fiuSurnr5lcP4sH1m_A)~~
+> 本文由[简悦SimpRead](http://ksria.com/simpread/)转码，原文来自微信「张凯律师」：~~[张凯律师：都在一条船上](https://mp.weixin.qq.com/s/_Q6fiuSurnr5lcP4sH1m_A)~~
 
 ---
 
@@ -193,7 +193,3 @@ NGO组织会自豪的把八年前他们的功绩写在自己的宣传册里，�
 张凯律师记于2018年7月23日
 
 ![d51c121f5d788742f06a181aab4fedd535cffe6c.jpg](https://i.loli.net/2018/07/24/5b56be8f505f3.jpg)
-
-
-
- 张凯律师 “” [ 赞赏](https://archive.is/o/WypC4/https://mp.weixin.qq.com/s/_Q6fiuSurnr5lcP4sH1m_A%23%23) 长按二维码向我转账 “” ![](https://archive.is/WypC4/1c45882237028e5792b7add3307ef18631119645.png) 受苹果公司新规定影响，微信 iOS 版的赞赏功能被关闭，可通过二维码转账支持公众号。
