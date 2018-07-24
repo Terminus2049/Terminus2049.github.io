@@ -17,13 +17,13 @@ description: 我没做什么大事，也不想做大官。但最起码，我要�
 -> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文:[中山大学官僚主义登峰造极？指责者的这些逻辑谬误不得不提] (https://mp.weixin.qq.com/s/damIixQSsrcr8DTsduN3rA)
 
 ---
--## 中山大学官僚主义登峰造极？指责者的这些逻辑谬误不得不提
--
--![](https://imgur.com/FkfxpnM)
--
--> 观点 insights（ID：GDinsights）来帮你捋捋从 “部级” 公示到 “丧失大学精神、官僚化、不为学生做主” 的逻辑路径。
--
--![](https://imgur.com/yz4nmZX)
+## 中山大学官僚主义登峰造极？指责者的这些逻辑谬误不得不提
+
+![](https://imgur.com/FkfxpnM)
+
+> 观点 insights（ID：GDinsights）来帮你捋捋从 “部级” 公示到 “丧失大学精神、官僚化、不为学生做主” 的逻辑路径。
+
+![](https://imgur.com/yz4nmZX)
 
 一纸学生会任命书，把中山大学（以下简称中大）又推向了风口浪尖。尤其是一篇新媒体评论，更让网友批评的矛，集中指向**中大 “学生会官僚主义”**。如今，面对沸沸扬扬的舆论，**中大不得不发出道歉：用错词了……**
 
