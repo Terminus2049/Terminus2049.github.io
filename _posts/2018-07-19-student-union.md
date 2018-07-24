@@ -16,7 +16,9 @@ description: 学生会不能真正代表学生去争取正当权益，沦为高�
 
 ---
 
-原文来自微信公众号房「狐度工作室 」：~~[ 中山大学学生会百名高级干部 对大学精神的绝佳讽刺 ](https://mp.weixin.qq.com/s/6856KRcfKhZpERMwHUC1cQ)~~
+原文来自微信公众号房「狐度工作室 「：~~[ 中山大学学生会百名高级干部 对大学精神的绝佳讽刺 ](https://mp.weixin.qq.com/s/6856KRcfKhZpERMwHUC1cQ)~~
+
+刘志杰在微信公众号「观点insights」发文反驳：[ 中山大学官僚主义登峰造极？指责者的这些逻辑谬误不得不提](https://mp.weixin.qq.com/s/damIixQSsrcr8DTsduN3rA)
 
 ---
 
