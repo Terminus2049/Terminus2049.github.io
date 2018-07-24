@@ -107,9 +107,6 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-google_cse
-
-google_cse_id: "000240153102050830546:933r8w2fk7c"
 
 # Exclude these files from your production _site
 exclude:
