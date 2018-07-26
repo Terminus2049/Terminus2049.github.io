@@ -7,25 +7,6 @@ title: 标签
   <h2>No post found</h2>
 {% endif %}
 
-<!-- Html Elements for Search -->
-<div id="search-container">
-<input type="text" id="search-input" placeholder="search..."
-  style="margin: 0px 0px 20px 0px; height: 40px; width: 100%;">
-<ul id="results-container"></ul>
-</div>
-
-<!-- Script pointing to search-script.js -->
-<script src="{{site.baseurl}}/assets/js/search-script.js" type="text/javascript"></script>
-
-<!-- Configuration -->
-<script>
-SimpleJekyllSearch({
-  searchInput: document.getElementById('search-input'),
-  resultsContainer: document.getElementById('results-container'),
-  json: '{{site.baseurl}}/search.json'
-})
-</script>
-
 <div class="tags">
   <ul class="label">
     {% for tag in site.tags %}
