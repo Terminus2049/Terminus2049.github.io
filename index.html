@@ -107,3 +107,20 @@ layout: default
     </span>
   {% endif %}
 </div>
+
+{% if paginator.page == 1 %}
+
+<script src="{{site.baseurl}}/assets/js/pageclip.js" charset="utf-8"></script>
+
+<div class="email-form">
+  <form action="https://send.pageclip.co/jUQTK86UQHGWofIcV3BJaCZLM780Lq65" class="pageclip-form" method="post">
+    <input type="email" name="email" value="" style="line-height:2; min-width:220px; border-radius:2px" required/>
+
+    <!-- This button will have a loading spinner. Keep the inner span for best results. -->
+    <button type="submit" class="pageclip-form__submit" style="line-height:2; border-radius:4px">
+      <span>邮件订阅</span>
+    </button>
+  </form>
+</div>
+
+{% endif %}
