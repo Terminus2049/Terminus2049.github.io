@@ -110,8 +110,6 @@ layout: default
 
 {% if paginator.page == 1 %}
 
-<script src="{{site.baseurl}}/assets/js/pageclip.js" charset="utf-8"></script>
-
 <div class="email-form">
   <form action="https://send.pageclip.co/jUQTK86UQHGWofIcV3BJaCZLM780Lq65" class="pageclip-form" method="post">
     <input type="email" name="email" value="" style="line-height:2; min-width:220px; border-radius:2px" required/>
@@ -122,5 +120,7 @@ layout: default
     </button>
   </form>
 </div>
+
+<script src="{{site.baseurl}}/assets/js/pageclip.js" charset="utf-8"></script>
 
 {% endif %}
