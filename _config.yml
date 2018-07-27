@@ -55,7 +55,7 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # Text under the icons in footer
-footer-text: © 2017 <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a>
+footer-text: Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a>
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
@@ -66,15 +66,6 @@ url: https://Terminus2049.github.io
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: # /Terminus
-
-#-------------------------------------------------------------------------------
-# p2p-Terminus 设置方法
-#
-## 注释掉 baseurl 后的 /Terminus，成为 # /Terminus
-## 安装 jeklly，本地编译
-## 下载并打开 Beaker 浏览器（https://beakerbrowser.com/docs/install/ ）
-## 在 Beaker 内 Creaat new, from folder，将 _site 文件夹作为网站 folder
-## dat.json 为网站信息
 
 #
 # !! You don't need to change any of the configuration flags below !!
@@ -102,8 +93,6 @@ sass:
 
 # Use the following plug-ins
 plugins:
-  # - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
-  # - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-sitemap
