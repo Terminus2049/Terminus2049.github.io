@@ -59,33 +59,4 @@ layout: default
     {% endif %}
   </div>
 
-  <div class="comment">
-
-    <form method="POST" action="https://api.staticman.net/v2/entry/terminus2049/terminus2049.github.io/master/comments">
-      <!-- e.g. "2016-01-02-this-is-a-post" -->
-      <input name="options[slug]" type="hidden" value="{{ page.slug }}">
-      <input name="options[redirect]" type="hidden" value="{{ site.baseurl }}{{ page.url }}">
-      <label><input name="fields[name]" type="text">暱称</label>
-      <label><input name="fields[email]" type="email">邮箱（不公开）</label>
-      <label><textarea name="fields[message]"></textarea>留言</label>
-
-      <button type="submit">Go!</button>
-    </form>
-
-  </div>
-
-  {% assign comments = site.data.comments[page.slug] %}
-
-  {% for comment in comments reversed %}
-    {% assign commentData = comment[1] %}
-    <div class="comment__avatar-wrapper">
-      <img class="comment__avatar" src="https://www.gravatar.com/avatar/{{ commentData.email }}?d=mm&s=80" alt="{{ commentData.name }}">
-    </div>
-      <div>
-        {{ commentData.message }}</br>
-        From: {{ commentData.name }}</br>
-        {{ commentData.date | date_to_long_string }}
-      </div>
-  {% endfor %}
-
 </article>
