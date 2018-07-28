@@ -59,4 +59,17 @@ layout: default
     {% endif %}
   </div>
 
+  <div class="comment">
+
+    <form method="POST" action="https://api.staticman.net/v2/entry/terminus2049/terminus2049.github.io/master/comments">
+      <!-- e.g. "2016-01-02-this-is-a-post" -->
+      <input name="options[slug]" type="hidden" value="{{ page.slug }}">
+      <label><input name="fields[nickname]" type="text">暱称</label>
+      <label><textarea name="fields[message]"></textarea>留言</label>
+
+      <button type="submit">Go!</button>
+    </form>
+
+  </div>
+
 </article>
