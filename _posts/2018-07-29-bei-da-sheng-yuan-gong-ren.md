@@ -16,7 +16,7 @@ description: 不能再忍受了；也再没有文质彬彬的妥协道路可走�
 
 ---
 
-原文：~~[「堂堂正正地站起来，做一回人」](https://mp.weixin.qq.com/s/6frtGOeV1_INgw9XoNuxhg)~~
+原文：~~[北大学生就「深圳 7·27 维权工人被捕事件」的声援书」](https://mp.weixin.qq.com/s/6frtGOeV1_INgw9XoNuxhg)~~
 
 作者：JS北大声援团 
 
