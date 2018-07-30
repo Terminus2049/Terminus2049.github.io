@@ -35,7 +35,15 @@ description: 为JS被拘工友和群众发声，就是为我们自己发声；�
 
 ①[非法调休，一个月少几百块钱工资；](https://archive.is/o/yOXFA/https://mp.weixin.qq.com/s?__biz=MzU3MDUzNDQ4Mw==&mid=2247483698&idx=1&sn=aca7adbbddbeccd307dcb75dd225ffdc&scene=21%23wechat_redirect)
 
-②[占用休息时间，强制徒步，没有工资；](https://archive.is/o/yOXFA/https://mp.weixin.qq.com/s?__biz=MzU3MDUzNDQ4Mw==&mid=2247483686&idx=1&sn=2182913da9a7b02146a63a1950caa89b&scene=21%23wechat_redirect)③[非法制定严苛的罚款制度，俗称“JS十八禁”，从员工身上肆意搜刮；](https://archive.is/o/yOXFA/https://mp.weixin.qq.com/s?__biz=MzU3MDUzNDQ4Mw==&mid=2247483689&idx=1&sn=ca2dae2abb46309f5f17adb7d69b1cea&scene=21%23wechat_redirect)④[没有为员工足额缴纳住房公积金，严重削减员工福利；](https://archive.is/o/yOXFA/https://mp.weixin.qq.com/s?__biz=MzU3MDUzNDQ4Mw==&mid=2247483816&idx=1&sn=822e63e05e1e5ecf02c353ae862552fa&scene=21%23wechat_redirect)⑤[泄露员工身份信息，非法建立员工黑名单；](https://archive.is/o/yOXFA/https://mp.weixin.qq.com/s?__biz=MzU3MDUzNDQ4Mw==&mid=2247483779&idx=1&sn=c4bc0479f8d59923d77cb9fffde2f523&scene=21%23wechat_redirect)⑥[侵犯员工隐私，偷窥员工上厕所。](https://archive.is/o/yOXFA/https://mp.weixin.qq.com/s?__biz=MzU3MDUzNDQ4Mw==&mid=2247483711&idx=1&sn=194e47eff48f71d851d20e29a7db580f&scene=21%23wechat_redirect)
+②[占用休息时间，强制徒步，没有工资；](https://archive.is/o/yOXFA/https://mp.weixin.qq.com/s?__biz=MzU3MDUzNDQ4Mw==&mid=2247483686&idx=1&sn=2182913da9a7b02146a63a1950caa89b&scene=21%23wechat_redirect)
+
+③[非法制定严苛的罚款制度，俗称“JS十八禁”，从员工身上肆意搜刮；](https://archive.is/o/yOXFA/https://mp.weixin.qq.com/s?__biz=MzU3MDUzNDQ4Mw==&mid=2247483689&idx=1&sn=ca2dae2abb46309f5f17adb7d69b1cea&scene=21%23wechat_redirect)
+
+④[没有为员工足额缴纳住房公积金，严重削减员工福利；](https://archive.is/o/yOXFA/https://mp.weixin.qq.com/s?__biz=MzU3MDUzNDQ4Mw==&mid=2247483816&idx=1&sn=822e63e05e1e5ecf02c353ae862552fa&scene=21%23wechat_redirect)
+
+⑤[泄露员工身份信息，非法建立员工黑名单；](https://archive.is/o/yOXFA/https://mp.weixin.qq.com/s?__biz=MzU3MDUzNDQ4Mw==&mid=2247483779&idx=1&sn=c4bc0479f8d59923d77cb9fffde2f523&scene=21%23wechat_redirect)
+
+⑥[侵犯员工隐私，偷窥员工上厕所。](https://archive.is/o/yOXFA/https://mp.weixin.qq.com/s?__biz=MzU3MDUzNDQ4Mw==&mid=2247483711&idx=1&sn=194e47eff48f71d851d20e29a7db580f&scene=21%23wechat_redirect)
 
 为了改变这些不合理现象，给工友争取到更大的权益，从5月份起，一批积极工人开始动员工友组建工会。毫无疑问，这将遭到资方的阻挠。6月份，[资方开始举办并操纵“职工代表大会”](https://archive.is/o/yOXFA/https://mp.weixin.qq.com/s?__biz=MzUyNTg0NzkxNQ==&mid=2247483670&idx=1&sn=15a2bf9eee6d499761c77ca58a58ecad&scene=21%23wechat_redirect)，试图以此抢占先机。区总工会原本支持员工建立工会，到了7月份又瞬间翻脸，表示JS工人组建工会的行动与其毫无关系。
 
