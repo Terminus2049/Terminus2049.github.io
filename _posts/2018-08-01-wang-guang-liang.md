@@ -132,9 +132,9 @@ description: “在日后的相处当中，他会很自豪地提起自己众多�
 
 **王光亮在中国担任评委或导师的部分项目详情**
 
-第二届全球青少年创新创业大赛Global Youth I&E Competitionhttps: https://mp.weixin.qq.com/s/EopVcWt6-S6aaNBTm8nZAw；
+[第二届全球青少年创新创业大赛Global Youth I&E Competitionhttps](https://mp.weixin.qq.com/s/EopVcWt6-S6aaNBTm8nZAw)
 
-第三届全球青少年创新创业大赛Global Youth I&E：https://www.vaedu.net/Jihua/new_list/id/433.html；
+[第三届全球青少年创新创业大赛Global Youth I&E](https://www.vaedu.net/Jihua/new_list/id/433.html)
 
 [复旦文化遗产保护系列讲座:《当历史遭遇不确定的未来》——上海城市士绅化与历史保护的人类学思](https://archive.is/o/Vvn6p/https://mp.weixin.qq.com/s?__biz=MzIzNTI1Nzc2Mg==&mid=2651799976&idx=1&sn=997fcf1e7e64ffb5776d11e483016ba0&scene=21%23wechat_redirect)
 
@@ -142,6 +142,14 @@ description: “在日后的相处当中，他会很自豪地提起自己众多�
 
 [2018 年成都麓客设计思维工作坊](https://archive.is/o/Vvn6p/https://mp.weixin.qq.com/s?__biz=MjM5ODQxOTE0MQ==&mid=2651174723&idx=1&sn=fddabafc4bae1ea54af4a83bca3ba93c&scene=21%23wechat_redirect)
 
-2018 年 7 月同济大学建筑城规学院的 “未来城市与建筑”国际博士生院工作学习营：http://www.sohu.com/a/242541992_688519；
+[2018 年 7 月同济大学建筑城规学院的 “未来城市与建筑”国际博士生院工作学习营](http://www.sohu.com/a/242541992_688519)
 
-2018 年皇家亚洲学会（RAS shanghai）沙龙：http://www.royalasiaticsociety.org.cn/events/event/how-gentrification-shapes-historic-preservation-in-urban-shanghai/  伊婷同行者 “” [ 赞赏](https://archive.is/o/Vvn6p/https://mp.weixin.qq.com/s/hJpTDYAqeUV1XrD-vOPt4w%23%23) 长按二维码向我转账 “” ![](https://archive.is/Vvn6p/1c45882237028e5792b7add3307ef18631119645.png) 受苹果公司新规定影响，微信 iOS 版的赞赏功能被关闭，可通过二维码转账支持公众号。
+[2018 年皇家亚洲学会（RAS shanghai）沙龙](http://www.royalasiaticsociety.org.cn/events/event/how-gentrification-shapes-historic-preservation-in-urban-shanghai/)
+
+伊婷同行者赞赏
+
+长按二维码向我转账
+
+![](https://archive.is/Vvn6p/1c45882237028e5792b7add3307ef18631119645.png)
+
+受苹果公司新规定影响，微信 iOS 版的赞赏功能被关闭，可通过二维码转账支持公众号。
