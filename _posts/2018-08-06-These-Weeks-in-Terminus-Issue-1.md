@@ -22,13 +22,13 @@ description: Terminus 端点星计划，是在 GitHub 开放平台搭建的一�
 
 目标：整理、记录近期曝光的公益的、媒体、高校内性骚扰、性侵事件信息。
 
-项目地址：<https://github.com/NGOMeToo/NGOMeToo.github.io>
+[项目地址］(https://github.com/NGOMeToo/NGOMeToo.github.io)
 
 参与方式：如果您愿意参与志愿协作编辑，请与 <a href="mailto:HelpMiTu@protonmail.com">HelpMiTu@protonmail.com</a> 联系。
 
 ### 声援佳士工人
 
-项目地址：<https://github.com/shengyuangongyou/shengyuangongyou.github.io>
+［项目地址］(https://github.com/shengyuangongyou/shengyuangongyou.github.io)
 
 ## 近期更新
 
