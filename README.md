@@ -28,11 +28,11 @@ Terminus 端点星计划，是在 GitHub 开放平台搭建的一个站点，用
 
 但是，这些镜像内容无法自动同步，你可以通过设置 [backstroke-bot](https://backstroke.co/) 机器人或者设置定时任务自动同步，详见 [自动更新镜像](https://github.com/Terminus2049/Terminus2049.github.io/issues/106)。
 
-#### 有效镜像
+#### 镜像
 
-* <https://cmmei.github.io/Terminus/> （同步较快，推荐）
-* <https://tsai1993.github.io/Terminus/> （同步较快，推荐）
 * <https://no404more.github.io/Terminus/>
+* <https://cmmei.github.io/Terminus/> （已被墙）
+* <https://tsai1993.github.io/Terminus/> （已被墙）
 
 ## 致谢
 
