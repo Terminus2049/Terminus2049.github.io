@@ -25,7 +25,7 @@ description: 天则经济研究所北京办公室被封。
 ---
 
 ![tianze.jpg](https://i.loli.net/2018/07/13/5b478b1dcfbca.jpg)
-*<figcaption>一段手机拍摄的视频显示，北京天则经济研究所的大门被人焊死。 Jiang Hao</figcaption>*
+<figcaption>一段手机拍摄的视频显示，北京天则经济研究所的大门被人焊死。 Jiang Hao</figcaption>
 
 北京——作为中国仅存的自由民主思想堡垒之一的一家独立智库，周三被封锁了北京办公室的大门，令人担心它是否还能生存下去。
 

@@ -31,7 +31,7 @@ description: 北大学生申请信息公开，被学院约谈。
 由于北京大学至今没有清晰公布当年对沈阳的进行处分的详细信息，因而岳昕同学参与了向北京大学校方要求公开当年相关信息的申请。那么，敢问北京大学校方，岳昕同学申请信息公开的行为何“罪”之有呢？更何况，在北京大学网站上就赫然挂着信息公开的相关文件！
 
 ![](https://i.imgur.com/RqlmJjC.jpg)
-*<figcaption>http://xxgk.pku.edu.cn/xxgkzd/45570.htm</figcaption>*
+<figcaption>http://xxgk.pku.edu.cn/xxgkzd/45570.htm</figcaption>
 
 有同学和岳昕同学私聊了解昨晚经过：
 
@@ -56,4 +56,4 @@ description: 北大学生申请信息公开，被学院约谈。
 请各位读者与我们一道对此事保持持续关注！
 
 ![](https://i.imgur.com/vlw5ILY.png)
-*<figcaption>留言评论</figcaption>*
+<figcaption>留言评论</figcaption>

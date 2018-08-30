@@ -147,4 +147,4 @@ description: 这是一个可怕的夜晚，全中国的同性恋都值得一哭�
 
 ![yidongyang-10](https://i.imgur.com/hlfT58o.gif)
 ![yidongyang-11](https://i.imgur.com/W34rTEI.jpg)
-*<figcaption>donnyyoung1995@foxmail.com</figcaption>*
+<figcaption>donnyyoung1995@foxmail.com</figcaption>

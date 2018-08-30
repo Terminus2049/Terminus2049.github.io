@@ -137,14 +137,14 @@ description: 面对审核和市场压力，媒体还能有作为吗？
 
 ---
 
-**<figcaption>你愿意支持我们吗？</figcaption>**
+<figcaption>你愿意支持我们吗？</figcaption>
 
 ![](https://i.imgur.com/zm7sWDN.jpg)
 <figcaption>扫码成为我们的月捐人</figcaption>
 
-**<figcaption>扫码订阅NGOCN精选邮件</figcaption>**
+<figcaption>扫码订阅NGOCN精选邮件</figcaption>
 
-**<figcaption>加入理想主义者的聚落</figcaption>**
+<figcaption>加入理想主义者的聚落</figcaption>
 
 ![](https://i.imgur.com/7w1kq0s.jpg)
 

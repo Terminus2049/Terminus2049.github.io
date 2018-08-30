@@ -32,7 +32,7 @@ description: 山东潍坊寿光市的洪水。
 
 ![菠菜](https://i.loli.net/2018/08/24/5b7ffb18e9ebf.jpeg)
 
-*<figcaption>图片来源见水印</figcaption>*
+<figcaption>图片来源见水印</figcaption>
 
 因为寿光是著名的**“中国蔬菜之乡”**，拥有全国最大的蔬菜生产和批发市场，也是全国最大的蔬菜集散中心。寿光蔬菜销往全国30多个省市自治区的200多个大中城市，北京市场上更是又70%的蔬菜都来自寿光。
 
@@ -52,7 +52,7 @@ description: 山东潍坊寿光市的洪水。
 
 ![新京报](https://i.loli.net/2018/08/24/5b7ffba909247.jpeg)
 
-*<figcaption>来源：新京报我们视频</figcaption>*
+<figcaption>来源：新京报我们视频</figcaption>
 
 受灾前，寿光当地的蔬菜价格已经有所上涨。根据商务预报最新的消息，随着受天气影响、蔬菜供应下降，预计寿光蔬菜价格指数将继续波动上行。
 
@@ -93,7 +93,7 @@ description: 山东潍坊寿光市的洪水。
 
 ![养殖区](https://i.loli.net/2018/08/24/5b7ffca269c8d.jpeg)
 
-*<figcaption>被淹没的部分即为养殖区</figcaption>*
+<figcaption>被淹没的部分即为养殖区</figcaption>
 
 为救援被困群众，寿光市孙家集派出所两名出警人员被冲入弥河。截止到发稿，这两名失踪人员依然下落不明，生死未卜。
 
@@ -103,19 +103,19 @@ description: 山东潍坊寿光市的洪水。
 
 ![齐鲁晚报](https://i.loli.net/2018/08/24/5b7ffce996e26.jpeg)
 
-*<figcaption>来源：齐鲁晚报</figcaption>*
+<figcaption>来源：齐鲁晚报</figcaption>
 
 8月22日，一些村庄里的水位仍未下降。
 
 ![水位没下降](https://i.loli.net/2018/08/24/5b7ffd0aebc1a.jpeg)
 
-*<figcaption>来源：齐鲁晚报</figcaption>*
+<figcaption>来源：齐鲁晚报</figcaption>
 
 直到今天（23日）最新的报道，积水终于大部分褪去，地上满是洪水留下的污泥。
 
 ![污泥](https://i.loli.net/2018/08/24/5b7ffd3705850.jpeg)
 
-*<figcaption>图源：鲁网</figcaption>*
+<figcaption>图源：鲁网</figcaption>
 
 这样的洪灾过后，最苦的是当然是这些无助的村民。
 
@@ -124,7 +124,7 @@ description: 山东潍坊寿光市的洪水。
 ![救援1](https://i.loli.net/2018/08/24/5b7ffd9942d19.jpeg)
 ![救援2](https://i.loli.net/2018/08/24/5b7ffd9e93717.jpeg)
 
-*<figcaption>视频来自微博@kira潇</figcaption>*
+<figcaption>视频来自微博@kira潇</figcaption>
 
 除了前文说到的菜农，养殖户同样损失惨重。猪圈被淹没而村民无能为力，他们失去的不止是几百头猪，更是家里的收入来源和半辈子的心血。
 
@@ -147,7 +147,7 @@ description: 山东潍坊寿光市的洪水。
 ![农民](https://i.loli.net/2018/08/24/5b7ffe3fb3401.jpeg)
 ![家](https://i.loli.net/2018/08/24/5b7ffe45875f9.jpeg)
 
-*<figcaption>来源：齐鲁晚报</figcaption>*
+<figcaption>来源：齐鲁晚报</figcaption>
 
 那些回不去家的人，则只能在附近的临时安置点（比如学校）里勉强度过这几天，席地而睡或是只能躺在拼起来的课桌上。
 
@@ -158,14 +158,14 @@ description: 山东潍坊寿光市的洪水。
 
 ![水泵抽水](https://i.loli.net/2018/08/24/5b7ffea21f144.jpeg)
 
-*<figcaption>来源：齐鲁晚报</figcaption>*
+<figcaption>来源：齐鲁晚报</figcaption>
 
 在洪灾尚未得到广泛关注的时候，幸好当地有号召各街道和社会各界人士伸出援手。
 许多志愿者自发向受灾地区捐赠物资、运输物资。
 
 ![送物资](https://i.loli.net/2018/08/24/5b7ffecb15e00.jpeg)
 
-*<figcaption>图源见水印</figcaption>*
+<figcaption>图源见水印</figcaption>
 
 但是后续的救援和重建工作只靠民间志愿者是不行的，有些事必须要得到有效的组织。
 

@@ -22,7 +22,7 @@ description: 之前听舍友笑薇被教授性骚扰时，小柯还以为那只�
 
 ![34537ffdc13d56e31b79bda65323a415d83cef85](https://i.loli.net/2018/07/09/5b4245903f94e.gif)
 ![0fadb4b036ac43bec9606afa690f684fc692be42.jpeg](https://i.loli.net/2018/07/09/5b4245903b65f.jpeg)
-*<figcaption>《不能说的夏天》剧照</figcaption>*
+<figcaption>《不能说的夏天》剧照</figcaption>
 
 > 之前听舍友笑薇被教授性骚扰时，小柯还以为那只是老师对好学生的亲昵行为，安慰她说：“这应该是老师表达欣赏你的一种方式吧。”但几天后她就也被教授性骚扰了。
 

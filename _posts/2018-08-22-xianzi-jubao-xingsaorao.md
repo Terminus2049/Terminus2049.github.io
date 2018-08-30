@@ -47,7 +47,7 @@ description: 因为共同的记忆，女性能够最快缔结同盟，我对女�
 
 **以下是弦子的口述：**
 
-**<figcaption>1</figcaption>**
+<figcaption>1</figcaption>
 
 刚才接受采访时，摄影师让我站在窗前，背对摄影机。（看到照片）那一瞬间我特别难过，那张照片给我的感觉是，我都没有注意到我人那么小，这个（窗）框特别大，你就会觉得你很渺小，很畏缩。
 
@@ -67,7 +67,7 @@ description: 因为共同的记忆，女性能够最快缔结同盟，我对女�
 
 ![弦子](https://i.loli.net/2018/08/22/5b7d6b72be0e9.jpeg)
 
-**<figcaption>2</figcaption>**
+<figcaption>2</figcaption>
 
 我之前一直在用「性骚扰」这个词儿，包括我爸妈说怎么样了，然后就说朱军骚扰你了——那个语境确实像是朱军口头上说了一下，或者就是摸了我一下什么的。我是见了律师之后，才得知这属于「猥亵」。
 
@@ -85,7 +85,7 @@ description: 因为共同的记忆，女性能够最快缔结同盟，我对女�
 
 ![xianziweibo](https://i.loli.net/2018/08/22/5b7d6ba0cbfb2.jpeg)
 
-**<figcaption>3</figcaption>**
+<figcaption>3</figcaption>
 
 （到现在）那些比较详细的动作，只有我那位老师、律师、采访过我的人，还有做笔录的人知道，我妈妈也只是很模糊地知道，我没有跟她说完整的。
 
@@ -113,7 +113,7 @@ description: 因为共同的记忆，女性能够最快缔结同盟，我对女�
 
 ![maishaoweibo](https://i.loli.net/2018/08/22/5b7d6bd00013e.jpeg)
 
-**<figcaption>4</figcaption>**
+<figcaption>4</figcaption>
 
 2014年出了这个事情不久，我找到了我一个关系非常好的姐姐倾诉。她当时在做一名摄影记者，工作非常顺利，我从小到大跟她交流，她在我心目中都是一个成绩非常好，很积极很优秀的形象，朋友也很多。
 
