@@ -12,6 +12,7 @@ layout: null
  <id>{{ site.url }}{{ site.baseurl }}</id>
  <author>
    <name>端点星</name>
+   <email>terminus2049@protonmail.com</email>
  </author>
 
  {% for post in site.posts %}
