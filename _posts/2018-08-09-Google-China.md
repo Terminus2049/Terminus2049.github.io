@@ -85,7 +85,7 @@ description: 看消息来源很重要。
 有知乎用户发现，《人民日报》海外社交媒体账号的热度背后，都有真实的用户关注和点赞作为支撑，“中国人非常少，美国人也不多，主要是中亚、非洲、中东地区的关注者比较多。”（<https://www.zhihu.com/question/35099769/answer/61319189>）
 
 ![zhihu.jpg](https://i.loli.net/2018/08/10/5b6d38d7d270f.jpg)
-*<center>图 / 知乎用户 Xiao Zhang</center>*
+*<figcaption>图 / 知乎用户 Xiao Zhang</figcaption>*
 
 以《人民日报》、新华社和央视新闻（CGTN）为代表的国内主流媒体，在海外开设社交账号有两个明显的优势：
 

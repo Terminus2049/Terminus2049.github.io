@@ -27,7 +27,7 @@ description: 作为关注同志权益的组织，我们对798现场特勤人员�
 
 ![](https://i.imgur.com/lGFnywu.jpg)
 
-<center>现场情况</center>
+<figcaption>现场情况</figcaption>
 
 作为关注同志权益的组织，我们对 798 现场特勤人员的殴打行为表示强烈谴责！这不仅是对 LGBT 群体尊严和权益的践踏，也是对宪法规定的公民基本权力赤裸裸的践踏。
 

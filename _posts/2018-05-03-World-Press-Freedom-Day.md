@@ -71,19 +71,19 @@ description: 今天是第25个世界新闻自由日，2018年世界新闻自由�
 
 ![02.jpg](https://i.loli.net/2018/05/03/5aeaf603294ec.jpg)
 
-<center>图片来源：联合国官网</center>
+<figcaption>图片来源：联合国官网</figcaption>
 
 今年获得联合国教科文组织颁发的吉列尔莫·卡诺新闻自由奖的是埃及摄影记者Mahmoud Abu Zeid（Shawkan）。2013 年 8 月 14 日，埃及前总统穆罕默德·穆尔西的支持者与安全部队在开罗发生冲突，在现场记录的 Shawkan 随后与上百名抗议者一同被指控私藏武器、非法集会、谋杀、谋杀未遂等一系列罪名，并遭埃及政府关押。
 
 ![03.jpg](https://i.loli.net/2018/05/03/5aeaf605d5e94.jpg)
 
-<center>Mahmoud Abu Zeid</center>
+<figcaption>Mahmoud Abu Zeid</figcaption>
 
 联合国教科文组织/吉列尔莫·卡诺世界新闻自由奖设立于1997年，该奖项以哥伦比亚记者吉列尔莫·卡诺·伊萨扎的名字命名。1986年12月17日，在位于波哥大的由自己创办的报社《观察者报》门前，吉列尔莫·卡诺遇刺身亡。
 
 传媒研究（id：xjbcmyj）整理Abu Zeid关于埃及动荡局势的摄影作品，照片表现了2013年7月，埃及开罗，穆尔西的支持者与反对者举行示威集会并爆发冲突。
 
-<center>黑白影像纪录埃及动荡局势</center>
+<figcaption>黑白影像纪录埃及动荡局势</figcaption>
 
 ![04.jpg](https://i.loli.net/2018/05/03/5aeaf6034a325.jpg)
 

@@ -52,7 +52,7 @@ description: 经核，出事机箱为金税信息技术服务股份有限公司�
 
 ![01.jpg](https://i.loli.net/2018/06/15/5b2349eb4a736.jpg)
 
-<center>▲6月8日，常某疑触电倒地，一名黑色衣服男子搭救。视频截图</center>
+<figcaption>▲6月8日，常某疑触电倒地，一名黑色衣服男子搭救。视频截图</figcaption>
 
 “当时明显感觉到脚旁边的水突然变温热”，孟桐告诉重案组37号（微信ID：zhonganzu37）。“是不是触电了？”没人回答她的疑问，旁边一个中年男人伸出一把伞，又伸出手，和另外两名路人一起将男孩抱至路边。
 
@@ -60,7 +60,7 @@ description: 经核，出事机箱为金税信息技术服务股份有限公司�
 
 ![02.jpg](https://i.loli.net/2018/06/15/5b2349efc57a7.jpg)
 
-<center>▲6月8日，医生为常某进行抢救。视频截图</center>
+<figcaption>▲6月8日，医生为常某进行抢救。视频截图</figcaption>
 
 常某的父亲随后得到通知，一路步行、换乘摩的到达现场——此时已过晚上七点，天色逐渐变黑，道路两边已经拉起警戒线。有人朝常父大喊“有电”，可是想着“孩子就在对面”，常父仍然趟着齐大腿的水走过人行道，在经过路中央时感到“两腿发麻”。
 
@@ -68,7 +68,7 @@ description: 经核，出事机箱为金税信息技术服务股份有限公司�
 
 ![03.jpg](https://i.loli.net/2018/06/15/5b2349f01baf4.jpg)
 
-<center>▲死亡证明提到，死亡原因为“电击伤”。图片来源于网络</center>
+<figcaption>▲死亡证明提到，死亡原因为“电击伤”。图片来源于网络</figcaption>
 
 ### “致命”设备机箱用的非专业插线板
 
@@ -84,7 +84,7 @@ description: 经核，出事机箱为金税信息技术服务股份有限公司�
 
 ![04.jpg](https://i.loli.net/2018/06/15/5b2349f2e1bab.jpg)
 
-<center>▲6月13日，少年疑触电身亡事发地现状。新京报记者庞礡摄</center>
+<figcaption>▲6月13日，少年疑触电身亡事发地现状。新京报记者庞礡摄</figcaption>
 
 ### 招标书中明确低洼积水处不能安装
 
@@ -124,7 +124,7 @@ description: 经核，出事机箱为金税信息技术服务股份有限公司�
 
 ![05.jpg](https://i.loli.net/2018/06/15/5b2349f0bfcf8.jpg)
 
-<center>▲6月13日，少年疑触电身亡事发地现状。</center>
+<figcaption>▲6月13日，少年疑触电身亡事发地现状。</figcaption>
 
 新京报记者 庞礡 实习生 郑洁
 
@@ -132,12 +132,12 @@ description: 经核，出事机箱为金税信息技术服务股份有限公司�
 
 ![06.gif](https://i.loli.net/2018/06/15/5b2349efc6fd0.gif)
 
-<center>本文为重案组37号(微信ID:zhonganzu37)原创内容</center>
+<figcaption>本文为重案组37号(微信ID:zhonganzu37)原创内容</figcaption>
 
-<center>未经新京报书面授权，不得转载和使用</center>
+<figcaption>未经新京报书面授权，不得转载和使用</figcaption>
 
-<center>欢迎朋友圈分享</center>
+<figcaption>欢迎朋友圈分享</figcaption>
 
-<center>----------以下为推广----------</center>
+<figcaption>----------以下为推广----------</figcaption>
 
 ![07.jpg](https://i.loli.net/2018/06/15/5b2349ca20248.jpg)

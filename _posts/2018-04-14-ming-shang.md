@@ -126,15 +126,15 @@ description: 冬天过去了，春天已经来了，希望下一个春天我们�
 
 ![01.jpg](https://i.loli.net/2018/04/14/5ad2131b1f41e.jpg)
 
-<center>(保卫处两位保安大哥到达0105询问情况)</center>
+<figcaption>(保卫处两位保安大哥到达0105询问情况)</figcaption>
 
 ![02.jpg](https://i.loli.net/2018/04/14/5ad2131e8c73c.jpg)
 
-<center>(同学们坐在地上静静等待下课)</center>
+<figcaption>(同学们坐在地上静静等待下课)</figcaption>
 
 ![03.jpg](https://i.loli.net/2018/04/14/5ad21321af5a6.jpg)
 
-<center>(临近8:30人员汇集)</center>
+<figcaption>(临近8:30人员汇集)</figcaption>
 
 最后是勺子的几点小看法：
 

@@ -20,7 +20,7 @@ description: 更多的人正勇敢地站出来。
 
 ![01.jpg](https://i.loli.net/2018/04/14/5ad1f8cf5a401.jpg)
 
-<center>张/康/之，南京大学教授、博导</center>
+<figcaption>张/康/之，南京大学教授、博导</figcaption>
 
 **教育部长江学者**（目前我国公共行政学科中的长江学者仅有三人）、原中国人民大学行政学系教授、博士生导师，中山大学行政管理研究中心兼职教授，中国行政管理学会第五届理事会常务理事，兼任多所大学的客座教授、讲座教授和兼职教授。
 
@@ -48,7 +48,7 @@ description: 更多的人正勇敢地站出来。
 
 ![04.jpg](https://i.loli.net/2018/04/14/5ad1f9f132aa8.jpg)
 
-<center>同学被拦在了教室门口</center>
+<figcaption>同学被拦在了教室门口</figcaption>
 
 ![05.jpg](https://i.loli.net/2018/04/14/5ad1fb11119cd.jpg)
 

@@ -69,7 +69,7 @@ description: 一审再审，暂且通过。关于拍照者和这张获奖照片�
 两个孩子，保持了砖雕石刻的姿势。左侧的女子长发垂下，但她的脖颈没有低下，她的胳膊依然支撑在地，她的身体在断裂的楼板下保持了挺立的姿势。
 
 ![](https://i.imgur.com/4J3L4zR.jpg)
-*<center>拍摄者：谢贻卉</center>*
+*<figcaption>拍摄者：谢贻卉</figcaption>*
 
 ![](https://i.imgur.com/it2uQn1.jpg)
 

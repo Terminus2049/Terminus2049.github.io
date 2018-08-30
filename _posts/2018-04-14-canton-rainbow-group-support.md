@@ -127,9 +127,9 @@ description: 一早起来点开朋友圈，发现已是哀鸿遍野，充斥着�
 > momo \| 编辑
 
 ![7d10be62798aba40a6642cf49e638d11-sz_44187](https://i.imgur.com/hiUwtA7.jpg)
-*<center>扫码添加彩虹小助手
+*<figcaption>扫码添加彩虹小助手
 ID:uvwn52416
-防失联！</center>*
+防失联！</figcaption>*
 
 ---
 
@@ -143,5 +143,5 @@ ID:uvwn52416
 > 拥抱彩虹校园
 
 ![d8d6f677b7069833d471d4f443031d5b-sz_242674](https://i.imgur.com/SmMpazQ.gif)
-*<center>扫码支持彩虹小组
-或支付宝账号：chsysu@163.com</center>*
+*<figcaption>扫码支持彩虹小组
+或支付宝账号：chsysu@163.com</figcaption>*

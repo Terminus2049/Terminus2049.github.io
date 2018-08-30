@@ -72,11 +72,11 @@ description: 她把歌词里的“Will I be pretty? Will I be rich?”改成了�
 
 ![团结](https://i.imgur.com/qiGbMlM.png)
 
-<center>这件作品的名字是：团结</center>
+<figcaption>这件作品的名字是：团结</figcaption>
 
 ![挣脱锁链](https://i.imgur.com/zRlCTuP.png)
 
-<center>挣脱锁链</center>
+<figcaption>挣脱锁链</figcaption>
 
 ![无名](https://i.imgur.com/orC9QqZ.png)
 

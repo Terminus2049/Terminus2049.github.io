@@ -61,7 +61,7 @@ Wikipedia : [陶崇园事件](https://zh.wikipedia.org/wiki/%E9%99%B6%E5%B4%87%E
 
 
 ![wangpan&taochongyuan](https://i.imgur.com/Xj03IR9.jpg)
-<center>王攀与陶崇园</center>
+<figcaption>王攀与陶崇园</figcaption>
 
 ## 2
 
@@ -96,7 +96,7 @@ Wikipedia : [陶崇园事件](https://zh.wikipedia.org/wiki/%E9%99%B6%E5%B4%87%E
 截至4月10日，第一封公开信已有480个校友签名，周蔚的邮箱、私信里还有至少50条署名申请。4月8日，公开信被删除后，周蔚又发了最新一版，里面有蓝江的名字，但迫于现在工作学校的压力，他已要求撤掉自己的名字。
 
 ![校友在群里质疑王攀的回应](https://i.imgur.com/x6eD3ER.jpg)
-<center>有校友在群里质疑王攀的回应</center>
+<figcaption>有校友在群里质疑王攀的回应</figcaption>
 
 ## 3
 

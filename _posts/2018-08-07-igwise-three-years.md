@@ -83,4 +83,4 @@ description: 知无知三周岁
 麦子死了，落在地上，又长出许多麦子。愿这座城市和这个国家，生长出更多知无知，生长出更多麦子，以灿烂的姿态，催生腐朽者的倒掉。
 
 ![jiangxue](https://i.loli.net/2018/08/08/5b69c95406e2b.jpg)
-*<center>支持独立写作，请为江雪打赏</center>*
+*<figcaption>支持独立写作，请为江雪打赏</figcaption>*

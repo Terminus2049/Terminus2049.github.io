@@ -25,7 +25,7 @@ description: 近十年来，性少数群体在中国的社会能见度与公众�
 
 ![1](https://i.imgur.com/lRMySLx.jpg)
 
-<center>票圈君微博</center>
+<figcaption>票圈君微博</figcaption>
 
 今天下午，@票圈君 和一些小伙伴戴着彩虹徽章声援国际不再恐同日。
 
@@ -33,7 +33,7 @@ description: 近十年来，性少数群体在中国的社会能见度与公众�
 
 ![2](https://i.imgur.com/Wv9g3LU.jpg)
 
-<center>打人视频部分截图</center>
+<figcaption>打人视频部分截图</figcaption>
 
 根据目击者称，警察赶到事发现场要带走被打的女性，在场群众要求“现在去找打人的保安”，但是警察表示：先带被打的人去警察局。
 
@@ -43,13 +43,13 @@ description: 近十年来，性少数群体在中国的社会能见度与公众�
 
 ![3](https://i.imgur.com/wSWuzH2.jpg)
 
-<center>798打人部分保安</center>
+<figcaption>798打人部分保安</figcaption>
 
 被保安围殴的两个女生，一个到医院缝了针，脸上也查出了软组织挫伤；另一个女生身上有挫伤。而直到此刻，798一方没有道歉更没有赔偿，把人打了也就打了，似乎根本不是个事儿！ 相关微博、视频也在新浪微博被删除或屏蔽。
 
 ![4](https://i.imgur.com/HN9fOGd.jpg)
 
-<center>北京同志中心被删微博</center>
+<figcaption>北京同志中心被删微博</figcaption>
 
 近十年来，性少数群体在中国的社会能见度与公众接受度都在不断提高。然而，在家庭、校园、职场、媒体等现实生活场景中，性少数群体依然容易遭受各类不平等对待，其中更不乏形形色色的偏见歧视、冷热暴力等等。当歧视和暴力事件不幸发生在我们自己身上时，我们应该如何应对呢？
 
@@ -81,7 +81,7 @@ description: 近十年来，性少数群体在中国的社会能见度与公众�
 
 ![5](https://i.imgur.com/S0Qv2Ol.jpg)
 
-<center>网友领到的彩虹徽章</center>
+<figcaption>网友领到的彩虹徽章</figcaption>
 
 ### 2冲突进行时
 
@@ -109,7 +109,7 @@ description: 近十年来，性少数群体在中国的社会能见度与公众�
 
 ![10](https://i.imgur.com/ByJ6QOn.jpg)
 
-<center>网友领到的彩虹徽章</center>
+<figcaption>网友领到的彩虹徽章</figcaption>
 
 ### 3冲突发生后
 
@@ -149,7 +149,7 @@ description: 近十年来，性少数群体在中国的社会能见度与公众�
 
 ![2231](https://i.imgur.com/zg9W02u.jpg)
 
-<center>网友领到的彩虹徽章</center>
+<figcaption>网友领到的彩虹徽章</figcaption>
 
 
 ### 联系方式

@@ -35,7 +35,7 @@ description: 任何同志资讯都将无限期停更。
 **谁想逃跑，可背后就是深渊。**
 
 ![liuyan](https://i.imgur.com/9XFVN5H.png)
-*<center>《你好渣浪，我是同性恋》的文章留言</center>*
+*<figcaption>《你好渣浪，我是同性恋》的文章留言</figcaption>*
 
 ![404](https://i.imgur.com/rcv5dBB.jpg)
 

@@ -254,9 +254,6 @@ description: 《南方周末》未出街稿
 
 对于汤某某的下落，五大连池市公安局政工室负责人表示，市里曾要求把小女孩保护起来，我们公安局专门派人到学校轮流保护她，但 “后期小女孩乱说，有的没有的也说，后来又要钱，不给钱就告你，村民就联合告小女孩，后来孩子就跑了，不知道去哪了。”
 
-<div style="text-align:center">
-<img src="https://i.loli.net/2018/04/26/5ae1b965cb500.jpg" alt="公众号截图">
-<br/>
-公众号截图
-</div>
-<br />
+![公众号截图](https://i.loli.net/2018/04/26/5ae1b965cb500.jpg)
+
+<figcaption>公众号截图</figcaption>
