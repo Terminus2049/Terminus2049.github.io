@@ -2,7 +2,7 @@
 
 layout: post
 
-tilte: 寿光防洪漏洞存在多年，防汛文件形似复制粘贴
+ti: 寿光防洪漏洞存在多年，防汛文件形似复制粘贴
 
 categories: Archive
 
