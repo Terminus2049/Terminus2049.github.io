@@ -31,6 +31,7 @@ Terminus 端点星计划，是在 GitHub 开放平台搭建的一个站点，用
 #### 镜像
 
 * <https://no404more.github.io/Terminus/>
+* <https://T-mirror.github.io/>
 * <https://cmmei.github.io/Terminus/> （已被墙）
 * <https://tsai1993.github.io/Terminus/> （已被墙）
 
