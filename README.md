@@ -26,7 +26,9 @@ Terminus 端点星计划，是在 GitHub 开放平台搭建的一个站点，用
 
 然后就可以通过 `https://<username>.github.io/Terminus` 访问。
 
-但是，这些镜像内容无法自动同步，你可以通过设置 [backstroke-bot](https://backstroke.co/) 机器人或者设置定时任务自动同步，详见 [自动更新镜像](https://github.com/Terminus2049/Terminus2049.github.io/issues/106)。
+但是，这些镜像内容无法自动同步，同步设置比较麻烦，你可以添加 TerminusBot 为 fork 后仓库的协作者，TerminusBot 会帮您同步，设置方法为 fork后的仓库 setting -> Collaborators，搜索并添加**TerminusBot**。
+
+当然，您也可以通过设置 [backstroke-bot](https://backstroke.co/) 机器人或者设置定时任务自动同步，详见 [自动更新镜像](https://github.com/Terminus2049/Terminus2049.github.io/issues/106)。
 
 #### 镜像
 
