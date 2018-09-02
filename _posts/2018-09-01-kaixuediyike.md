@@ -10,9 +10,7 @@ date: 2018-09-01
 
 tags: 开学第一课
 
-image_feature: ""
-
-description:
+description: 教育部要求每个学生和家长观看《开学第一课》节目。
 
 ---
 
