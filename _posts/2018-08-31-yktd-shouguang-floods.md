@@ -29,10 +29,10 @@ description: 水库防洪库容运用方面是否受到过局部利益的扭曲�
 方“搭便车心理”，处于一种相互反对状态，因而忽略了如何在现有条件下提升减灾能力的真问题。
 ```
 
-<p align="right">作者 \| 老田</p>
-<p align="right">编辑 \| 王乐天</p>
-<p align="right">美编 \| 黄山</p>
-<p align="right">微信编辑 \| 侯丽</p>
+<p align="right">作者 | 老田</p>
+<p align="right">编辑 | 王乐天</p>
+<p align="right">美编 | 黄山</p>
+<p align="right">微信编辑 | 侯丽</p>
 
 8月29日，山东省政府的新闻发布会称，这次灾害，“国家防汛抗旱总指挥部办公室专家组认为，一周内连续2次超强降雨是造成洪涝灾害的主要原因，潍坊市水库调度做到了提前预警，最后一次预警较洪峰到达提前6小时，使受威胁群众能够及时转移，水库调度符合调度方案规定。”
 
@@ -202,17 +202,17 @@ description: 水库防洪库容运用方面是否受到过局部利益的扭曲�
 参考文献：
 
 [1]  山东省政府：超强降雨是洪灾主因，潍坊市水库调度符合规定，
-网址：https://www.guancha.cn/society/2018_08_29_470160.shtml
+网址：[https://www.guancha.cn/society/2018_08_29_470160.shtml](https://www.guancha.cn/society/2018_08_29_470160.shtml)
 
-[2]  《山东水利志》，网址：http://lib.sdsqw.cn/bin/mse.exe?seachword=&K=b7&A=1&rec=289&run=13
+[2]  《山东水利志》，网址：[http://lib.sdsqw.cn/bin/mse.exe?seachword=&K=b7&A=1&rec=289&run=13](http://lib.sdsqw.cn/bin/mse.exe?seachword=&K=b7&A=1&rec=289&run=13)
 
-[3]  《潍坊市志》，网址：http://lib.sdsqw.cn/bin/mse.exe?seachword=&K=b7&A=1&rec=132&run=13
+[3]  《潍坊市志》，网址：[http://lib.sdsqw.cn/bin/mse.exe?seachword=&K=b7&A=1&rec=132&run=13](http://lib.sdsqw.cn/bin/mse.exe?seachword=&K=b7&A=1&rec=132&run=13)
 
-[4]  《寿光县志》，网址：http://lib.sdsqw.cn/bin/mse.exe?seachword=&K=c7&A=10&run=12#0
+[4]  《寿光县志》，网址：[http://lib.sdsqw.cn/bin/mse.exe?seachword=&K=c7&A=10&run=12#0](http://lib.sdsqw.cn/bin/mse.exe?seachword=&K=c7&A=10&run=12#0)
 
 [5]  南开大学历史系五公大队村史编写组《五公人民的战斗历程》中华书局1978年，第115-116页
 
-[6]  《北京部分蔬菜批发价涨400% 新发地换产区补货供应》，网址：http://www.sohu.com/a/250244801_384516
+[6]  《北京部分蔬菜批发价涨400% 新发地换产区补货供应》，网址：[http://www.sohu.com/a/250244801_384516](http://www.sohu.com/a/250244801_384516)
 
 [7]  国家统计局：《第三次全国农业普查主要数据公报（第二号）》，网址：
-http://www.stats.gov.cn/tjsj/tjgb/nypcgb/qgnypcgb/201712/t20171215_1563539.html
+[http://www.stats.gov.cn/tjsj/tjgb/nypcgb/qgnypcgb/201712/t20171215_1563539.html](http://www.stats.gov.cn/tjsj/tjgb/nypcgb/qgnypcgb/201712/t20171215_1563539.html)
