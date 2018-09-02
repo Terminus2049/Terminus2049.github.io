@@ -4,11 +4,13 @@ layout: post
 
 title: 老田：寿光洪灾真相！世道人心是如何被出卖与收买的
 
-categories: archive
+categories: Archive
 
 date: 2018-08-31
 
 tags: 寿光洪水
+
+image_feature: "https://i.loli.net/2018/09/02/5b8b140bce493.jpg"
 
 description: 水库防洪库容运用方面是否受到过局部利益的扭曲？
 
