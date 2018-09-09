@@ -4,7 +4,7 @@ layout: post
 
 title: 梁文道：隔离打工子女的这堵墙，也隔开了教育的公平
 
-categories: archive
+categories: Archive
 
 date: 2018-08-29
 

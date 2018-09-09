@@ -4,7 +4,7 @@ layout: post
 
 title: 二十周年校庆刚过，北京最大打工子弟学校或将被拆
 
-categories: archive
+categories: Archive
 
 date: 2018-08-15
 

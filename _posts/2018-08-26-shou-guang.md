@@ -4,7 +4,7 @@ layout: post
 
 title: 寿光村民雨中自杀，贷款大棚、院墙垮塌，曾因二胎被罚13万
 
-categories: archive
+categories: Archive
 
 date: 2018-08-26 11:10
 

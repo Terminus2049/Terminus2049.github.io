@@ -4,7 +4,7 @@ layout: post
 
 title: 山东寿光因水库泄洪被淹，下游人民就该受灾吗？
 
-categories: archive
+categories: Archive
 
 date: 2018-08-23
 

@@ -4,7 +4,7 @@ layout: post
 
 title: 昨天，湖南耒阳，令人揪心的“开学第一课”⋯⋯
 
-categories: archive
+categories: Archive
 
 date: 2018-09-01
 

@@ -4,7 +4,7 @@ layout: post
 
 title: 寿光 | 211篇灾情报道仅一篇质疑政府责任，说好的舆论监督呢？
 
-categories: archive
+categories: Archive
 
 date: 2018-08-31
 

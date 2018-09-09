@@ -4,7 +4,7 @@ layout: post
 
 title: 【教育】《开学第一课》：教育部请向大家道个歉！
 
-categories: archive
+categories: Archive
 
 date: 2018-09-01
 
