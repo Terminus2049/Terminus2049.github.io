@@ -37,7 +37,6 @@ Terminus 端点星计划，是在 GitHub 开放平台搭建的一个站点，用
 * <https://no404more.github.io/Terminus/> （自动更新，推荐）
 * <https://scisheiko.github.io/Terminus/> （自动更新，推荐）
 * <https://cmmei.github.io/Terminus/> （已被墙）
-* <https://tsai1993.github.io/Terminus/> （已被墙）
 
 ## 致谢
 
