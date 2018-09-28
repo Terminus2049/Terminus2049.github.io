@@ -24,11 +24,11 @@ navigation:
     url: /
   - name: 标签
     url: /tags.html
-  - name: 存档
-    url: /archive.html
   - name: 分类
     url: /categories.html
-  - name: 订阅
+  - name: 项目
+    url: /project.html
+  - name: RSS
     url: /atom.xml
   - name: 关于
     url: /about.html
