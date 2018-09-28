@@ -46,13 +46,13 @@ Alreadybutnotyet，一切尚未完成，但一切也早已开始。好书相伴�
 
 ![1984](https://i.loli.net/2018/09/28/5bae3181da271.jpeg)
 
-**<figcaption>《一九八四》</figcaption>**
+<figcaption>《一九八四》</figcaption>
 
 <figcaption>作者：[英]乔治·奥威尔<br>译者：董乐山<br>出版社：花城出版社<br>年份：1985年</figcaption>
 
 ### 2
 
-**<figcaption>《黄金时代》</figcaption>**
+<figcaption>《黄金时代》</figcaption>
 
 <figcaption>作者：王小波<br>出版社：新经典文化·北京十月文艺出版社<br>年份：2017年</figcaption>
 
@@ -62,14 +62,14 @@ Alreadybutnotyet，一切尚未完成，但一切也早已开始。好书相伴�
 
 ![bainiangudu](https://i.loli.net/2018/09/28/5bae326dc72a4.jpeg)
 
-**<figcaption>《百年孤独》</figcaption>**
+<figcaption>《百年孤独》</figcaption>
 
 <figcaption>
 作者：[哥伦比亚]马尔克斯<br>译者：黄锦炎/沈国正/陈泉<br>出版社：上海译文出版社<br>年份：1984年</figcaption>
 
 ### 4
 
-**<figcaption>《极权主义的起源》</figcaption>**
+<figcaption>《极权主义的起源》</figcaption>
 
 <figcaption>作者：[德]汉娜·阿伦特<br>译者：林骧华<br>出版社：三联书店<br>年份：2008年</figcaption>
 
@@ -79,13 +79,13 @@ Alreadybutnotyet，一切尚未完成，但一切也早已开始。好书相伴�
 
 ![wanlishiwunian](https://i.loli.net/2018/09/28/5bae33014dbeb.jpeg)
 
-**<figcaption>《万历十五年》</figcaption>**
+<figcaption>《万历十五年》</figcaption>
 
 <figcaption>作者：[美]黄仁宇<br>出版社：中华书局<br>年份：1982年</figcaption>
 
 ### 6
 
-**<figcaption>《通往奴役之路》</figcaption>**
+<figcaption>《通往奴役之路》</figcaption>
 
 <figcaption>作者：[英]弗里德利希·哈耶克<br>译者：王明毅/冯兴元等<br>出版社：中国社会科学出版社<br>年份：1997年</figcaption>
 
@@ -95,13 +95,13 @@ Alreadybutnotyet，一切尚未完成，但一切也早已开始。好书相伴�
 
 ![xiaoaojianghu](https://i.loli.net/2018/09/28/5bae33a3c9ca1.jpeg)
 
-**<figcaption>《金庸作品集》</figcaption>**
+<figcaption>《金庸作品集》</figcaption>
 
 <figcaption>作者：金庸<br>出版社：生活·读书·新知三联书店<br>年份：1994年</figcaption>
 
 ### 8
 
-**<figcaption>《新教伦理与资本主义精神》</figcaption>**
+<figcaption>《新教伦理与资本主义精神》</figcaption>
 
 <figcaption>作者：[德]马克思·韦伯<br>译者：于晓/陈维纲<br>出版社：生活·读书·新知三联书店<br>年份：1987年</figcaption>
 
@@ -111,7 +111,7 @@ Alreadybutnotyet，一切尚未完成，但一切也早已开始。好书相伴�
 
 ![](http://5b0988e595225.cdn.sohucs.com/images/20180924/77fc9df98f354ebd971a65d9cb0b5d06.jpeg)
 
-**<figcaption>《论美国的民主》</figcaption>**
+<figcaption>《论美国的民主》</figcaption>
 
 <figcaption>作者：[法]阿历克西·德·托克维尔<br>译者：董果良<br>出版社：商务印书馆<br>年份：1988年</figcaption>
 
