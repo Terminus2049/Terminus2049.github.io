@@ -75,7 +75,7 @@ baseurl: # /Terminus
 # paginate_path: /page:num/
 
 # The release of Jekyll Now that you're using
-version: v1.2.0
+version: v3.8.4
 
 # Jekyll 3 now only supports Kramdown for Markdown
 kramdown:
@@ -86,6 +86,11 @@ kramdown:
   syntax_highlighter_opts:
     # Use existing pygments syntax highlighting css
     css_class: 'highlight'
+
+strict_front_matter: true
+
+liquid:
+  error_mode: strict
 
 # Set the Sass partials directory, as we're using @imports
 sass:
