@@ -16,11 +16,11 @@ description: “见了皇上还不快跪下把头低下去，造反了！！”
 
 
 
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码，原文来自[雷斯林] :~~[学生会官场现形记](https://mp.weixin.qq.com/s/dEyJzlrK0ne1aObvBc9g0g)~~ 
+> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码，原文来自[雷斯林] :~~[学生会官场现形记](https://mp.weixin.qq.com/s/dEyJzlrK0ne1aObvBc9g0g)~~
 
 被删文章重发，再被删我就没办法了。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/rHlibCaxYvnNYJrqgpvH5rUNH2vzibv2Mpdiaqu3iauRE0kM4XsRFG3mG1smYwa1jENGRxnpsGmibd9TUk11QlIk8YQ/640?wx_fmt=jpeg)
+![01.jpg](https://i.loli.net/2018/10/03/5bb42eea22d57.jpg)
 
 昨天，这张图火了。
 
@@ -40,11 +40,11 @@ description: “见了皇上还不快跪下把头低下去，造反了！！”
 
 有意思的是，之后袁同学发了一封道歉信（其实我觉得他不必道歉的）。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/rHlibCaxYvnOlF5JjAvr4ic9iaYTuFlOCWNVezTRZJSQLScptsZHurY1lKPuoPBIjpfzfXAXZpCQV2Z7h8XQicdCbw/640?wx_fmt=jpeg)
+![02.jpg](https://i.loli.net/2018/10/03/5bb42eeb48a12.jpg)
 
 然而...
 
-![](https://mmbiz.qpic.cn/mmbiz_png/rHlibCaxYvnOlF5JjAvr4ic9iaYTuFlOCWNicdOrzLibOWWuUF1icK8OFbLURJsZyfCibvicgXXAydLEiaKVUHAnicmSBAuQ/640?wx_fmt=png)
+![03.jpg](https://i.loli.net/2018/10/03/5bb42eeb5639d.jpg)
 
 这范文的对象还是领导。
 
@@ -98,7 +98,7 @@ description: “见了皇上还不快跪下把头低下去，造反了！！”
 
 在学生占绝大多数的网站知乎上，也曾经看过这样一个问题：
 
-![](https://mmbiz.qpic.cn/mmbiz_png/rHlibCaxYvnNt8vrFWWyebcDibzTkhbkBIvUnaf8D3RC6nCGQBrXcljPibK4cMzkSOuSdjjrzia4L6Z5ZPQLvXDDXw/640?wx_fmt=png)
+![04.jpg](https://i.loli.net/2018/10/03/5bb42eea9efd0.jpg)
 
 其实说实话，大家都是学生，也就差个一岁两岁，互相直呼名字都是很正常的事情，别人尊重你叫你一声学长 / 学姐，X 哥 / X 姐，觉得和你亲切就直呼其名，根本不是什么事。
 
@@ -106,13 +106,13 @@ description: “见了皇上还不快跪下把头低下去，造反了！！”
 
 一个很夸张的事实是，现在我国大学学生会已经把官僚那一套模仿地惟妙惟肖，乃至于一个院系下的协会主席，也会装模作样地向下面学生发红头文件。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/rHlibCaxYvnNYJrqgpvH5rUNH2vzibv2Mpry8oTXSjU6gHv0W98Rv6rFGY06FYXzBniaY2QT3fa9ONWp2hDBzS8VA/640?wx_fmt=jpeg)
+![05.jpg](https://i.loli.net/2018/10/03/5bb42eeaa4236.jpg)
 
 而江苏某大学，除了学生会以外，更是从储备干部，挂职干部，到正式干部一应俱全。
 
 其文风之熟练，如果不仔细看，还真以为是哪个大机关下发的重要文件。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/rHlibCaxYvnNYJrqgpvH5rUNH2vzibv2Mpsib9J0X37yzS9wpKqm53nAl8kLibfniaBkZNGK8JobaibszrEL1NqKFWAA/640?wx_fmt=jpeg)
+![06.jpg](https://i.loli.net/2018/10/03/5bb42eeae152c.jpg)
 
 你能想象一个和你一起上课的同学，下了课对你下红头文件吗？
 
@@ -121,9 +121,9 @@ description: “见了皇上还不快跪下把头低下去，造反了！！”
 也难怪 2011 年的时候，中国人民大学副教授陈伟要写一篇文章《学生会，大学最黑暗的一角》，里面说道：
 
 > 我衷心地奉劝诸位朝气蓬勃的大学新生，要远离这样的组织，至少在目前的学生会体制下应当如此。
-> 
+>
 > 因为不夸张的说，我国某些高校的学生会的很多做法，基本是我国体制内最糟糕做法的拙劣复制。
-> 
+>
 > 团委、学生会，堪称中国人民大学敞亮校园中最阴暗的一角。笔者在人大从教五六年，不知道还有什么地方比这里更加乌烟瘴气。一线教师在课堂上苦口婆心地激励学生上进，要求学生珍惜大学时光，努力求知，试图引导学生培养独立人格、自由精神，而党团学生会组织的存在，则以其不容忽视的体制力量，削弱甚至抵消了教师教育工作的努力。
 
 陈伟教授的这番话，可能有误伤，有点以偏概全。
@@ -198,7 +198,7 @@ description: “见了皇上还不快跪下把头低下去，造反了！！”
 
 👇🏻
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/rHlibCaxYvnONTPSBysiaAIx7FL3bheUyT2V56JxUy1bl4VZ2kBNE8GJpbA4THj5CwSibSE8j8tWSwudbic9kvEvGw/640?wx_fmt=gif)
+![07.gif](https://i.loli.net/2018/10/03/5bb42eebc646e.gif)
 
 【推荐阅读】
 
