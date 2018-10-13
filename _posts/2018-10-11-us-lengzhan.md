@@ -10,9 +10,9 @@ date: 2018-10-11
 
 tags: 新冷战
 
-image_feature:
+image_feature: https://i.loli.net/2018/10/13/5bc141b987a1b.jpeg
 
-description:
+description: 2018年10月4日，美国副总统彭斯在哈德逊研究所针对中国发表了一番言辞激烈的演讲，除了贸易战这个大背景，还直指中国干预美国内政和选举、扩大军备支出并非和平崛起，被纽约时报称为“新冷战”的征兆。
 
 ---
 
