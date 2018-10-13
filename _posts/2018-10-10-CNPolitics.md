@@ -16,7 +16,9 @@ description: 在不触碰红线的前提下，主管机构和制作方可谓是�
 
 ---
 
-原文来自微信公众号「政见CNPolitics」，作者聂可：~~[真人秀节目如何与广电总局斗智斗勇 | 政见CNPolitics](http://wechatscope.jmsc.hku.hk:8000/html?fn=gh_3d7193c7078d_2018-10-09_2650993486_cjDySw3A2R.y.tar.gz)~~
+原文来自微信公众号「政见CNPolitics」~~[真人秀节目如何与广电总局斗智斗勇 \| 政见CNPolitics](http://wechatscope.jmsc.hku.hk:8000/html?fn=gh_3d7193c7078d_2018-10-09_2650993486_cjDySw3A2R.y.tar.gz)~~
+
+作者：聂可
 
 ---
 
