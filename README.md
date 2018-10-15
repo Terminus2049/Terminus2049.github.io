@@ -47,16 +47,21 @@ Terminus 端点星计划，是在 GitHub 开放平台搭建的一个站点，用
 - 分享组件 [Share.js](https://github.com/overtrue/share.js)
 - [GitHub Corners](http://tholman.com/github-corners/)
 - [pangu.js](https://github.com/vinta/pangu.js)
+- [github-cards](https://github.com/lepture/github-cards)
 
 ### 服务
 
 免费可靠的图床 [sm.ms](https://sm.ms/)
 
+Chrome 扩展 [reader-mode](https://github.com/fictionalwinner/reader-mode)
+
 ### 贡献者
 
-@TerminusBot @cmmei @b614103080 @ShuttleDDD @IchiroArisugawa @scisheiko @Jephen @p-library @Kurocoppla @Tsai1993 @billy3321 @DarioMeeker
+@TerminusBot @cmmei @b614103080 @ShuttleDDD @IchiroArisugawa @scisheiko @Jephen @p-library @Kurocoppla @Tsai1993 @billy3321 @DarioMeeker @wisdomlover @fictionalwinner
 
 特别致谢 [IchiroArisugawa](https://github.com/IchiroArisugawa) 设计的好看 [LOGO](https://github.com/Terminus2049/Terminus2049.github.io/tree/master/images)。
+
+特别致谢 [fictionalwinner](https://github.com/fictionalwinner) 专门为端点星开发的 Chrome 扩展 [reader-mode](https://github.com/fictionalwinner/reader-mode)。
 
 具体贡献可在 [这里](https://github.com/Info-cn/Terminus/graphs/contributors) 和 [这里](https://github.com/Terminus2049/Terminus2049.github.io/graphs/contributors) 查看。
 
