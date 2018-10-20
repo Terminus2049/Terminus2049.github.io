@@ -16,7 +16,7 @@ description: 10月17日，“女律师称遭警方碰瓷执法”事件当事人
 
 ---
 
-原文来自订阅号「墙洞|NGOCN」：~~[孙世华今向监察委报案，并起诉涉事警员](https://mp.weixin.qq.com/s/R7nrxsscb4W12ICwM13L5g)~~
+原文来自订阅号「墙洞\|NGOCN」：~~[孙世华今向监察委报案，并起诉涉事警员](https://mp.weixin.qq.com/s/R7nrxsscb4W12ICwM13L5g)~~
 
 ---
 
@@ -34,7 +34,7 @@ description: 10月17日，“女律师称遭警方碰瓷执法”事件当事人
 
 ![](https://i.loli.net/2018/10/20/5bcad6293cb37.jpg)
 
-<ffigcaption>律师孙世华此前所发文章部分截图</figcaption>
+<figcaption>律师孙世华此前所发文章部分截图</figcaption>
 
 ### 两名事发时在场者被拘留
 
@@ -76,7 +76,7 @@ NGOCN向孙世华丈夫隋牧青了解到，孙世华在10月11日向广州市�
 
 孙世华10月13日曾公开发表的声明称，广州警方对核心问题仍继续否认；再次强烈要求广州警方公开现场监控视频；呼吁纪检监察、检察等第三方机构依法介入。
 
-<figcaption>**“女律师称遭警方碰瓷执法”事件各方回应**<br>**截止10月13日**</figcaption>
+<figcaption>“女律师称遭警方碰瓷执法”事件各方回应<br />截止10月13日</figcaption>
 
 ![](https://i.loli.net/2018/10/20/5bcad6328e1d6.jpg)
 
