@@ -18,7 +18,7 @@ description: 港珠澳大桥正式通车......
 
 文章来源：图片版：<https://i.loli.net/2018/10/25/5bd1947f9b0a4>
 
-*文中提到的报道链接 list*：https://hackmd.io/s/Hk3eHEy3m
+*文中提到的报道链接 list*：<https://hackmd.io/s/Hk3eHEy3m>
 
 ---
 
