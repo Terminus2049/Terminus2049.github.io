@@ -16,7 +16,7 @@ description: 10月20日，康奈尔大学的劳工关系学院ILR School 与人�
 
 ---
 
-10月20日，康奈尔大学的劳工关系学院ILR School 与人民大学劳动人事学院和人大商学院的2个人力资源和劳工关系交流项目暂停。因为中美两国日益紧张的贸易关系，原本单纯的学术调整可能被误读成了中美两国的政治斗争砝码。  
+10月20日，康奈尔大学的劳工关系学院ILR School 与人民大学劳动人事学院和人大商学院的2个人力资源和劳工关系交流项目暂停。因为中美两国日益紧张的贸易关系，原本单纯的学术调整可能被误读成了中美两国的政治斗争砝码。
 
 ![](https://i.loli.net/2018/11/02/5bdc34140f3d8.jpg)
 
@@ -46,7 +46,7 @@ ILR学院和人大的2个合作项目
 
 ![](https://i.loli.net/2018/11/02/5bdc342819b05.jpg)
 
-康奈尔ILR学院对于Friedman副教授的履历说明：  
+康奈尔ILR学院对于Friedman副教授的履历说明：
 
 ![](https://i.loli.net/2018/11/02/5bdc342a85ff5.jpg)
 
@@ -54,17 +54,17 @@ ILR学院和人大的2个合作项目
 
 康奈尔大学与中国的交流有渊远的历史，但同时也严格遵守学术自由的承诺。具体学术合作项目根据事实情况的调整仅基于该项目的学术层面，并不影响学校其他众多与中国的学术合作项目，也不代表康奈尔大学和各中国教育机构的合作有任何动摇。
 
-![](https://i.loli.net/2018/11/02/5bdc342d42403.jpg)  
+![](https://i.loli.net/2018/11/02/5bdc342d42403.jpg)
 
 该事件后续如有进一步发展，欢迎校友们提供更多线索，为大家还原真实情况。
 
 **相关阅读：**
 
-- [_斯坦福终止北京交流项目︱学生评价北大 混乱水准差报名人少_](http://mp.weixin.qq.com/s?__biz=MzAxMTQ4NDczNQ==&mid=2649700298&idx=1&sn=410eb41be06c8d2cd8d7f939ed85127e&chksm=835bfc9ab42c758c58c7c1f7315fd013c4008545f3c12782d1e7b4005b8588c1cc448b340853&scene=21#wechat_redirect)  
+- [_斯坦福终止北京交流项目︱学生评价北大 混乱水准差报名人少_](http://mp.weixin.qq.com/s?__biz=MzAxMTQ4NDczNQ==&mid=2649700298&idx=1&sn=410eb41be06c8d2cd8d7f939ed85127e&chksm=835bfc9ab42c758c58c7c1f7315fd013c4008545f3c12782d1e7b4005b8588c1cc448b340853&scene=21#wechat_redirect)
 
-- [_双语|十三岁女孩批评沪上国际学校不够重视中国语言文化教育_](http://mp.weixin.qq.com/s?__biz=MzAxMTQ4NDczNQ==&mid=2649700823&idx=1&sn=d64d6394eefe07981f86c9253277c006&chksm=835bf287b42c7b913d4d4f5a2cbd3fd3be5427ed295773141752031c0acd92d8b0a257459174&scene=21#wechat_redirect)  
+- [_双语 \| 十三岁女孩批评沪上国际学校不够重视中国语言文化教育_](http://mp.weixin.qq.com/s?__biz=MzAxMTQ4NDczNQ==&mid=2649700823&idx=1&sn=d64d6394eefe07981f86c9253277c006&chksm=835bf287b42c7b913d4d4f5a2cbd3fd3be5427ed295773141752031c0acd92d8b0a257459174&scene=21#wechat_redirect)
 
-- [_中国大学中外学生待遇对比，连外国人都觉得不可思议_](http://mp.weixin.qq.com/s?__biz=MzAxMTQ4NDczNQ==&mid=2649702710&idx=2&sn=6144f983b33af8e392f32b8afc5257f1&chksm=835b8a66b42c0370acb334ec07479511a695b18f4f5e92521f4423d8f05dc5d0ac0dfd73ce4f&scene=21#wechat_redirect)  
+- [_中国大学中外学生待遇对比，连外国人都觉得不可思议_](http://mp.weixin.qq.com/s?__biz=MzAxMTQ4NDczNQ==&mid=2649702710&idx=2&sn=6144f983b33af8e392f32b8afc5257f1&chksm=835b8a66b42c0370acb334ec07479511a695b18f4f5e92521f4423d8f05dc5d0ac0dfd73ce4f&scene=21#wechat_redirect)
 
 
 _作者：康奈尔中国校友会，原载：康奈尔中国校友会，本文版权归属作者/原载媒体。_
