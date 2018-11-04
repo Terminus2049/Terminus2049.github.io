@@ -1,0 +1,9 @@
+pull_request_rules:
+  - name: automatic merge for Dependabot pull requests on master
+    conditions:
+      - author=backstroke-bot
+      - status-success=continuous-integration/travis-ci
+      - base=master
+    actions:
+      merge:
+        method: merge
