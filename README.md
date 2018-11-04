@@ -33,10 +33,11 @@ Terminus 端点星计划，是在 GitHub 开放平台搭建的一个站点，用
 #### 镜像
 
 * <https://leafflew.github.io/Terminus/> （自动更新，推荐）
-* <https://T-mirror.github.io/> （自动更新，推荐）
+* <https://terminus2049.gear.host> （自动更新，推荐）
+* <https://T-mirror.github.io/> （自动更新，已被墙）
 * <https://no404more.github.io/Terminus/> （自动更新，推荐）
 * <https://scisheiko.github.io/Terminus/> （自动更新，推荐）
-* <https://terminus2049.gitlab.io/> （自动更新，推荐）
+* <https://terminus2049.gitlab.io/> （自动更新，已被墙）
 
 ## 致谢
 
