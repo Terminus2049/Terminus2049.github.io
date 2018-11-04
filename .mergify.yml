@@ -2,7 +2,6 @@ pull_request_rules:
   - name: automatic merge when bot pull request
     conditions:
       - author=backstroke-bot
-      - base=master
     actions:
       merge:
         method: merge
