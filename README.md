@@ -40,6 +40,18 @@ Terminus 端点星计划，是在 GitHub 开放平台搭建的一个站点，用
 * <https://T-mirror.github.io/> （自动更新，已被墙）
 * <https://terminus2049.gitlab.io/> （自动更新，已被墙）
 
+## 本地预览
+
+```
+gem install bundler jekyll
+gem install jekyll-paginate
+gem install jekyll-seo-tag
+gem install jekyll-sitemap
+git clone --depth=1 https://github.com/Terminus2049/Terminus2049.github.io.git
+cd terminus2049.github.io
+jekyll serve
+```
+
 ## 致谢
 
 ### 开源程序
