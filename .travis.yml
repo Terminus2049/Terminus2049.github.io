@@ -6,8 +6,8 @@ after_script:
   - git add .
   - git commit -m "Update Blog By TravisCI With Build $TRAVIS_BUILD_NUMBER"
   # Github Pages
-  - git push --quiet "https://${CI_TOKEN}@${GH_REF}" master:master --tags
+  - git push --quiet "https://${CI_TOKEN}@${GH_REF}" gh-pages:gh-pages --tags
 
 branches:
   only:
-    - gh-pages
+    - master
