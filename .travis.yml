@@ -17,29 +17,12 @@ cache:
 
     - node_modules
 
- 
-
- 
 
 # S: Build Lifecycle
 
 install:
 
   - npm install
-
- 
-
-before_script:
-
- 
-
-# 无其他依赖项所以执行npm run build 构建就行了
-
-script:
-
-  - npm run build
-
- 
 
 after_script:
 
@@ -55,7 +38,7 @@ after_script:
 
   - git commit -m "Auto Update Terminus Github Pages"
 
-  - git push --force --quiet "https://${GH_TOKEN}@${GH_REF}" master:${P_BRANCH}
+  - git push --force --depth=1 --quiet "https://${GH_TOKEN}@${GH_REF}" master:${P_BRANCH}
 
 # E: Build LifeCycle
 
