@@ -7,7 +7,6 @@ node_js:
 
     - '6'
 
- 
 
 # Travis-CI Caching
 
@@ -20,15 +19,12 @@ cache:
 
 # S: Build Lifecycle
 
-script:
-  
-  - git clone --depth=1 --branch=master https://github.com/Mabbs/Terminus.git Mabbs/Terminus
 
 after_script:
 
-  - cd ./dist
-
   - git init
+  
+  - git filter-branch --force --prune-empty --tag-name-filter cat -- --all
 
   - git config user.name "${U_NAME}"
 
