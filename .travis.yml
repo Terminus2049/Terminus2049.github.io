@@ -19,6 +19,9 @@ cache:
 
 # S: Build Lifecycle
 
+script:
+
+  - #Nothing
 
 after_script:
 
