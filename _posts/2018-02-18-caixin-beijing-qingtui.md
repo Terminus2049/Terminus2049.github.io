@@ -3,7 +3,7 @@ layout: post
 title:  被清退以后，他们怎样过年
 date:   2018-02-18 15:24
 categories: Archive
-tags: 清理低端人口
+tags: 北京驱逐
 description: 2017年11月18日一场大火过后，许多外来务工者离开北京。他们春节过得如何？新一年有什么期盼和打算？
 ---
 
