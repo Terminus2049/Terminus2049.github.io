@@ -1,6 +1,6 @@
 ---
 
-layput: post
+layout: post
 
 title: 北京腾退回忆录 | 我们共同的冬天
 
