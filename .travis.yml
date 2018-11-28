@@ -5,15 +5,10 @@ script:
   - #Nothing
 
 after_script:
-  
-  - git filter-branch --force --all
-
+  - rm -rf .git
+  - git init
   - git push --force --quiet "https://${GH_TOKEN}@${GH_REF}" master:${P_BRANCH}
-
 # E: Build LifeCycle
-
- 
-
 #指定分支，只有指定的分支提交时才会运行脚本
 
 branches:
