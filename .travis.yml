@@ -1,22 +1,3 @@
-
-language: node_js
-
-# nodejs版本
-
-node_js: 
-
-    - '6'
-
-
-# Travis-CI Caching
-
-cache:
-
-  directories:
-
-    - node_modules
-
-
 # S: Build Lifecycle
 
 script:
@@ -24,18 +5,8 @@ script:
   - #Nothing
 
 after_script:
-
-  - git init
   
-  - git filter-branch --force --prune-empty --tag-name-filter cat -- --all
-
-  - git config user.name "${U_NAME}"
-
-  - git config user.email "${U_EMAIL}"
-
-  - git add .
-
-  - git commit -m "Auto Update Terminus Github Pages"
+  - git filter-branch --force --all
 
   - git push --force --quiet "https://${GH_TOKEN}@${GH_REF}" master:${P_BRANCH}
 
