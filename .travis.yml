@@ -3,7 +3,12 @@ rvm:
   - 2.3.3
 
 script:
-  - bundle install
+  - gem install jekyll
+  - gem install bundle
+  - gem install jekyll-feed
+  - gem install jekyll-paginate
+  - gem install jekyll-seo-tag
+  - gem install jekyll-sitemap
   - bundle exec jekyll build
 
 after_script:
