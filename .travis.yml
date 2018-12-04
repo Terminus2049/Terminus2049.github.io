@@ -13,6 +13,7 @@ script:
 
 after_script:
   - cd _site
+  - echo "terminus2049.gear.host">CNAME
   - git init
   - git checkout master
   - git add .
