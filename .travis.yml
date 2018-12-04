@@ -1,21 +1,19 @@
-# S: Build Lifecycle
+language: ruby
+rvm:
+  - 2.3.3
 
 script:
-
-  - #Nothing
+  - bundle install
+  - bundle exec jekyll build
 
 after_script:
-  - rm -rf .git
+  - cd _site
   - git init
   - git checkout master
   - git add .
   - git commit -m "Auto Sync"
   - git push --force --quiet "https://${GH_TOKEN}@${GH_REF}" master:${P_BRANCH}
-# E: Build LifeCycle
-#指定分支，只有指定的分支提交时才会运行脚本
 
 branches:
-
   only:
-
     - master
