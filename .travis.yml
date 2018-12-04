@@ -9,7 +9,7 @@ script:
   - gem install jekyll-paginate
   - gem install jekyll-seo-tag
   - gem install jekyll-sitemap
-  - bundle exec jekyll build
+  - jekyll build
 
 after_script:
   - cd _site
