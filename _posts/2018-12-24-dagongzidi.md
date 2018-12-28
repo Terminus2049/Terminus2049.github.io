@@ -16,7 +16,7 @@ description: 多年来，关于打工子弟学校拆迁的新闻虽然时而能�
 
 ---
 
-原文来自订阅号「新公民计划」：~~[亲历|北京大兴打工子弟学校拆迁风波](https://mp.weixin.qq.com/s?__biz=MzA5MDExNTkwMw==&mid=2650043807&idx=1&sn=fb039b085a0bf03fe4727b2fc4ba9e68&chksm=88104fcfbf67c6d9104fff6a337d3ec99d5e46eedfb73faef2cb5d8f2cb907ccc22569e700a6&xtrack=1&scene=0&subscene=131&clicktime=1545652798&ascene=7&devicetype=android-28&version=27000010&nettype=WIFI&abtest_cookie=BAABAAoACwATABQABAAjlx4AV5keAJuZHgCcmR4AAAA%3D&lang=zh_TW&pass_ticket=txkYNalegOZloe1Um1dwISt0lsR5eosIY%2BBErvAmxid3ffvGCgIPlkMARd3Bc5H%2B&wx_header=1)~~
+原文来自订阅号「新公民计划」：~~[亲历\|北京大兴打工子弟学校拆迁风波](https://mp.weixin.qq.com/s?__biz=MzA5MDExNTkwMw==&mid=2650043807&idx=1&sn=fb039b085a0bf03fe4727b2fc4ba9e68&chksm=88104fcfbf67c6d9104fff6a337d3ec99d5e46eedfb73faef2cb5d8f2cb907ccc22569e700a6&xtrack=1&scene=0&subscene=131&clicktime=1545652798&ascene=7&devicetype=android-28&version=27000010&nettype=WIFI&abtest_cookie=BAABAAoACwATABQABAAjlx4AV5keAJuZHgCcmR4AAAA%3D&lang=zh_TW&pass_ticket=txkYNalegOZloe1Um1dwISt0lsR5eosIY%2BBErvAmxid3ffvGCgIPlkMARd3Bc5H%2B&wx_header=1)~~
 
 作者：岳毅桦
 
