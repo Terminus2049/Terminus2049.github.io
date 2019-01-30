@@ -194,11 +194,11 @@ description: 通过互联网表达的公共舆论在中国公共空间中占有�
 
 **更多阅读推荐**
 
-1.[胡泳 | 中国互联网二十年：自由的向往，信任的呼唤](http://mp.weixin.qq.com/s?__biz=MjM5MzA1MTQ4MQ==&mid=2650144313&idx=1&sn=0d4ec17003c7ffbe4225c5b777eb49e1&chksm=be9db80f89ea3119888ae700a9a5d67c97ea2fa4b4e995af7dfb2d8e45855f3180622c1c02c8&scene=21#wechat_redirect)  
+1.[胡泳 \| 中国互联网二十年：自由的向往，信任的呼唤](http://mp.weixin.qq.com/s?__biz=MjM5MzA1MTQ4MQ==&mid=2650144313&idx=1&sn=0d4ec17003c7ffbe4225c5b777eb49e1&chksm=be9db80f89ea3119888ae700a9a5d67c97ea2fa4b4e995af7dfb2d8e45855f3180622c1c02c8&scene=21#wechat_redirect)  
 
-2.[胡泳 | 我们处在巨变的前夜](https://mp.weixin.qq.com/s?__biz=MjM5MzA1MTQ4MQ==&mid=2650144386&idx=1&sn=fb0d1016f084874609b65e18c70bf893&chksm=be9db8b489ea31a24c4b475669af93062f04e0d5a11b94cf7fb040c93692d24c4e8541ea63bf&token=1111738889&lang=zh_CN&scene=21#wechat_redirect)
+2.[胡泳 \| 我们处在巨变的前夜](https://mp.weixin.qq.com/s?__biz=MjM5MzA1MTQ4MQ==&mid=2650144386&idx=1&sn=fb0d1016f084874609b65e18c70bf893&chksm=be9db8b489ea31a24c4b475669af93062f04e0d5a11b94cf7fb040c93692d24c4e8541ea63bf&token=1111738889&lang=zh_CN&scene=21#wechat_redirect)
 
-**赞****赏**
+**赞赏**
 
 **中国互联网二十年**
 
