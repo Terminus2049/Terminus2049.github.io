@@ -8,7 +8,7 @@ categories: Archive
 
 date: 2019-01-31
 
-tags: 张千帆
+tags: 宪法学导论
 
 image_feature: "https://i.loli.net/2019/02/01/5c53f5d9d1347.gif"
 
@@ -30,7 +30,7 @@ description: 宪法第35条规定了言论出版自由，出版和教学不应�
 
 ![](https://i.loli.net/2019/02/01/5c53f41317deb.jpg)
 
-**<figcaption>图片截图自：浙江省嘉兴学院教务处通知文件</figcaption>**
+<figcaption>图片截图自：浙江省嘉兴学院教务处通知文件</figcaption>
 
 同时有传闻称，中国政法大学柯华庆教授举报多名宪法学者参与编撰的宪法学教材“吹捧西方”，港媒《星岛日报》采访柯华庆时，他否认曾作此举报。据柯华庆微博介绍，他是“共同自由理论和党导立宪制提出者”。
 
@@ -108,7 +108,7 @@ description: 宪法第35条规定了言论出版自由，出版和教学不应�
 
 ![](https://i.loli.net/2019/02/01/5c53f41499b5d.jpg)
 
-**还可以添加小编微信：ngocn03，永不失联**
+<figcaption>**还可以添加小编微信：ngocn03，永不失联**</figcaption>
 
 ![](https://i.loli.net/2019/02/01/5c53f414eb62c.jpg)
 
