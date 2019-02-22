@@ -16,7 +16,7 @@ description: 天下苦秦久矣。
 
 ---
 
-原文来自「短史记」：~~[新版语文教科书删掉了课文《陈涉世家》 | 短史记](https://mp.weixin.qq.com/s/9sGlZ6CBTBZwzQos-xCuzw)~~
+原文来自「短史记」：~~[新版语文教科书删掉了课文《陈涉世家》 \| 短史记](https://mp.weixin.qq.com/s/9sGlZ6CBTBZwzQos-xCuzw)~~
 
 ---
 
