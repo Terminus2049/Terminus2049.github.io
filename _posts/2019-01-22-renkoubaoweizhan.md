@@ -4,7 +4,7 @@ layout: post
 
 title: 拍出四万亿鼓励生育，可行吗？
 
-categories: archive
+categories: Archive
 
 date: 2019-01-22
 
