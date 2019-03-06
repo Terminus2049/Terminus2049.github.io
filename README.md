@@ -31,12 +31,11 @@ Terminus 端点星计划，是在 GitHub 开放平台搭建的一个站点，用
 当然，您也可以通过设置 [backstroke-bot](https://backstroke.co/) 机器人或者设置定时任务自动同步，详见 [自动更新镜像](https://github.com/Terminus2049/Terminus2049.github.io/issues/106)。
 
 #### 镜像
-
-* <https://leafflew.github.io/Terminus/> （自动更新，推荐）
-* <https://no404more.github.io/Terminus/> （自动更新，推荐）
-* <https://scisheiko.github.io/Terminus/> （自动更新，推荐）
-* <https://weiweishe.github.io/Terminus/> （自动更新，推荐）
-* <https://nyanpasu-poi.github.io/Terminus/> （自动更新，推荐）
+* <https://seawolfmao.github.io/Terminus/> （自动更新，推荐）
+* <https://leafflew.github.io/Terminus/> （自动更新，已被墙）
+* <https://no404more.github.io/Terminus/> （自动更新，已被墙）
+* <https://scisheiko.github.io/Terminus/> （自动更新，已被墙）
+* <https://weiweishe.github.io/Terminus/> （自动更新，已被墙）
 * <https://terminus2049.gear.host/> （自动更新，已被墙）
 * <https://T-mirror.github.io/> （自动更新，已被墙）
 * <https://terminus2049.gitlab.io/> （自动更新，已被墙）
