@@ -6,6 +6,8 @@ title: 响水灰犀牛
 
 tags: 响水化工厂爆炸
 
+categories: Archive
+
 date: 2019-03-24
 
 image_feature: "https://i.loli.net/2019/03/25/5c98d5b0db86d.jpg"

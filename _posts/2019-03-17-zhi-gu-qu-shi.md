@@ -6,6 +6,8 @@ title: 以人民的名义，向央企动刀！中国正在玩一场需要超高�
 
 tags: 财政平衡
 
+categories: Archive
+
 date: 2019-03-17
 
 image_feature: "https://i.loli.net/2019/03/17/5c8e423da57e6.jpg"
