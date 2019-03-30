@@ -6,6 +6,8 @@ title: 大新闻来了，记者却已经不见了 | 董啸
 
 tags: 响水化工厂爆炸
 
+categories: Archive
+
 date: 2019-03-22
 
 image_feature: "https://i.loli.net/2019/03/23/5c95ce35f2b7d.jpg"

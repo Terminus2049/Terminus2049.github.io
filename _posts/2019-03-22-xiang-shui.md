@@ -6,6 +6,8 @@ title: 盐城爆炸伤亡近700人的背后，是屡屡出事的化工厂
 
 tags: 响水化工厂爆炸
 
+categories: Archive
+
 date: 2019-03-22 10:00:00
 
 image_feature: "https://i.loli.net/2019/03/23/5c95d07f74768.jpg"

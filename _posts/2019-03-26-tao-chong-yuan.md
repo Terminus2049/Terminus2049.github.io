@@ -6,6 +6,8 @@ title: 陶崇园：被遮蔽与被损害的 | 谷雨
 
 tags: 陶崇园之死
 
+categories: Archive
+
 date: 2019-03-26
 
 image_feature: "https://i.loli.net/2019/03/26/5c9a4808d3aef.jpg"
