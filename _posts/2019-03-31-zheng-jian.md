@@ -44,11 +44,11 @@ description: 在这个年代控制信息的一个主要方式其实就是消耗�
 
 [![](https://i.loli.net/2019/04/02/5ca242821b4b8.jpg)](https://archive.li/qGf3u/0584829c8317c00fe3a7cddc406ce8c0c2ac9545)
 
-_To the Southern Weekly and its readers–_
-
-_I look forward to continuing the ties between our two countries, and congratulate you for contributing to the analysis and flow of vital political information. An educated citizenry is the key to an effective government, and a free press contributes to that well-informed citizenry._
-
-_致《南方周末》及其读者，我希望继续维护我们两国间的关系，并祝贺你们在传递关键的政治信息和分析上的贡献。受过教育的公民是建立一个有效率的政府的关键，而自由的媒体对这一知情的公民群体大有助益。_
+> _To the Southern Weekly and its readers–_
+>
+> _I look forward to continuing the ties between our two countries, and congratulate you for contributing to the analysis and flow of vital political information. An educated citizenry is the key to an effective government, and a free press contributes to that well-informed citizenry._
+>
+> **致《南方周末》及其读者，我希望继续维护我们两国间的关系，并祝贺你们在传递关键的政治信息和分析上的贡献。受过教育的公民是建立一个有效率的政府的关键，而自由的媒体对这一知情的公民群体大有助益。**
 
 这段话说得非常好。这种“知情”（informed）非常重要。**我们每个人每天在这个世界上都会做很多决定，作出决定的基础就是我们是否能充分掌握信息**。比如中午去哪里吃饭、要不要去香港读研究生、要不要和某个人谈恋爱、选择从事怎样的工作，等等等等，我推荐大家都在尽量知情的情况下作出决定。
 
@@ -196,6 +196,6 @@ _“虽然各种学术流派可以大量传播，然而真理已经亲自上阵�
 
 基本上，我在这半小时的时间里回顾了自己最开始做的事情到现在更关注的方面，确实像洁平指出的，我可以用一个线索把这些事情梳理下来。谢谢大家！
 
-![](https://i.loli.net/2019/04/02/5ca2428b36bce.jpg)
+---
 
-**希望能有更多的公众参与到对科技平台的监督当中来，一起发声，一起为自己争取一个更好的互联网、更优质的信息环境。**
+> **希望能有更多的公众参与到对科技平台的监督当中来，一起发声，一起为自己争取一个更好的互联网、更优质的信息环境。**
