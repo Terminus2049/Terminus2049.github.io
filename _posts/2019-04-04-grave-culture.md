@@ -72,7 +72,7 @@ _“坟地就像商铺，有阴阳两界的区块链特征，好地段上风上�
 
 ![](https://i.loli.net/2019/04/05/5ca6ed37eac99.jpg)
 
-<figcaputre>上风上水大宅，树立了埋人的价格丰碑</figcapture>
+<figcapture>上风上水大宅，树立了埋人的价格丰碑</figcapture>
 
 对于平民而言，只能在殡葬礼仪上多讲究一下。
 
