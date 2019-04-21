@@ -13,7 +13,7 @@ script:
 
 after_script:
   - cd _site
-  - echo "no404more.gear.host">CNAME
+  - echo "www.fmprc.gov.cn">CNAME
   - git init
   - git checkout master
   - git add .
