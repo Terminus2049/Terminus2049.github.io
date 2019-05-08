@@ -8,7 +8,7 @@ categories: Archive
 
 date: 2018-09-07
 
-tags: P2P受害
+tags: p2p
 
 image_feature: "https://i.loli.net/2018/09/07/5b928d7d41398.jpeg"
 
