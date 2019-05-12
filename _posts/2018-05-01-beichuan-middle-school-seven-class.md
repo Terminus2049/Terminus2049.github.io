@@ -25,7 +25,7 @@ https://m.sohu.com/a/229855738_658673/?pvid=000115_3w_a&from=timeline)~~
 
 ---
 
-文|王一然 编辑|王珊
+文\|王一然 编辑\|王珊
 
 老北川中学就剩下这两棵泡桐树了，也只有幸存者才能认出来。地震前，它们守在操场边，斜对着教学楼，认得那些上课时发呆的学生，操场上疯跑的男生，还有树下偷偷拉过的手。
 
@@ -49,7 +49,7 @@ https://m.sohu.com/a/229855738_658673/?pvid=000115_3w_a&from=timeline)~~
 
  ![](https://i.loli.net/2019/05/12/5cd813be02929.jpg)
 
-<figcapture>（老北川中学仅存的泡桐树。孙俊彬 摄）</figcapture>
+<figcaption>（老北川中学仅存的泡桐树。孙俊彬 摄）</figcaption>
 
 ## 放大镜下的同学会
 
@@ -67,7 +67,7 @@ https://m.sohu.com/a/229855738_658673/?pvid=000115_3w_a&from=timeline)~~
 
  ![](https://i.loli.net/2019/05/12/5cd813bf636ee.jpg)
 
-<figcapture>（老北川县城地震遗址一所小学保留的操场，只剩下两个篮球架。王一然 摄）</figcapture>
+<figcaption>（老北川县城地震遗址一所小学保留的操场，只剩下两个篮球架。王一然 摄）</figcaption>
 
 据公开数据统计，5·12四川汶川特大地震造成北川县死亡15645人，失踪4311人。这其中，有朱璐的父亲，他曾是掌勺大厨，地震后，朱璐家的饭馆没再开下去；有石先军的母亲，同学们以前常听他提起“母亲做饭好吃”；还包括班主任李刚的同事，地震前，他们每天围着篮球场晨跑。
 
@@ -87,7 +87,7 @@ https://m.sohu.com/a/229855738_658673/?pvid=000115_3w_a&from=timeline)~~
 
  ![](https://i.loli.net/2019/05/12/5cd813c1d4b1e.jpg)
 
-<figcapture>（北川中学2010级7班合影。邓涛 摄）</figcapture>
+<figcaption>（北川中学2010级7班合影。邓涛 摄）</figcaption>
 
 ## 幸存者青春物语
 
@@ -135,7 +135,7 @@ https://m.sohu.com/a/229855738_658673/?pvid=000115_3w_a&from=timeline)~~
 
  ![](https://i.loli.net/2019/05/12/5cd813c43e10e.jpg)
 
-<figcapture>（北川中学2010级7班毕业照。）</figcapture>
+<figcaption>（北川中学2010级7班毕业照。）</figcaption>
 
 ## 秘密
 
@@ -167,7 +167,7 @@ https://m.sohu.com/a/229855738_658673/?pvid=000115_3w_a&from=timeline)~~
 
  ![](https://i.loli.net/2019/05/12/5cd813cae17e3.jpg)
 
-<figcapture>（今年的同学会上，邓永丰在给班里的三个女生拍照。邓涛 摄）</figcapture>
+<figcaption>（今年的同学会上，邓永丰在给班里的三个女生拍照。邓涛 摄）</figcaption>
 
 ## 杜鹃花开
 
@@ -209,7 +209,7 @@ https://m.sohu.com/a/229855738_658673/?pvid=000115_3w_a&from=timeline)~~
 
  ![](https://i.loli.net/2019/05/12/5cd813cf5cb9c.jpg)
 
-<figcapture>（纪念地震十周年活动中，北川中学初中部2017级7班杨琪琪 田吴琼作品《曾经至现在》）</figcapture>
+<figcaption>（纪念地震十周年活动中，北川中学初中部2017级7班杨琪琪 田吴琼作品《曾经至现在》）</figcaption>
 
 ## “如果世界上所有人都忘掉他们，他们就会彻底消失”
 
@@ -255,7 +255,7 @@ https://m.sohu.com/a/229855738_658673/?pvid=000115_3w_a&from=timeline)~~
 
  ![](https://i.loli.net/2019/05/12/5cd813d2e6317.jpg)
 
-<figcapture>（朱璐平日里的速写，她家的小饭馆开在这里，地震前，每天打烊后父亲在屋里整理啤酒瓶，朱璐蹲在外面玩。）</figcapture>
+<figcaption>（朱璐平日里的速写，她家的小饭馆开在这里，地震前，每天打烊后父亲在屋里整理啤酒瓶，朱璐蹲在外面玩。）</figcaption>
 
 ## 永恒的守候
 
