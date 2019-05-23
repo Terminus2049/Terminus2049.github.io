@@ -10,6 +10,8 @@ date: 2019-05-23
 
 tags: 贸易战
 
+image_feature: ""
+
 description: 贸易战的本质是什么？美方的诉求是什么？我们为什么不能答应？
 
 ---
