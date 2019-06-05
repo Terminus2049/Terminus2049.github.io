@@ -10,7 +10,7 @@ date: 2019-06-04
 
 tags: 社会转型
 
-image_feature: "https://i.loli.net/2019/06/03/5cf52d41ba6bd44070.jpg"
+image_feature: "https://i.loli.net/2019/06/05/5cf7cce7d47df72480.jpeg"
 
 description: 记忆和真相，从来都不是为了离开的人，逝者已逝，他们什么都不会知道了。但倘若要使那些本来不值的逝去都能重新创造出些意义，唯一的出路便是记忆。记住他们，不仅是对逝者苦痛的亲人的慰籍，更是幸存者面对未来的使命和责任。
 
