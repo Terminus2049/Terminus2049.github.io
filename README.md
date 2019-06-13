@@ -32,6 +32,7 @@ Terminus 端点星计划，是在 GitHub 开放平台搭建的一个站点，用
 
 #### 镜像
 
+* <https://wxdeletedarticle.github.io/Terminus/> （自动更新状况未知）
 * <https://terminus2049-isupportyou.github.io/Terminus/> （自动更新失败）
 * <https://qiaoqi945.github.io/Terminus/> （自动更新失败）
 * <https://seawolfmao.github.io/Terminus/> （自动更新，推荐）
