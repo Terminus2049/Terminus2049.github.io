@@ -13,27 +13,11 @@ Terminus 端点星计划，是在 GitHub 开放平台搭建的一个站点，用
 
 详见置顶文章 [如何参与端点星计划](https://github.com/Terminus2049/Terminus2049.github.io/blob/master/_posts/2018-04-01-how-to-participate-in-terminus.md)
 
-### 如何帮助打破封锁
+## 镜像网站
 
-由于官方 GitHub Page 已经被墙，你可以轻松做一个可直连的网站：
-
-方法：
-1. 注册 GitHub
-2. fork <https://github.com/Terminus2049/Terminus2049.github.io>
-3. 在 setting 中打开 GitHub Page，source 选择“master branch”
-4. 在 setting 中将项目名称改为 Terminus
-5. 修改 fork 后的仓库，将 `_config.yml` 中第 68 行 `baseurl: # /Terminus` 中的 “#” 去掉，并将 62 行 `url: https://Terminus2049.github.io` 改为 `url: https://<username>.github.io`
-
-然后就可以通过 `https://<username>.github.io/Terminus` 访问。
-
-但是，这些镜像内容无法自动同步，同步设置比较麻烦，你可以添加 TerminusBot 为 fork 后仓库的协作者，TerminusBot 会帮您同步，设置方法为 fork后的仓库 setting -> Collaborators，搜索并添加**TerminusBot**。
-
-当然，您也可以通过设置 [backstroke-bot](https://backstroke.co/) 机器人或者设置定时任务自动同步，详见 [自动更新镜像](https://github.com/Terminus2049/Terminus2049.github.io/issues/106)。
-
-#### 镜像
-
-* <https://wxdeletedarticle.github.io/Terminus/> （自动更新状况未知）
-* <https://terminus2049-isupportyou.github.io/Terminus/> （自动更新失败）
+* <https://wxdeletedarticle.github.io/Terminus/> （自动更新）
+* <https://nyanpasu-poi.github.io/Terminus/>（自动更新）
+* <https://terminus2049-isupportyou.github.io/Terminus/> （自动更新）
 * <https://qiaoqi945.github.io/Terminus/> （自动更新失败）
 * <https://seawolfmao.github.io/Terminus/> （自动更新，推荐）
 * <https://leafflew.github.io/Terminus/> （自动更新，已被墙）
