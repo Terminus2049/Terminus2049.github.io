@@ -15,7 +15,7 @@ description: 有形之墙是有寿命的。无论怎样自诩为金汤永固，�
 
 ---
 
-原文：[姜汁满头 | 翻墙是有罪的](https://wemp.app/posts/a1fe90a1-9ff2-4e14-8ff1-7ec1f7de6f26)
+原文：[姜汁满头 \| 翻墙是有罪的](https://wemp.app/posts/a1fe90a1-9ff2-4e14-8ff1-7ec1f7de6f26)
 
 ---
 
