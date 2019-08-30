@@ -8,6 +8,8 @@ categories: Archive
 
 date: 2019-08-28
 
+tags: 非洲留学生
+
 image_feature: "![](https://i.loli.net/2019/08/30/69OKQivIj73yaTs.jpg)"
 
 description: 1960年，中国政府从非洲国家招募了100多名学生，但大多数非洲留学生在北京生活了一年多以后不但要求回，甚至发起罢课和绝食，和中国官方发生冲突，最后如愿回到非洲。
