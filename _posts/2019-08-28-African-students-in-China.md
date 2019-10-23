@@ -10,13 +10,13 @@ date: 2019-08-28
 
 tags: 非洲留学生
 
-image_feature: "![](https://i.loli.net/2019/08/30/69OKQivIj73yaTs.jpg)"
+image_feature: "https://i.loli.net/2019/08/30/69OKQivIj73yaTs.jpg"
 
 description: 1960年，中国政府从非洲国家招募了100多名学生，但大多数非洲留学生在北京生活了一年多以后不但要求回，甚至发起罢课和绝食，和中国官方发生冲突，最后如愿回到非洲。
 
 ---
 
-原文来自公众号「孙立平社会观察」，作者 程映虹 
+原文来自公众号「孙立平社会观察」，作者 程映虹
 
 ---
 
@@ -110,23 +110,23 @@ description: 1960年，中国政府从非洲国家招募了100多名学生，但
 
 [第121讲 浮华与殷实：不同的模式定型为不同的社会](https://mp.weixin.qq.com/s?__biz=MzIyNjgzNTc0NQ==&mid=2247487129&idx=1&sn=d2e0d80cd19e4f1eb3822cda3e0a7c28&chksm=e86b22d7df1cabc15e36163c874c5aaf7053160b945795ed83b4ddfd8bb936195d74f39d9896&token=852742586&lang=zh_CN&scene=21#wechat_redirect)
 
-[第118讲 张扣扣复仇案：悲剧是如何一步步形成的？](https://mp.weixin.qq.com/s?__biz=MzIyNjgzNTc0NQ==&mid=2247487055&idx=2&sn=64a252fdfd06728e14f0705fcdc80a26&chksm=e86b2201df1cab17b046c585cd13817820c8239a97348e8a8b5bd1ac256fc53447aeb141c34a&token=339508922&lang=zh_CN&scene=21#wechat_redirect)  
+[第118讲 张扣扣复仇案：悲剧是如何一步步形成的？](https://mp.weixin.qq.com/s?__biz=MzIyNjgzNTc0NQ==&mid=2247487055&idx=2&sn=64a252fdfd06728e14f0705fcdc80a26&chksm=e86b2201df1cab17b046c585cd13817820c8239a97348e8a8b5bd1ac256fc53447aeb141c34a&token=339508922&lang=zh_CN&scene=21#wechat_redirect)
 
 [第117讲 自由主义要面对新情况新问题](https://mp.weixin.qq.com/s?__biz=MzIyNjgzNTc0NQ==&mid=2247487121&idx=1&sn=e88bdf56c8c142b1316d2039ec2eaa8d&chksm=e86b22dfdf1cabc98cee77c0cd00bb09759b55836f1f1ad8c0ded28ca93272adcc7d23726463&token=339508922&lang=zh_CN&scene=21#wechat_redirect)
 
-[第116讲 中产阶层的现状与未来发展的潜力](https://mp.weixin.qq.com/s?__biz=MzIyNjgzNTc0NQ==&mid=2247487031&idx=1&sn=780c8a8e77c05e655f3adb9c873375d8&chksm=e86b2279df1cab6fafc614066ec29066551161077975d04b11b70fb909c4013fce86463774d8&token=339508922&lang=zh_CN&scene=21#wechat_redirect)  
+[第116讲 中产阶层的现状与未来发展的潜力](https://mp.weixin.qq.com/s?__biz=MzIyNjgzNTc0NQ==&mid=2247487031&idx=1&sn=780c8a8e77c05e655f3adb9c873375d8&chksm=e86b2279df1cab6fafc614066ec29066551161077975d04b11b70fb909c4013fce86463774d8&token=339508922&lang=zh_CN&scene=21#wechat_redirect)
 
 [第115讲 多想想那些将来可能很棘手的问题](https://mp.weixin.qq.com/s?__biz=MzIyNjgzNTc0NQ==&mid=2247487081&idx=1&sn=e8838df9c9e6a42481625d7e0c2d2785&chksm=e86b2227df1cab311f1556a95c6819530e9e5e3bda9ff3a3e7a9d80e1b47cf985633a6118f77&token=339508922&lang=zh_CN&scene=21#wechat_redirect)
 
-[第114讲：垃圾分类与运动式治理](https://mp.weixin.qq.com/s?__biz=MzIyNjgzNTc0NQ==&mid=2247486987&idx=1&sn=25953045ee00729622fa1b436c7e5060&chksm=e86b2245df1cab535ca7e69b74b79e8b5c3feff441132c4e3851d9cf3f8af17ab60282b877e7&token=339508922&lang=zh_CN&scene=21#wechat_redirect)  
+[第114讲：垃圾分类与运动式治理](https://mp.weixin.qq.com/s?__biz=MzIyNjgzNTc0NQ==&mid=2247486987&idx=1&sn=25953045ee00729622fa1b436c7e5060&chksm=e86b2245df1cab535ca7e69b74b79e8b5c3feff441132c4e3851d9cf3f8af17ab60282b877e7&token=339508922&lang=zh_CN&scene=21#wechat_redirect)
 
 [第112讲 发展机遇期与遏制窗口期：对修昔底德陷阱的进一步探究之二](https://mp.weixin.qq.com/s?__biz=MzIyNjgzNTc0NQ==&mid=2247487102&idx=1&sn=f5200f16fa704301610187ddb0fb3779&chksm=e86b2230df1cab26c3f926655ea48fce1c590844eb8f9390652331d1d0bc371900cbc5005010&token=339508922&lang=zh_CN&scene=21#wechat_redirect)
 
-[第110讲 假如冷战再一次降临，和上一次会有什么样的差别？](https://mp.weixin.qq.com/s?__biz=MzIyNjgzNTc0NQ==&mid=2247487005&idx=1&sn=f0754d023545bd1a62f20abc98cf2e38&chksm=e86b2253df1cab450ffd1d8c86fc64da9e9dc4d6e048dc7093a57e3f17b3164f8d44d261c60b&token=339508922&lang=zh_CN&scene=21#wechat_redirect)  
+[第110讲 假如冷战再一次降临，和上一次会有什么样的差别？](https://mp.weixin.qq.com/s?__biz=MzIyNjgzNTc0NQ==&mid=2247487005&idx=1&sn=f0754d023545bd1a62f20abc98cf2e38&chksm=e86b2253df1cab450ffd1d8c86fc64da9e9dc4d6e048dc7093a57e3f17b3164f8d44d261c60b&token=339508922&lang=zh_CN&scene=21#wechat_redirect)
 
 [第109讲：实力差距与临界点：对修昔底德陷阱的进一步探究之一](https://mp.weixin.qq.com/s?__biz=MzIyNjgzNTc0NQ==&mid=2247487020&idx=2&sn=98635f35cd1a199ccddb6f28f983e7e7&chksm=e86b2262df1cab743408dca539506afb7c2dfd4b08e8c94aa35411c20500c6626b83311acc65&token=339508922&lang=zh_CN&scene=21#wechat_redirect)
 
-[第108讲：中美关系：需要慎重对待的三个框架](https://mp.weixin.qq.com/s?__biz=MzIyNjgzNTc0NQ==&mid=2247486971&idx=1&sn=0515f81b9c6fca32cc722f8a1b636051&chksm=e86b21b5df1ca8a3772f8f465f2d453e35329f3f620416129714ca58a9f1cf9560671edb2c22&token=339508922&lang=zh_CN&scene=21#wechat_redirect)  
+[第108讲：中美关系：需要慎重对待的三个框架](https://mp.weixin.qq.com/s?__biz=MzIyNjgzNTc0NQ==&mid=2247486971&idx=1&sn=0515f81b9c6fca32cc722f8a1b636051&chksm=e86b21b5df1ca8a3772f8f465f2d453e35329f3f620416129714ca58a9f1cf9560671edb2c22&token=339508922&lang=zh_CN&scene=21#wechat_redirect)
 
 ![](https://i.loli.net/2019/08/30/NxEg342BRdzLYI1.png)
 
