@@ -1,6 +1,8 @@
 ## Terminus
 离银河中心最远的行星。
 
+反馈请前往 <https://2049bbs.xyz>
+
 ## 端点星计划是什么
 
 Terminus 端点星计划，是在 GitHub 开放平台搭建的一个站点，用于备份微信、微博等平台被删文章。防火墙外也有像 [中国数字时代](https://chinadigitaltimes.net/chinese/)、[GreatFire](https://zh.greatfire.org/)、[自由微博](https://freeweibo.com/)、[自由微信](https://freewechat.com/)、[墙与书](https://wallsandbooks.wordpress.com) 这样的网站做文章备份，但不便于墙内网络传播。
