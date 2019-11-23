@@ -2,8 +2,9 @@
 layout: post
 title: 农村与城市化的缓冲阀：中国的社会结构是倒丁字型吗？
 categories: Archive
+date: 2019-11-20
 tags: 社会结构
-feature_image: "https://i.loli.net/2019/11/23/Uqep39s18iZIzbu.jpg"
+image_feature: "https://i.loli.net/2019/11/23/Uqep39s18iZIzbu.jpg"
 description: 清华大学李强教授认为，当前中国社会结构是一种倒丁字型结构，其中构成倒丁字型结构底下一横的是巨大的农村社会阶层，而构成倒丁字型结构一竖的则更多是城市社会阶层。
 ---
 
