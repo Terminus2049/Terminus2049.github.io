@@ -1,0 +1,25 @@
+language: ruby
+rvm:
+  - 2.3.3
+
+script:
+  - gem install jekyll
+  - gem install bundle
+  - gem install jekyll-feed
+  - gem install jekyll-paginate
+  - gem install jekyll-seo-tag
+  - gem install jekyll-sitemap
+  - jekyll build
+
+after_script:
+  - cd _site
+  - echo "www.fmprc.gov.cn">CNAME
+  - git init
+  - git checkout master
+  - git add .
+  - git commit -m "Auto Sync"
+  - git push --force --quiet "https://${GH_TOKEN}@${GH_REF}" master:${P_BRANCH}
+
+branches:
+  only:
+    - master

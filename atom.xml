@@ -15,7 +15,7 @@ layout: null
    <email>terminus2049@protonmail.com</email>
  </author>
 
- {% for post in site.posts limit:20  %}
+ {% for post in site.posts %}
  <entry>
    <title>{{ post.title | xml_escape }}</title>
    <link href="{{ site.url }}{{ site.baseurl }}{{ post.url }}"/>
