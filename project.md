@@ -13,4 +13,4 @@ title: 端点星小项目
 |[ArchiveTeleBot](https://github.com/Terminus2049/ArchiveTeleBot)|网页存档和404检测 Telegram 机器人||
 |[1984bbs](https://github.com/Terminus2049/1984bbs)|1984BBS 存档镜像|[t/2384](https://2049bbs.xyz/t/2384)|
 |[NewBlogTools](https://github.com/Terminus2049/NewBlogTools)|整理独立博客/网站、具备公共备份功能的工具。||
-|[terminus-jekyll-template](https://github.com/Terminus2049/terminus-jekyll-template)|一分钟搭网站和博客||
+|[terminus-jekyll-template](https://github.com/TerminusBot/terminus-jekyll-template)|一分钟搭网站和博客||
