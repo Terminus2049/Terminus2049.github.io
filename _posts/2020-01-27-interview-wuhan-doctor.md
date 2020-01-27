@@ -8,7 +8,7 @@ image_feature: "https://i.loli.net/2020/01/27/Knmxbd1SJ3Rjh7a.png"
 description: 
 ---
 
-原文来自微信公号「深度对话」：~~[受训诫的武汉医生：11天后被病人传染住进隔离病房，之前群内言论被断章取义](https://mp.weixin.qq.com/s/YRIjgJ60NdIYVqUMiLgoRg)~~
+原文来自微信公号「北青深一度」：~~[受训诫的武汉医生：11天后被病人传染住进隔离病房，之前群内言论被断章取义](https://mp.weixin.qq.com/s/YRIjgJ60NdIYVqUMiLgoRg)~~
 
 记者/ 韩谦  January 27, 2020
 
