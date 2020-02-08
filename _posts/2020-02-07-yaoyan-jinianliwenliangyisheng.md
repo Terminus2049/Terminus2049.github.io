@@ -1,15 +1,8 @@
 ---
 title: 谣言——纪念李文亮医生
 date: 2020-02-07
-tags:
-    - 谣言
-    - 李文亮 
-    - 人民日报
-    - 武汉中心医院
-    - 伟大中国梦
-    - 随笔
-categories: 
-    随笔
+tags: 谣言
+categories: Archive
 image_feature: "https://www.jiyang00.cn/images/rumor.jpg"
 ---
 
@@ -29,9 +22,6 @@ image_feature: "https://www.jiyang00.cn/images/rumor.jpg"
 >我知道，我这篇“谣言”会埋没在众多“真正”的声音中，但是没有关系，李文亮告诉了我一句话。
 >
 >“一个健康的社会不该只有一种声音。”
-
-
-
 
 
 #### 【正文】
@@ -73,11 +63,6 @@ image_feature: "https://www.jiyang00.cn/images/rumor.jpg"
 
 “一个健康的社会不该只有一种声音。”
 
-
-
-
-
 二零二零年二月七日
 
-我的博客：
-~[谣言——纪念李文亮医生](https://www.jiyang00.cn/2020/02/01/rumor/#comments)~~
+我的博客：[谣言——纪念李文亮医生](https://www.jiyang00.cn/2020/02/01/rumor/#comments)
