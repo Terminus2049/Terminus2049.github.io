@@ -1,14 +1,14 @@
 ---
 title: 谣言——纪念李文亮医生
 date: 2020-02-07
-tags: 谣言
+tags: 李文亮
 categories: Archive
 image_feature: "https://www.jiyang00.cn/images/rumor.jpg"
 ---
 
 ---
 
-原文来自知乎已删~[谣言——纪念李文亮医生](https://zhuanlan.zhihu.com/p/105597048?utm_source=qq)~~
+原文来自知乎已删 ~~[谣言——纪念李文亮医生](https://zhuanlan.zhihu.com/p/105597048)~~
 
 ---
 
