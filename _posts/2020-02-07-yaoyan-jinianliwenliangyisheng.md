@@ -1,9 +1,11 @@
 ---
+layout: post
 title: 谣言——纪念李文亮医生
 date: 2020-02-07
 tags: 李文亮
 categories: Archive
 image_feature: "https://www.jiyang00.cn/images/rumor.jpg"
+description: 我知道，我这篇“谣言”会埋没在众多“真正”的声音中，但是没有关系，李文亮告诉了我一句话。“一个健康的社会不该只有一种声音。”
 ---
 
 ---
