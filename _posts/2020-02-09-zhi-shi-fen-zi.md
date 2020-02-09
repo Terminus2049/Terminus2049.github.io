@@ -4,6 +4,7 @@ title: 华中农大陈焕春：新型冠状病毒属于SARS冠状病毒是口误
 categories: Archive
 tags: 言论自由
 date: 2020-02-09
+image_feature: "https://i.loli.net/2020/02/10/MOboLZzk7pStVF1.jpg"
 description: 全网已删除
 ---
 
@@ -14,6 +15,7 @@ description: 全网已删除
 
 ●    ●    ●
 
+![](https://i.loli.net/2020/02/10/MOboLZzk7pStVF1.jpg)
 
 “分析发现，新型冠状病毒属于SARS冠状病毒。”2月9日晚，华中农业大学教授陈焕春在湖北省疫情防控工作新闻发布会关于病毒溯源的这一介绍令人吃惊。
 
