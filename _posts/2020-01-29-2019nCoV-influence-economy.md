@@ -3,7 +3,7 @@ layout: post
 title: 武汉肺炎对经济影响有多大？
 categories: Archive
 date: 2020-01-29
-tags: 武汉肺炎
+tags: 新冠肺炎
 image_feature: "https://i.loli.net/2020/01/30/9wW3e4loiqScvPk.jpg"
 description: 一个良性的经济增长循环，很有可能因为这次疫情所带来的经济短暂冻结，使得这心脏突然休克，进而打破良性增长，变成一个恶性循环。
 ---

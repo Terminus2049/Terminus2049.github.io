@@ -2,7 +2,7 @@
 layout: post
 title: 哈佛科学家预测新冠肺炎将全球大流行 美国还没做好准备 下个月至关重要
 categories: Archive
-tags: 武汉肺炎
+tags: 新冠肺炎
 image_feature: "https://i.loli.net/2020/02/14/9iQc1zHdhXOWDMJ.jpg"
 date: 2020-02-14
 description: "随着美国确诊第15例新冠肺炎，在香港、新加坡、日本等国家地区开始报告社区传播病例，越来越多的研究者担心，这场疾病可能发展为全球流行病，如果疫情真的在美国爆发，我们的医院和医疗体制或许并未做好准备。"

@@ -3,7 +3,7 @@ layout: post
 title: 中国红十字会的惊天黑幕
 categories: Archive
 date: 2020-01-31
-tags: 武汉肺炎
+tags: 新冠肺炎
 image_feature: ""
 description: 不是湖北红会烂，是整个红会都烂，整个政府都烂。
 ---

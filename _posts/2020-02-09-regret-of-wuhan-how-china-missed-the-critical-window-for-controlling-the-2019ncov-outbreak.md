@@ -3,7 +3,7 @@ layout: post
 title: 中国新闻周刊｜武汉之憾：黄金防控期是如何错过的？
 categories: Archive
 date: 2020-02-09
-tags: 武汉肺炎
+tags: 新冠肺炎
 image_feature: ""
 description: 如果我们能早一点采取措施，效果可能会更好。
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: 武汉患者实录：他们深夜绝望求助，无数家庭正在崩塌
 categories: Archive
-tags: 武汉肺炎
+tags: 新冠肺炎
 date: 2020-02-04
 image_feature: "https://i.loli.net/2020/02/04/rVuDdBAwgIbaPER.jpg"
 description: 这是武汉人最真实的绝望，每一个数字的增加，背后是一个家庭的崩塌。

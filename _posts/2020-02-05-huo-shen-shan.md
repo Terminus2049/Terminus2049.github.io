@@ -2,7 +2,7 @@
 layout: post
 title: 现场 |火神山开通：病床该留给谁？
 categories: Archive
-tags: 武汉肺炎
+tags: 新冠肺炎
 date: 2020-02-05
 image_feature: "https://i.loli.net/2020/02/05/NjK2LBxMAZX8HaU.jpg"
 description: 病床如何分配又是一个需要考量的问题，外面有着大量住不进院的患者，医务人员本身每天都有被感染的，病床应该给谁？一个病床的处置，在这里都对应着一条条眼巴巴渴求的生命，给谁，又不给谁呢？

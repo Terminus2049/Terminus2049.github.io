@@ -3,7 +3,7 @@ layout: post
 title: 我们在台北，我们纪念李文亮
 categories: Archive
 date: 2020-02-09
-tags: 武汉肺炎
+tags: 新冠肺炎
 image_feature: "https://assets.matters.news/embed/8917654a-adf1-49a8-8471-5fd8576b2df5.jpeg"
 description: 2月7日，台北飄著冷雨。我們臨時利用手中的材料在自由廣場搭建了靈台，紀念李文亮醫師。
 

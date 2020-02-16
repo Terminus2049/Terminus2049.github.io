@@ -2,7 +2,7 @@
 layout: post
 title: 统计数字之外的人：他们死于“普通肺炎”？ 
 categories: Archive
-tags: 武汉肺炎
+tags: 新冠肺炎
 date: 2020-02-02
 image_feature: "https://i.loli.net/2020/02/02/XwchHexNqE7P2Qj.jpg"
 description: 记住，这些都不是数字，而是真正的人。不幸的是，还有一些未被囊括进去的人，他们的生死故事都在统计之外。

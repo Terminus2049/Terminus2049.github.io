@@ -3,7 +3,7 @@ layout: post
 title: 抹不去的“我从武汉来”丨人间
 categories: Archive
 date: 2020-01-30
-tags: 武汉肺炎
+tags: 新冠肺炎
 image_feature: "https://i.loli.net/2020/01/31/dp3tmiKyouAwMRF.jpg"
 description: 我就是一个人回来的，也不会说武汉话，实在是有些哭笑不得。
 ---

@@ -3,7 +3,7 @@ layout: post
 title: 李承鹏 | 冷的冬，暖的歌，愿武汉人民早日坐在街头吃碗热干面
 categories: Archive
 date: 2020-01-30
-tags: 武汉肺炎
+tags: 新冠肺炎
 image_feature: "https://i.loli.net/2020/01/30/7BiLvbUhJzOucRQ.jpg"
 description: 每到灾难就看到一片感动，一排排蜡烛，一片片合什掌，不是不能感动，我也为医护人员和全国驰援感动，但你能不能动动脑子再感动，什么“看到白衣天使连防护服都没有就冲上去，我流下感动的泪”，可是白衣天使在病毒肆虐时连防护服都没有，你难道不应该感到愤怒？
 ---

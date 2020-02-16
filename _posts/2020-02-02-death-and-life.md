@@ -2,7 +2,7 @@
 layout: post
 title: 兽爷丨三个武汉家庭的生与死
 categories: Archive
-tags: 武汉肺炎
+tags: 新冠肺炎
 date: 2020-02-02
 image_feature: "https://i.loli.net/2020/02/02/7fZMijSKoFhGk58.jpg"
 description: 灾难并不是死了两万人这样一件事，而是死了一个人这件事，发生了两万次。

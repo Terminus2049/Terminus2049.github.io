@@ -3,7 +3,7 @@ layout: post
 title: 一名70岁疑似新冠肺炎患者之死
 categories: Archive
 date: 2020-02-12 14:09
-tags: 武汉肺炎
+tags: 新冠肺炎
 image_feature: "https://i.loli.net/2020/02/13/3C4PN7vqeVrKLgo.jpg"
 description: 2月10日下午，武汉市硚口区广电江湾新城小区内，一名70岁的疑似新冠肺炎患者梁某跳楼身亡。
 ---

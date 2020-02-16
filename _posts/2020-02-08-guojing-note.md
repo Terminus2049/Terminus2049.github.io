@@ -3,7 +3,7 @@ layout: post
 title: 我们是彼此在黑暗中的光|郭晶的武汉封城日记|2/5-2/8
 categories: Archive
 date: 2020-02-08
-tags: 武汉肺炎
+tags: 新冠肺炎
 image_feature: "https://archive.li/Ts8Ln/6e09c3c8642060bd30a5dceff86ef0de09acccea.webp"
 description: 一位社工的武汉封城日记。
 ---

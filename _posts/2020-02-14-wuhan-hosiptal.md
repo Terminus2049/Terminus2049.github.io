@@ -2,7 +2,7 @@
 layout: post
 title: 武汉广发肿瘤医院被临时征用，家属口述癌症患者被强制出院后的遭遇
 categories: Archive
-tags: 武汉肺炎
+tags: 新冠肺炎
 image_feature: ""
 date: 2020-02-14
 description: 对癌症晚期病人而言，“临时征用”的后果是被强制出院，没有药物，无法输液，只能回家

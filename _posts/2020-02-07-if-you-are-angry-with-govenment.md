@@ -2,7 +2,7 @@
 layout: post
 title: 如果有人觉得祖国不好
 categories: Archive
-tags: 武汉肺炎
+tags: 新冠肺炎
 date: 2020-02-07
 image_feature: "https://i.loli.net/2020/02/08/senXTboyuLxGN1m.jpg"
 description: 这套话术的精妙之处在于，把你原本无权插手的事务当作你的义务，从而把你对任何事情的不满和愤怒转化为你自己的无能。

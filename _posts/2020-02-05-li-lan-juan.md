@@ -2,7 +2,7 @@
 layout: post
 title: 李兰娟院士重磅推荐新药为其儿子名下公司出品，只经过体外细胞初步测试
 categories: Archive
-tags: 武汉肺炎
+tags: 新冠肺炎
 date: 2020-02-05
 image_feature: "https://i.loli.net/2020/02/05/5TwbiAqKL3P7ZFQ.jpg"
 description: 天眼查企业信息查询显示，杭州华卓公司董事长为郑杰，李兰娟为董事。

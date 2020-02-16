@@ -2,7 +2,7 @@
 layout: post
 title: 黄建军市长，现在不是自我表扬的时候
 categories: Archive
-tags: 武汉肺炎
+tags: 新冠肺炎
 date: 2020-02-07
 description: 这种好大喜功、把丧事当成喜事办的官员，还要在台上丢人献丑搞到什么时候？
 ---

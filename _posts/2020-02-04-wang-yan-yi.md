@@ -2,7 +2,7 @@
 layout: post
 title: 从武H美女病毒所所长，说一说“裙带关系”！
 categories: Archive
-tags: 武汉肺炎
+tags: 新冠肺炎
 date: 2020-02-04
 image_feature: "https://i.loli.net/2020/02/04/Ncb5k9KPuBfMeH2.jpg"
 description: 其实，我们的国家不是没有钱，在科研的投入上，是仅次于美国的第二大国。

@@ -2,7 +2,7 @@
 layout: post
 title: 被声讨的“晋江毒王”：感到很抱歉，可我没撒谎 | 深度报道​
 categories: Archive
-tags: 武汉肺炎
+tags: 新冠肺炎
 date: 2020-02-09
 image_feature: "https://i.loli.net/2020/02/09/R9joHSTpmDlrgXK.jpg"
 description: 刘婷回应称，回乡前，武汉看起来“一切正常”，很少有人戴口罩，人们正常逛街、购物。接触到的有限信息让他们对疫情没有一个清楚的判断，刘婷甚至听说，有人传谣被抓，“我们以为就只是单纯的肺炎，没放心上”，刘婷说。

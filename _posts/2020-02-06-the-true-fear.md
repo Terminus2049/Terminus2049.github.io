@@ -2,7 +2,7 @@
 layout: post
 title: 比病毒更可怕的
 categories: Archive
-tags: 武汉肺炎
+tags: 新冠肺炎
 date: 2020-02-06
 image_feature: "https://i.loli.net/2020/02/07/qE6FurktlhD4jPw.jpg"
 description: 但她不会想到，长大后，会因为湖北人这个身份标签，受到更大的伤害。
