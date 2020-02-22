@@ -1,6 +1,8 @@
 ## Terminus
 离银河中心最远的行星。
 
+GitHub：<https://github.com/Terminus2049/Terminus2049.github.io>
+
 本仓库存放被删文章，博客模版请前往 [terminus-jekyll-template](https://github.com/TerminusBot/terminus-jekyll-template)
 
 反馈请前往 <https://2049bbs.xyz>
@@ -24,14 +26,8 @@ Terminus 端点星计划，是在 GitHub 开放平台搭建的一个站点，用
 * <https://wxdeletedarticle.github.io/Terminus/> （自动更新）
 * <https://nyanpasu-poi.github.io/Terminus/>（自动更新）
 * <https://terminus2049-isupportyou.github.io/Terminus/> （自动更新）
-* <https://qiaoqi945.github.io/Terminus/> （自动更新失败）
+* <https://qiaoqi945.github.io/Terminus/> （自动更新）
 * <https://seawolfmao.github.io/Terminus/> （自动更新，推荐）
-* <https://leafflew.github.io/Terminus/> （自动更新，已被墙）
-* <https://no404more.github.io/Terminus/> （自动更新，已被墙）
-* <https://scisheiko.github.io/Terminus/> （自动更新，已被墙）
-* <https://weiweishe.github.io/Terminus/> （自动更新，已被墙）
-* <https://terminus2049.gear.host/> （自动更新，已被墙）
-* <https://T-mirror.github.io/> （自动更新，已被墙）
 * <https://terminus2049.gitlab.io/> （自动更新，已被墙）
 
 ## 本地预览
