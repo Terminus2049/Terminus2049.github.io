@@ -4,7 +4,7 @@ title: 来自前线医生的声音：请国际同行支援我们
 categories: Archive
 date: 2020-02-26 15:57
 tags: 新冠肺炎
-image_feature: "ttps://i.loli.net/2020/02/26/2aTHeNsEVvMkpPO.jpg"
+image_feature: "https://i.loli.net/2020/02/26/2aTHeNsEVvMkpPO.jpg"
 description: 2月17日，一篇发表在《中华流行病学杂志》上的论文显示，医务人员感染新冠病毒病例达到3019例，1716人为确诊病例。此后官方确诊数据上升到了2000多人。
 ---
 
