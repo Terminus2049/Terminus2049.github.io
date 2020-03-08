@@ -8,7 +8,7 @@ image_feature: "https://i.loli.net/2020/03/09/4MzEeJKkvIf8F35.jpg"
 description: 她是全国最早一批因疫情去世的医务人员，她曾把疑问抛给我们，如今，她的死，又给我们留下疑问。
 ---
 
-原文来自公号「偶尔治愈」：~~[误诊、没有床位、一家五口被感染 | 湖北女医生罗轩的生前身后](https://mp.weixin.qq.com/s/-k1pz8N9jvmaLpLnvMbfXw)~~
+原文来自公号「偶尔治愈」：~~[误诊、没有床位、一家五口被感染 \| 湖北女医生罗轩的生前身后](https://mp.weixin.qq.com/s/-k1pz8N9jvmaLpLnvMbfXw)~~
 
 作者：郑宇钧 杨媛
 
