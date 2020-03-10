@@ -1,10 +1,10 @@
  ---
  layout: post
- title:  发哨子的人
- date:   2020-03-10
+ title: 发哨子的人
+ date: 2020-03-10
  categories: Archive
  tags: 新冠肺炎
- image_feature: ""
+ image_feature: "https://i.loli.net/2020/03/10/mv2whpJHiLnUjzN.jpg"
  description: 这是《人物》3 月刊封面《武汉医生》的第二篇报道。
  ---
 
